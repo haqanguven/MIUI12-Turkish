@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="agenda_more_events">
+        <item quantity="other">%d daha fazla etkinlik</item>
+        <item quantity="one">%d daha fazla etkinlik</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">%d saat içinde</item>
+        <item quantity="one">%d saat içinde</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="toolkit_security_scan_duaration">
+        <item quantity="other">%d gündür güvenlik taraması yapılmadı</item>
+        <item quantity="one">%d gündür güvenlik taraması yapılmadı</item>
+    </plurals>
+</resources>
