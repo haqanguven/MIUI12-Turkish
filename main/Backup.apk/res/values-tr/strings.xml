@@ -290,7 +290,7 @@ http://www.miliao.com
     <string name="local_main_encrypt_backup_title">Yedekleri şifrele</string>
     <string name="local_main_latest_backup_time_loading">Yükleniyor</string>
     <string name="local_no_backup">Yedek yok</string>
-    <string name="local_no_backup_data">Burada henüz yedek yok</string>
+    <string name="local_no_backup_data">Henüz yedek yok</string>
     <string name="local_restore_select_activity">Yedekleri yönet</string>
     <string name="local_restore_select_data_activity">Bir yedekten geri yükle</string>
     <string name="local_restore_window_title">Yerel geri yükleme</string>
@@ -336,18 +336,18 @@ http://www.miliao.com
     <string name="new_local_detail_description">"Not:
 %1$d. Veri kaybını önlemek için yedeklemeleri bilgisayarınıza kopyalayın. %2$s
 %3$d. Yedeklemeler MIUI-Backup-AllBackup klasörüne kaydedilir"</string>
-    <string name="new_local_tab_backup">Mobil cihaza yedekle</string>
-    <string name="new_local_tab_restore">Mobil cihazdan geri yükle</string>
+    <string name="new_local_tab_backup">Mobil cihazı yedekle</string>
+    <string name="new_local_tab_restore">Mobil cihazı geri yükle</string>
     <string name="new_low_storage_title">Yeterli depolama alanı yok</string>
     <string name="new_more_settings_label">Ek ayarlar</string>
-    <string name="new_pc_backup_content1">%1$d. %2$s aç</string>
+    <string name="new_pc_backup_content1">"%1$d. %2$s'ı aç"</string>
     <string name="new_pc_backup_content2">%d. Tüm öğeler yedeklenene kadar bekleyin</string>
     <string name="new_pc_backup_content3">%d. MIUI-Backup-AllBackup klasöründe yedeklemeyi bulun</string>
     <string name="new_pc_backup_content4">%d. Dosyayı bilgisayarınıza kopyalayın</string>
     <string name="new_pc_backup_restore_link">Mobil cihaz</string>
     <string name="new_pc_backup_summary1">Öğeleri seçin ve yedekle düğmesine dokunun</string>
     <string name="new_pc_backup_summary2">Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
-    <string name="new_pc_backup_summary4">Not: MIUI-DCIM klasöründen fotoğraf ve video da kopyalayabilirsiniz</string>
+    <string name="new_pc_backup_summary4">Not: MIUI-DCIM klasöründen fotoğrafları ve videolarıda kopyalayabilirsiniz</string>
     <string name="new_pc_restore_content1">%d. Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
     <string name="new_pc_restore_content2">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup klasörüne kopyalayın</string>
     <string name="new_pc_restore_content3">%1$d. %2$s dosyasını açın ve geri yüklenecek öğeleri seçin</string>

@@ -4,6 +4,10 @@
         <item quantity="other">%d daha fazla etkinlik</item>
         <item quantity="one">%d daha fazla etkinlik</item>
     </plurals>
+    <plurals name="booking_card_has_selectd">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
     <plurals name="sms_hour_suffix">
         <item quantity="other">%d saat içinde</item>
         <item quantity="one">%d saat içinde</item>

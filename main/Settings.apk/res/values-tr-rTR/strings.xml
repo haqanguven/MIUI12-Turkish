@@ -558,11 +558,11 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="auto_brightness_very_low_title">Çok düşük</string>
     <string name="auto_caps">Otomatik büyük harf yap</string>
     <string name="auto_caps_summary">Cümlelerin ilk harfini büyük yap</string>
-    <string name="auto_clean_description">"Bu özellik hakkında
-1. Hoparlörünüzün tozla hafifçe tıkandığını fark ederseniz bu özelliği bir veya iki kez çalıştırın
+    <string name="auto_clean_description">"Hakkında
+1. Hoparlörünüzün hafif tozla tıkandığını fark ederseniz bu özelliği bir veya iki kez çalıştırın
 2. Hoparlör aşırı derecede engellenirse cihazınızı hoparlör aşağı bakacak şekilde sallarken bu özelliği 2-5 kez çalıştırın"</string>
-    <string name="auto_clean_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalın</string>
-    <string name="auto_clean_title">Hoparlörü temizle</string>
+    <string name="auto_clean_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalınır</string>
+    <string name="auto_clean_title">Hoparlör temizleyici</string>
     <string name="auto_disable_screenbuttons_ask">Devre dışı bırakmak için sor</string>
     <string name="auto_disable_screenbuttons_auto">Her zaman devre dışı bırak</string>
     <string name="auto_disable_screenbuttons_cancel">İptal et</string>
@@ -2359,7 +2359,7 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="face_data_input_title">Yüz verisi ekle</string>
     <string name="face_data_introduction_msg">Yüz verileri cihazınızın kilidini açmak veya kimliğinizi doğrulamak için kullanılabilir. Yüz verilerinizi eklemeden önce kilit ekranı şifresi ekleyin</string>
     <string name="face_data_introduction_next">Sonraki</string>
-    <string name="face_data_introduction_title">Yüz tanıma</string>
+    <string name="face_data_introduction_title">Yüz verisi</string>
     <string name="face_data_manage_delete">Yüz verileri silinsin mi?</string>
     <string name="face_data_manage_delete_msg">Yüz verilerini sil</string>
     <string name="face_data_manage_delete_sure">Sildikten sonra yüz verilerinizi kullanarak cihazın kilidini açamazsınız</string>
@@ -2369,18 +2369,18 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="face_data_manage_unlock_title">Yüz verilerini kullanarak kilidi aç</string>
     <string name="face_data_siggesstion_next">Sonraki</string>
     <string name="face_data_siggesstion_next_time">Sonraki (%d saniye)</string>
-    <string name="face_data_suggesstion_first">Güvenlik sorunları: Yüz tanıma kilidi Pin, şifre veya kalıptan daha az güvenlidir. Cihazınızın kilidi fotoğrafınızın yanı sıra benzer görünüme sahip kişiler veya nesneler tarafından açılmış olabilir</string>
+    <string name="face_data_suggesstion_first">Güvenlik sorunları: Yüz verisi kilidi Pin, şifre veya kalıptan daha az güvenlidir. Cihazınızın kilidi fotoğrafınızın yanı sıra benzer görünüme sahip kişiler veya nesneler tarafından açılmış olabilir</string>
     <string name="face_data_suggesstion_second">Yüzünüzün tüm bölümlerinin nesnelerle kaplı olmadığından ve açıkça görülebildiğinden emin olun. Yüzünüz de iyi aydınlatılmış olmalıdır</string>
-    <string name="face_unlock">Yüz tanıma kilidi</string>
+    <string name="face_unlock">Yüz veri kilidi</string>
     <string name="face_unlock_be_on_the_screen">Cihazı yüzünüzün önünde tutun</string>
     <string name="face_unlock_by_notification_screen_on_msg">Ekran gelen bildirimler için her aydınlandığında yüz verilerini kullanarak cihazın kilidini açabilirsiniz. Bu pili daha hızlı boşaltabilir</string>
     <string name="face_unlock_by_notification_screen_on_title">Ekran yandığında yüz kilidinin açılmasına izin ver</string>
     <string name="face_unlock_category_title">Kilit ekranı seçenekleri</string>
     <string name="face_unlock_check_failed">Tanınamadınız</string>
     <string name="face_unlock_close_screen">Ekrana yaklaşın</string>
-    <string name="face_unlock_disable">Yüz tanıma özelliği kapalı</string>
+    <string name="face_unlock_disable">Yüz veri özelliği kapalı</string>
     <string name="face_unlock_down">Başınızı kaldırın</string>
-    <string name="face_unlock_enable">Yüz tanıma özelliği açık</string>
+    <string name="face_unlock_enable">Yüz veri özelliği açık</string>
     <string name="face_unlock_not_found">Tanınamadınız</string>
     <string name="face_unlock_offset_bottom">Telefonunuzu biraz indirin</string>
     <string name="face_unlock_offset_left">Sağa gidin</string>
@@ -2399,7 +2399,7 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="face_unlock_success_show_message_dialog_negative_btn">Hayır</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">İzin ver</string>
     <string name="face_unlock_success_show_message_dialog_title">Kilit ekranı bildirimleri</string>
-    <string name="face_unlock_success_show_message_msg">Yalnızca cihaz kilitliyken bildirim kaynağını göster ve yüz verileri doğrulandıktan sonra bildirim ayrıntılarını ekle</string>
+    <string name="face_unlock_success_show_message_msg">Yalnızca cihaz kilitliyken bildirim kaynağını göster ve yüz verisi doğrulandıktan sonra bildirim ayrıntılarını ekle</string>
     <string name="face_unlock_success_show_message_title">Yüz verilerini doğruladıktan sonra bildirim ayrıntılarını göster</string>
     <string name="face_unlock_success_show_message_toast">Bildirimler kilit ekranında gösterilecektir</string>
     <string name="face_unlock_success_stay_screen_msg">Yüzünüz doğrulandıktan sonra kilit ekranında kalın. Ana ekranı açmak için yukarı kaydırın</string>
@@ -3258,10 +3258,10 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="location_on_summary">Açık</string>
     <string name="location_recent_location_requests_see_all">Tümünü göster</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Uygulamaların ve hizmetlerin etrafınızdaki cihazları Bluetooth kapalıyken bile her zaman taramasına izin verin. Bu özellik konuma dayalı özellikleri ve hizmetleri iyileştirmek için kullanılabilir</string>
-    <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth taraması</string>
+    <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth tarama</string>
     <string name="location_scanning_screen_title">Tarama</string>
     <string name="location_scanning_wifi_always_scanning_description">Uygulamaların ve hizmetlerin kablosuz ağları kablosuz özelliği kapalıyken bile her zaman taramasına izin verin. Bu özellik konuma dayalı özellikleri ve hizmetleri iyileştirmek için kullanılabilir</string>
-    <string name="location_scanning_wifi_always_scanning_title">Kablosuz taraması</string>
+    <string name="location_scanning_wifi_always_scanning_title">Kablosuz tarama</string>
     <string name="location_settings_master_switch_title">Konumu kullan</string>
     <string name="location_settings_title">Konum</string>
     <string name="location_sources_heading">Konum kaynakları</string>
@@ -5081,7 +5081,7 @@ Ekran sabitlemeyi kullanmak için:
     <string name="search_accessibility_screen_magnification_title">Büyültme hareketleri;Büyültme</string>
     <string name="search_accessibility_settings">Erişilebilirlik</string>
     <string name="search_account_list">Diğer hesaplar;Hesap;Hesaplar</string>
-    <string name="search_add_facerecoginition_text">Yüz ile kilit açma;Yüz tanıma</string>
+    <string name="search_add_facerecoginition_text">Yüz ile kilit açma;Yüz veri</string>
     <string name="search_advanced_settings">Gelişmiş ayarlar;Wifi;Wifi ayarları;Wifi ayarları</string>
     <string name="search_airplane_mode">Uçak modu;Uçak modu;Uçuş modu;Uçak;Uçak;Uçuş</string>
     <string name="search_alarm_sound_title">Alarm sesi;alarm zil sesi;alarm</string>
@@ -5151,7 +5151,7 @@ Ekran sabitlemeyi kullanmak için:
     <string name="search_lock_settings">Kilit ekranı &amp; şifre;Bluetooth kilit açma;şifre;Bluetooth cihazı ile kilit aç</string>
     <string name="search_lock_sounds_enable_title">Ekran kilit sesi;Ekran kilit sesini aç</string>
     <string name="search_manage_device_admin">Cihaz yöneticileri;Admin;Yönetici</string>
-    <string name="search_manage_facerecoginition_text">Yüz ile kilit açma;Yüz tanıma</string>
+    <string name="search_manage_facerecoginition_text">Yüz ile kilit açma;Yüz veri</string>
     <string name="search_manage_notification_access_title">Bildirim erişimi;Bildirimler;Bildirim izinleri</string>
     <string name="search_master_clear_title">Fabrika ayarlarına geri dön</string>
     <string name="search_menu">Ayarlarda arayın</string>
@@ -5684,7 +5684,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin"</string>
     <string name="sound_vibrate_settings">Ses &amp; titreşim</string>
     <string name="sound_work_settings">İş profili sesleri</string>
     <string name="speaker">Hoparlör</string>
-    <string name="speaker_clean">Hoparlörü temizle</string>
+    <string name="speaker_clean">Hoparlör temizleyici</string>
     <string name="special_access">Özel uygulama erişimi</string>
     <string name="speed_label_fast">Hızlı</string>
     <string name="speed_label_medium">Orta</string>
@@ -5955,7 +5955,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="strict_mode">Katı mod</string>
     <string name="strict_mode_summary">Uygulamalar ana iş öğesinde uzun işlemler yaptığında ekranı yükler</string>
     <string name="structure_add_facerecoginition_text">3D yüz verisi ekle</string>
-    <string name="structure_face_data_delete_fail">3B yüz verileri silinemedi. Tekrar deneyin</string>
+    <string name="structure_face_data_delete_fail">3B yüz verisi silinemedi. Tekrar deneyin</string>
     <string name="structure_face_data_input_down">Başınızı indirin</string>
     <string name="structure_face_data_input_error_away_screen">Telefonu yüzünüzden biraz daha uzaklaştırın</string>
     <string name="structure_face_data_input_error_expose_features">Yüzünüzün bazı kısımları gözükmüyor</string>
@@ -5967,8 +5967,8 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="structure_face_data_input_timeout_title">Tekrar dene</string>
     <string name="structure_face_data_input_up">Yukarı bakın</string>
     <string name="structure_face_data_introduction_back">Geri</string>
-    <string name="structure_face_data_introduction_msg">3D yüz verileri cihazınızın kilidini açmanıza ve kimliğinizi doğrulamanıza olanak tanır. Bu özelliği kullanmadan önce bir şifre belirlemelisiniz</string>
-    <string name="structure_face_data_introduction_title">3B yüz verileri ekle</string>
+    <string name="structure_face_data_introduction_msg">3D yüz verisi cihazınızın kilidini açmanıza ve kimliğinizi doğrulamanıza olanak tanır. Bu özelliği kullanmadan önce bir şifre belirlemelisiniz</string>
+    <string name="structure_face_data_introduction_title">3B yüz verisi ekle</string>
     <string name="structure_face_data_ir_input_face">Kafanızı hafifçe hareket ettirin</string>
     <string name="structure_face_data_manage_delete_msg">3B yüz verilerini sil</string>
     <string name="structure_face_data_suggestion_text">Yüzünüzün tüm bölümlerinin açıkça görülebildiğinden emin olun. 3B yüz verilerini kaydederken yüzünüzü kaplayabilecek şapka, güneş gözlüğü veya diğer aksesuarları takmayın. Yüzünüzün de eşit şekilde yandığından emin olun</string>
@@ -5982,20 +5982,20 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="structure_face_hardware_abnormal_msg">"Bir donanım hatası oluştu. Cihazınızı yeniden başlatın. Bu işe yaramazsa yardım almak için 400–100–5678'i arayın"</string>
     <string name="structure_face_hardware_abnormal_title">Donanım hatası</string>
     <string name="structure_face_modules_abnormal_btn">Yeniden başlat</string>
-    <string name="structure_face_modules_abnormal_msg">Optik modül hatası nedeniyle yüz verileri kaydedilemiyor. Cihazınızı yeniden başlatın ve tekrar deneyin</string>
+    <string name="structure_face_modules_abnormal_msg">Optik modül hatası nedeniyle yüz verisi kaydedilemiyor. Cihazınızı yeniden başlatın ve tekrar deneyin</string>
     <string name="structure_face_modules_abnormal_title">Optik modül hatası</string>
-    <string name="structure_face_unlock_model2d_dialog_msg">3D tanıma kapatılacak. 3D yüz verileriniz silinecek. Ayrıca 2D yüz verilerinizi de eklemeniz gerekir. 2D tanıma açılsın mı?</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">3D verisi kapatılacak. 3D yüz verileriniz silinecek. Ayrıca 2D yüz verilerinizi de eklemeniz gerekir. 2D verisi açılsın mı?</string>
     <string name="structure_face_unlock_model2d_dialog_title">2D tanımayı aç</string>
-    <string name="structure_face_unlock_model3d_dialog_msg">2B tanıma kapatılacak. 2B yüz verileriniz silinecek. 3D yüz verilerinizi de eklemeniz gerekir. 3D tanıma açılsın mı?</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">2B verisi kapatılacak. 2B yüz verileriniz silinecek. 3D yüz verilerinizi de eklemeniz gerekir. 3D verisi açılsın mı?</string>
     <string name="structure_face_unlock_model3d_dialog_title">3D tanımayı aç</string>
     <string name="structure_face_unlock_model_dialog_enable">Aç</string>
     <string name="structure_face_unlock_model_dialog_notenable">Hayır</string>
     <string name="structure_face_unlock_model_other">Diğer</string>
-    <string name="structure_face_unlock_model_other_msg_2d">2D tanıma</string>
-    <string name="structure_face_unlock_model_other_msg_3d">3D tanıma</string>
-    <string name="structure_face_unlock_model_other_suggestion_2d">2B yüz tanıma desen, Pin veya şifreden daha az güvenlidir. Bu özellik açıkken cihazınızın kilidi fotoğrafınızın yanı sıra size benzeyen kişiler veya nesneler tarafından açılabilir</string>
-    <string name="structure_face_unlock_model_other_suggestion_3d">3D yüz tanıma nispeten güvenlidir. Bu özellik açıkken cihazınızın fotoğrafınızla kilidinin açılması pek olası değildir. Ancak size benzeyen insanlar veya nesneler tarafından açılmış olabilir</string>
-    <string name="structure_face_unlock_model_other_title">Yüz tanıma</string>
+    <string name="structure_face_unlock_model_other_msg_2d">2D verisi</string>
+    <string name="structure_face_unlock_model_other_msg_3d">3D verisi</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">2B yüz verisi desen, Pin veya şifreden daha az güvenlidir. Bu özellik açıkken cihazınızın kilidi fotoğrafınızın yanı sıra size benzeyen kişiler veya nesneler tarafından açılabilir</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">3D yüz verisi nispeten güvenlidir. Bu özellik açıkken cihazınızın fotoğrafınızla kilidinin açılması pek olası değildir. Ancak size benzeyen insanlar veya nesneler tarafından açılmış olabilir</string>
+    <string name="structure_face_unlock_model_other_title">Yüz verisi</string>
     <string name="structure_face_unlock_not_same_person">Tüm adımları kendiniz tamamlamanız gerekiyor. Kimseyle yer değiştirmeyin</string>
     <string name="structure_face_unlock_tof_covered">Yüz verileri eklenemedi. Ekrandan uzaklaşın</string>
     <string name="structure_manage_facerecoginition_text">3D yüz verilerini yönet</string>
@@ -6245,9 +6245,9 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="turn_off_keyguard_password_confirm_msg">Bazı güvenlik özellikleri şifreniz olmadan çalışmayacaktır</string>
     <string name="turn_off_keyguard_password_title">Ekran kilidini kapat</string>
     <string name="turn_off_keyguard_password_wait_dialog">Şifre kapatılıyor</string>
-    <string name="turn_off_keyguard_password_with_face_confirm_msg">Kilit ekranı şifresini kapattıktan sonra kayıtlı yüz verileri silinecektir. Cihaz kilidini yüz tanımayı kullanarak açamayacaksınız</string>
+    <string name="turn_off_keyguard_password_with_face_confirm_msg">Kilit ekranı şifresini kapattıktan sonra kayıtlı yüz verisi silinecektir. Cihaz kilidini yüz verisini kullanarak açamayacaksınız</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Şifreyi devre dışı bıraktıktan sonra cihazınızın kilidini parmak izinizi kullanarak açamayacaksınız</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Kilit ekranı şifresini kapattıktan sonra kayıtlı parmak izleri ve yüz verileri silinecektir. Cihaz kilidini parmak izinizi veya yüz tanımayı kullanarak açamayacaksınız</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Kilit ekranı şifresini kapattıktan sonra kayıtlı parmak izleri ve yüz verisi silinecektir. Cihaz kilidini parmak izinizi veya yüz verisini kullanarak açamayacaksınız</string>
     <string name="turn_off_security_lock">Kilidi devre dışı bırak</string>
     <string name="turn_on_keyguard_password">Kilit ekranı şifresini aç</string>
     <string name="turn_on_keyguard_password_alert">Şifrenizi hatırlayın. Şifrenizi unutursanız şifrenizi sıfırlayamazsınız</string>
@@ -6323,7 +6323,7 @@ Kaydedilmiş dijital parmak iziniz de bu profilden kaldırılacak ve profilinizi
     <string name="unlock_set_enter_system">Kilit ekranını atla</string>
     <string name="unlock_set_enter_system_summary">Uyku modundan sonra doğrudan ana ekrana gider</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Düşük güvenlikli deneysel özellik</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Yüz tanıma</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Yüz verisi</string>
     <string name="unlock_set_unlock_disabled_summary">Yönetici şifreleme politikası veya kimlik bilgileri deposu tarafından devre dışı bırakıldı</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Desen, Pin veya şifre ile kilit açmayı kapatın veya değiştirin</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Ekran kilidini değiştir</string>
