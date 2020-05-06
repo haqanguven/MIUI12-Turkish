@@ -49,7 +49,7 @@
     <string name="cloud_find_device_on">Aç</string>
     <string name="cloud_lab_title">Laboratuvar</string>
     <string name="cloud_storage_already_full">Bulut depolama alanı dolu: %1$s/%2$s</string>
-    <string name="cloud_storage_already_used">Meşgul: %1$s/%2$s</string>
+    <string name="cloud_storage_already_used">Kullanılan: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Bulut depolama</string>
     <string name="cloud_storage_info_type_drive">Xiaomi sürücü</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
