@@ -47,6 +47,7 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="abcdef">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoA6UHJ2rwJLYQwv7lF0I5jWMbA1rFYC7MkZ/t9Cll+P5eC6FXi0vNZtOLRKEToQeIx0kY180qd8uShem+bnI74ogq+JvPOpQ+O663nr7ZiSTqEKxXFXYO0m1Y8C6hLKH0QkfmQC0HDi60R7xz3vIOholMw5GGbEi9ocmI5q94/sB5ry9VZACKEOPwsKQg/rjE5VIwUkSHJJDGShcvqwwQqGZXV+rBJKB3yJ5zHqKEqK94j/7aY20cGt1hwRGuUXTWoeREwqAhSMnVJFEXcFJvtX07hb4L86WONsLUHSUuoQ4p0IKOvOcfQwVctXRs1iwNLomG8M0P0Nyc3v8lFpK7QIDAQAB</string>
     <string name="about_scree_check_update_title">Güncellemeleri kontrol et</string>
     <string name="about_scree_latest_version">Mevcut sürüm güncel</string>
     <string name="accessibility_title">Uygulama çekmecesi</string>
@@ -73,6 +74,7 @@
     <string name="agenda_settings_horoscope">Burçlar</string>
     <string name="agenda_settings_panchang">Panchang</string>
     <string name="all_function_title">Tüm kısayollar</string>
+    <string name="analytics_version_name">2.8.18</string>
     <string name="app_label">Uygulama çekmecesi</string>
     <string name="app_lock">Uygulama kilidi</string>
     <string name="app_name">SdkCommon</string>

@@ -304,7 +304,7 @@
     <string name="apn_settings_not_available">Erişim noktası adı ayarları bu kullanıcı için kullanılamıyor</string>
     <string name="app_info">Uygulama bilgisi</string>
     <string name="app_label">Sistem arayüzü</string>
-    <string name="app_name">Keyguard</string>
+    <string name="app_name">Tuş kilidi</string>
     <string name="app_process_limit_title">Arka plan işlem sınırı</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="as_important">Önemli</string>

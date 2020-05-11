@@ -226,6 +226,7 @@
     <string name="heavenly_stems_wu">5</string>
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
+    <string name="high_fps_description">Yüksek ekran yenileme hızı. Daha yüksek güç tüketimi</string>
     <string name="hsv_space_color">HSV renk alanı</string>
     <string name="hsv_space_color_hue">Renk</string>
     <string name="hsv_space_color_saturation">Doygunluk</string>
@@ -234,6 +235,7 @@
     <string name="intelligent_recognition_item_title">Hizmetleri tanımla</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">Gizliliğinizin kapsamlı korunması</string>
+    <string name="low_fps_description">Düşük ekran yenileme hızı. Düşük güç tüketimi</string>
     <string name="low_light_preview">Düşük ışık önizleme</string>
     <string name="midnight">Gece</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
@@ -338,6 +340,7 @@
     <string name="search_menu_title">Ara</string>
     <string name="several_days_use_time">Ekran zamanı: %2$s</string>
     <string name="shortcut_created">Kısayol oluşturuldu</string>
+    <string name="silent_ringtone_hint">Ses şimdi susturuldu. Sesi açın ve tekrar deneyin</string>
     <string name="sim_slot_1"> (Sim 1)</string>
     <string name="sim_slot_2"> (Sim 2)</string>
     <string name="sms_delivered_sound_title">İletilen mesaj</string>
@@ -507,8 +510,12 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_home_premission_second_summary_double_link_prefix">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı vede yüklemeyi kabul etmezseniz bu uygulamayı kullanamazsınız. Yetkilendirmenizi Ekran süresi > Ayarlar > Ekran saatini kapat seçeneklerinden iptal edebilirsiniz</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Bu uygulamayı kullanmadan önce <a href="'%1s'">Kullanıcı sözleşmesi</a> ve <a href="'%2s'">Gizlilik politikasını</a> okuyun ve kabul edin"</string>
     <string name="usage_home_premission_second_summary_new">Kişisel bilgilerinizi korumak için ilgili yasa ve yönetmeliklere ve gizlilik politikalarına kesinlikle uyacağız. Yukarıdaki gerekli izinleri veya işlevleri kabul etmiyorsanız bu uygulama düzgün çalışmayacaktır. Ekran zaman yönetimi > Ayarlar > Ekran zaman yönetimini devre dışı bırakma izninizi veya gizlilikle ilgili diğer hususları geri almak için bizimle privacy@xiaomi.com adresinden iletişime geçebilirsiniz</string>
+    <string name="usage_new_home_app_limit_summary">Bu uygulama için günlük bir ekran süresi sınırı belirleyin</string>
+    <string name="usage_new_home_app_limit_title">Ekran süresini sınırla</string>
     <string name="usage_new_home_average">"Ortalama "</string>
+    <string name="usage_new_home_avg_usage_day">Ortalama %s günlük</string>
     <string name="usage_new_home_category">Kategori</string>
+    <string name="usage_new_home_classify_manage">Uygulama kategorilerini yönetin</string>
     <string name="usage_new_home_compare_text1">%.2f önceki günden daha fazla</string>
     <string name="usage_new_home_compare_text2">%.2f önceki günden daha az</string>
     <string name="usage_new_home_compare_text3">Önceki günle aynı</string>
@@ -522,9 +529,11 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_new_home_name">Ad</string>
     <string name="usage_new_home_show_more_data_summary">Tek tek uygulamalar için ekran süresini de sınırlayabilirsiniz</string>
     <string name="usage_new_home_show_more_data_title">Daha fazla istatistik görüntüle</string>
+    <string name="usage_new_home_sys_no_limit_summary">Sistem uygulamaları için ekran süresi sınırlanamıyor</string>
     <string name="usage_new_home_unlock_equals_text">Önceki günle aynı</string>
     <string name="usage_new_home_unused">Kullanmadı</string>
     <string name="usage_new_home_update">Değiştir</string>
+    <string name="usage_new_home_usage_detail">Kullanım ayrıntıları</string>
     <string name="usage_new_home_week_category_title">Uygulama kategorileri</string>
     <string name="usage_new_home_week_compare_text1">%.2f önceki haftadan fazla</string>
     <string name="usage_new_home_week_compare_text2">%.2f önceki haftadan az</string>

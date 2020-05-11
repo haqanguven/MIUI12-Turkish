@@ -49,7 +49,7 @@
     <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
     <string name="animator_duration_scale_title">Animatör süresi</string>
     <string name="apn_settings_not_available">Erişim noktası adı ayarları bu kullanıcı için kullanılamıyor</string>
-    <string name="app_name">Keyguard</string>
+    <string name="app_name">Miui bluetooth</string>
     <string name="app_process_limit_title">Arka plan işlem sınırı</string>
     <string name="available_via_carrier">%1$s aracılığıyla kullanılabilir</string>
     <string name="available_via_passpoint">%1$s aracılığıyla kullanılabilir</string>

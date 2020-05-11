@@ -654,9 +654,9 @@ Yedeklemeler Xiaomi bulutta saklanır ve kablosuz olarak erişilebilir. Bu yönt
     <string name="backup_more_settings">Ayarlar</string>
     <string name="backup_pw_cancel_button_text">İptal et</string>
     <string name="backup_pw_set_button_text">Yedekleme şifresi ayarla</string>
-    <string name="backup_restore_data_content">"Your backups can contain contacts, messages (SMS and MMS), call history, calendar events, photos, audio files, videos, documents, apps, app data, and Home screen layout.
+    <string name="backup_restore_data_content">"Yedeklemeleriniz kişiler, mesajlar, arama geçmişi, takvim etkinlikleri, fotoğraflar, ses dosyaları, videolar, belgeler, uygulamalar, uygulama verileri ve ana ekran düzeni içerebilir
 "</string>
-    <string name="backup_restore_data_title">5. What items can I back up or restore?</string>
+    <string name="backup_restore_data_title">5. Hangi öğeleri yedekleyebilir veya geri yükleyebilirim?</string>
     <string name="backup_section_title">Yedekleme ve geri yükleme</string>
     <string name="backup_set_clear_success">Yedek şifresi başarıyla devre dışı bırakıldı</string>
     <string name="backup_set_clear_title">Yedek şifresini devre dışı bırak</string>
@@ -1922,7 +1922,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="device_admin_settings_title">Cihaz yöneticisi ayarları</string>
     <string name="device_admin_status">Bu yönetim uygulaması etkin ve %1$s uygulamasının aşağıdaki işlemleri gerçekleştirmesine izin veriyor:</string>
     <string name="device_admin_warning">Bu yönetim uygulamasının etkinleştirilmesi %1$s uygulamasının şu işlemleri gerçekleştirmesine izin verir:</string>
-    <string name="device_available_memory">Kullanılabilir depolama alanı</string>
+    <string name="device_available_memory">"Kullanılabilir alan "</string>
     <string name="device_battery">Pil</string>
     <string name="device_build_id">Sürüm numarası</string>
     <string name="device_camera">Kamera</string>
@@ -1969,9 +1969,9 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="device_share_loading">İmaj oluşturuluyor</string>
     <string name="device_status">Durum</string>
     <string name="device_status_activity_title">Durum</string>
-    <string name="device_status_summary">Telefon numarası, sinyal vb.</string>
+    <string name="device_status_summary">Telefon numarası, model numarası gibi bilgileri içerir</string>
     <string name="device_theme">Cihaz teması</string>
-    <string name="device_total_memory">Toplam alan</string>
+    <string name="device_total_memory">"Toplam alan "</string>
     <string name="device_usage_list_summary">Tam şarj sonrası cihaz kullanımı</string>
     <string name="devices_title">Cihazlar</string>
     <string name="dial_application_title">Arama</string>
@@ -2413,11 +2413,11 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="failed_to_shut_down_find_device_content">Cihazı bul kapatılamadı. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>
     <string name="failed_to_shut_down_find_device_title">Devre dışı bırakılamadı</string>
     <string name="fallback_home_title">Yükleniyor</string>
-    <string name="fcc_equipment_id">Cihaz Kimliği</string>
+    <string name="fcc_equipment_id">Cihaz kimliği</string>
     <string name="feature_flags_dashboard_title">Özellik bayrakları</string>
     <string name="feedback">Geri bildirim</string>
-    <string name="feedback_btn_text">Geri bildirim gönderin</string>
-    <string name="feedback_settings">Hizmetler &amp; geribildirim</string>
+    <string name="feedback_btn_text">Geri bildirim</string>
+    <string name="feedback_settings">Hizmetler &amp; geri bildirimler</string>
     <string name="file_privacy_password_role_instruction">Özel dosyalarınız burada depolanır</string>
     <string name="filter">Filtre</string>
     <string name="filter_all_apps">Tüm uygulamalar</string>
@@ -3449,7 +3449,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="lockscreen_label">Kilit ekranı</string>
     <string name="lockscreen_magazine">Duvar kağıdı döngüsü</string>
     <string name="lockscreen_magazine_india">Mi için bakış</string>
-    <string name="lockscreen_magazine_summary">Yüksek kaliteli duvar kağıdı döngüsü</string>
+    <string name="lockscreen_magazine_summary">Yüksek kaliteli duvar kağıtlarını içerir</string>
     <string name="lockscreen_magazine_title">Duvar kağıdı döngüsü</string>
     <string name="lockscreen_remote_input">Cihaz kilitliyse bildirimlerde yanıt yazmayı veya diğer metin girişlerini önle</string>
     <string name="lockscreen_settings_title">Kilit ekranı tercihleri</string>
