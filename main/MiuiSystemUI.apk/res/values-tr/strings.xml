@@ -396,6 +396,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Dosya aktarım sunucusuna bağlandı</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Dosya aktarım sunucusuna bağlanmadı</string>
     <string name="bluetooth_opp_profile_summary_use_for">Dosya aktarımı için kullan</string>
+    <string name="bluetooth_paired">Kayıtlı</string>
     <string name="bluetooth_pairing">Eşleştiriliyor</string>
     <string name="bluetooth_pairing_accept">Eşleştir</string>
     <string name="bluetooth_pairing_accept_all_caps">Eşleştir</string>
@@ -529,8 +530,6 @@ Oynatma kalitesi"</string>
     <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcı aracılığıyla otomatik olarak bağlandı</string>
     <string name="connected_via_passpoint">%1$s üzerinden bağlı</string>
     <string name="content_description_menu_button">Menü</string>
-    <string name="control_quick_settings_tiles_default">flashlight,mute,screenshot,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
-    <string name="control_quick_settings_tiles_stock">flashlight,mute,screenshot,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="convert_to_fbe_warning">"Veri bölmesini dosya tabanlı şifrelemeye dönüştür
 Dikkat. Bu işlem tüm verilerinizi siler
@@ -926,7 +925,7 @@ Yalnızca desteklenen şarj cihazlarını kullanın"</string>
     <string name="keyguard_password_enter_puk_prompt">Sim Puk code</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Şifre yazmak için dokunun</font></string>
     <string name="keyguard_password_wrong_pin_code">Yanlış Pin kodu</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Sim kartınız kalıcı olarak devre dışı bırakıldı\u000d
+    <string name="keyguard_permanent_disabled_sim_instructions">"Sim kartınız kalıcı olarak devre dışı bırakıldı
 Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Kullanılamayan Sim kartı</string>
     <string name="keyguard_plugged_in">Şarj oluyor</string>
@@ -1409,6 +1408,11 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="quick_settings_cellular_detail_data_usage">Veri kullanımı</string>
     <string name="quick_settings_cellular_detail_data_used">%s kullanılan</string>
     <string name="quick_settings_cellular_detail_data_warning">%s uyarı</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri kapatılacak. Wifi kullanmadığınız sürece veri bağlantısı gerektiren uygulamaları artık kullanamazsınız. Multimedya mesajı gönderme veya alma kısıtlanacaktır</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri açılacak. Mobil ağlara bağlanmak ödeme planınıza bağlı olarak ek ücretlere neden olabilir</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İptal et</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Tamam</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
     <string name="quick_settings_cellular_detail_over_limit">Sınırın üzerinde</string>
     <string name="quick_settings_cellular_detail_remaining_data">Kalan veriler</string>
     <string name="quick_settings_cellular_detail_title">Mobil veri</string>
