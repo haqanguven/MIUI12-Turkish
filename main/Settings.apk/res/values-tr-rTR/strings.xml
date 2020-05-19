@@ -1013,6 +1013,7 @@ Uygulamalar:
     <string name="bluetooth_opp_profile_summary_connected">Dosya aktarma sunucusuna bağlanıldı</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Dosya aktarma sunucusuna bağlanılamadı</string>
     <string name="bluetooth_opp_profile_summary_use_for">Dosya aktarma için kullan</string>
+    <string name="bluetooth_paired">Eşleştirildi</string>
     <string name="bluetooth_paired_device_title">Cihazlarınız</string>
     <string name="bluetooth_pairing">Eşleştiriliyor</string>
     <string name="bluetooth_pairing_accept">Eşleştir</string>
@@ -3719,6 +3720,8 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_sos_msg_call_log_prefix">Son bir saatlik arama geçmişim burada:</string>
     <string name="miui_sos_play_voice">Acil durum mesajını oynat</string>
     <string name="miui_sos_remind_add">Ekle</string>
+    <string name="miui_sos_remind_close">Acil durum modu açık. İlgili tüm işlevlerle birlikte kapatılsın mı?</string>
+    <string name="miui_sos_remind_close_confirm">Kapat</string>
     <string name="miui_sos_remind_infocontent">Seni acil durumlarda ulaşılacak kişilere ekledim. Tehlikede altında olduğum durumlarda konumumu içeren bir mesaj alacaksın. [Mi acil durum araması]</string>
     <string name="miui_sos_remind_open">Acil durum araması düzgün çalışabilmek için en az 1 kişinin eklenmesine ihtiyaç duyar</string>
     <string name="miui_sos_remind_sendinfo">Acil durumlarda ulaşılacaklar listesine eklediğiniz kişilere bundan bahsetmeyi unutmayın. Böylece acil durum sırasında size daha hızlı yardımcı olabilirler</string>
@@ -4739,6 +4742,7 @@ UT arayüzü: %5$s"</string>
     <string name="recommend_item_title">Tavsiye edilenler</string>
     <string name="recommend_tip">Diğer ayarlara mı ihtiyacınız var?</string>
     <string name="recompute_size">Boyut yeniden hesaplanıyor</string>
+    <string name="regional_screen_shot">Kısmi ekran görüntüsü</string>
     <string name="regulatory_info_text" />
     <string name="regulatory_labels">Yönetmelik etiketleri</string>
     <string name="remaining_length_format">%1$s kaldı</string>
@@ -4766,6 +4770,7 @@ UT arayüzü: %5$s"</string>
 
  Hiçbir uygulama verisini kaybetmeyeceksiniz"</string>
     <string name="reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
+    <string name="reset_confirm_directory">"Not: Öğeleri geri yüklemeden önce mobil cihazınızda MIUI-Backup-AllBackup klasörünün bulunup bulunmadığını kontrol edin. Yoksa oluşturun"</string>
     <string name="reset_dashboard_summary">Ağ, uygulamalar veya cihaz sıfırlanabilir</string>
     <string name="reset_dashboard_title">Seçenekleri sıfırla</string>
     <string name="reset_esim_desc">"Telefondaki tüm eSim'ler silinsin. eSim'lerinizi yeniden indirmek için operatörünüzle iletişim kurmanız gerekir. Bu işlem mobil hizmet planınızı iptal etmez"</string>
@@ -4788,6 +4793,7 @@ UT arayüzü: %5$s"</string>
     <string name="reset_network_final_desc">Tüm ağ ayarları şimdi sıfırlansın mı? Bu işlem birkaç saniye sürebilir. Bu eylemi geri alamayacaksınız</string>
     <string name="reset_network_title">Bluetooth, wifi ve mobil veriyi sıfırla</string>
     <string name="reset_network_wifi">Wifi</string>
+    <string name="reset_remove_data_hint">Yukarıda listelenen tüm öğeler kalıcı olarak silinecektir. Devam etmeden önce tüm önemli öğeleri bilgisayarınıza veya Xiaomi buluta yedekleyin</string>
     <string name="reset_second_space_passwd">İkinci alan şifresini sıfırla</string>
     <string name="reset_second_space_passwd_cancel">İptal et</string>
     <string name="reset_second_space_passwd_confirm">Devam et</string>
@@ -5255,7 +5261,7 @@ Ekran sabitlemeyi kullanmak için:
     <string name="search_wifi_menu_wps_pin">WPS Pin girişi;WPS;WPS Pin</string>
     <string name="search_wifi_scan_always_available">Tarama her zaman kullanılabilir;Ağları ara;Wifi ara;Wifi ara</string>
     <string name="search_wifi_setting_frequency_band_title">Wifi frekans bandı;WIFI frekansı;WI-FI frekansı;Wifi frekansı;Frekans bandı</string>
-    <string name="search_wifi_setting_sleep_policy_title">"Uyku modunda Wifi'yi açık tut;Uykuda WiFi'yi açık tut;Uyku modunda Wifi'ı açık tut;Uykuda Wifi açık;Uykuda WiFi açık;Uykuda Wifi açık"</string>
+    <string name="search_wifi_setting_sleep_policy_title">"Uyku modunda wifi'yi açık tut;Uykuda WiFi'yi açık tut;Uyku modunda Wifi'ı açık tut;Uykuda Wifi açık;Uykuda WiFi açık;Uykuda Wifi açık"</string>
     <string name="search_wifi_settings_title">Wifi;Wifi;Gelişmiş ayarlar;Wifi;Kablosuz;Kablosuz ağlar;Kablosuz</string>
     <string name="search_wifi_tether_checkbox">Kişisel bağlantı noktası;bağlantı noktası;kişisel bağlantı</string>
     <string name="search_wifi_tether_configure_ap_text">Kişisel bağlantı noktası ayarla;Bağlantı noktası ayarla;Bağlantı noktası ekle;Bağlantı noktasını düzenle</string>
@@ -5842,9 +5848,9 @@ Bu ^1 birimi sadece bu cihazda çalışacak şekilde biçimlendirilmiştir. Baş
     <string name="storage_rename_title">Depolama alanına yeni ad ver</string>
     <string name="storage_settings">Depolama</string>
     <string name="storage_settings_summary">USB belleğin bağlantısını kes, kullanılabilir depolama alanını görüntüle</string>
-    <string name="storage_settings_title">Depolama ayarları</string>
-    <string name="storage_size_large">^1<small><small> ^2</small></small></string>
-    <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
+    <string name="storage_settings_title">"Depolama ayarları
+	
+"</string>
     <string name="storage_summary">%1$s kullanılıyor - %2$s boş</string>
     <string name="storage_summary_format">%1$s kullanılıyor (%2$s)</string>
     <string name="storage_summary_with_sdcard">Dahili depolama alanı: %1$s kullanılıyor - %2$s boş</string>
@@ -6140,6 +6146,7 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="theme_settings_title">Temalar</string>
     <string name="thememanager_not_found">Temalar açılamadı. Uygulamanın yüklü olduğundan emin olun</string>
     <string name="three_gesture_down">3 parmakla aşağı kaydır</string>
+    <string name="three_gesture_long_press">%d parmakla basılı tutun</string>
     <string name="time_picker_title">Saat</string>
     <string name="time_spent_in_app_pref_title">Uygulama içinde geçirilen süre</string>
     <string name="time_unit_just_now">Şimdi</string>

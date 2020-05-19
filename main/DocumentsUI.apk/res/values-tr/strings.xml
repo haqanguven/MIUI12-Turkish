@@ -104,8 +104,8 @@
     <string name="excel_file_type">Excel elektronik tablo</string>
     <string name="extract_notification_title">Dosyaları ayıklanıyor</string>
     <string name="extract_preparing">Hazırlanıyor</string>
-    <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="file_operation_error">Dosya işlemi başarısız oldu</string>
     <string name="file_operation_rejected">Dosya işlemi desteklenmiyor</string>
     <string name="files_label">Dosyalar</string>

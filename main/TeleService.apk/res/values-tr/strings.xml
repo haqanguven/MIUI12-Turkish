@@ -727,15 +727,9 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kılındı</string>
     <string name="data_disable_warning_no_mms">Mobil veriyi kapatırsanız multimedya gönderemez ve alamazsınız. Ancak cihazınız wifi ağına bağlıyken bunu yapabilirsiniz</string>
     <string name="data_disable_warning_with_mms">Mobil veriyi kapatırsanız yine de multimedya gönderebilir ve alabilirsiniz. İnterneti kullanmak için wifi ağına bağlanın</string>
-    <string name="data_disable_warning_with_mms_lgu">"Mobil veriyi kapatırsanız yine de multimedya gönderebilir ve alabilirsiniz. İnterneti kullanmak için wifi ağına bağlanın
-
-Mobil veri kapatılsın mı?"</string>
     <string name="data_enable_always_warn">Mobil veri kullanıp kullanmayacağınızı sorun</string>
     <string name="data_enable_summary">Cihazın mobil veri kullanımına izin verir</string>
     <string name="data_enable_warning">Her zaman mobil veri kullanılmasına izin vermek operatör planınızın dışında ek ücretler oluşturabilir. Yine de bağlanılsın mı?</string>
-    <string name="data_enable_warning_lgu">"Operatör planınızda aksi belirtilmedikçe mobil veri kullanılması ek operatör ücretleri oluşturabilir
-
-Mobil veri yine de kullanılsın mı?"</string>
     <string name="data_enabled">Mobil veri</string>
     <string name="data_plan">Mobil veri planı</string>
     <string name="data_usage_disable_mobile">Mobil veri kapatılsın mı?</string>
@@ -981,6 +975,8 @@ Mobil veri yine de kullanılsın mı?"</string>
     <string name="fiveg_bearer_status1">5G taşıyıcı durumu:</string>
     <string name="fiveg_endc_available1">NR ENDC mevcut:</string>
     <string name="fiveg_endc_status1">Endc durumu:</string>
+    <string name="fiveg_hosted_mode_summary">5G bağlantısı zayıf olduğunda otomatik olarak kullanılabilir en iyi ağlara geçin</string>
+    <string name="fiveg_hosted_mode_title">5G akıllı anahtar</string>
     <string name="fiveg_icon_type1">Nr simge türü:</string>
     <string name="fiveg_infos">5G bilgileri</string>
     <string name="fiveg_network_config_type1">Ağ yapılandırma türü:</string>
@@ -1053,6 +1049,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="incall_error_missing_voicemail_number">Sesli mesaj numarası bilinmiyor</string>
     <string name="incall_error_no_phone_number_supplied">Girdiğiniz numara geçersiz</string>
     <string name="incall_error_out_of_service">Mobil ağ kullanılamıyor</string>
+    <string name="incall_error_out_of_service_kr">Sadece acil durum araması yapılabilir</string>
     <string name="incall_error_out_of_service_wfc">Mobil ağ kullanılamıyor. Arama yapmak için bir kablosuz ağa bağlanın</string>
     <string name="incall_error_power_off">Arama yapmak için uçak modunu kapatın</string>
     <string name="incall_error_power_off_wfc">Arama yapmak için uçak modunu kapatın veya bir kablosuz ağa bağlanın</string>
@@ -1066,6 +1063,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="incall_error_supp_service_transfer">Arama transfer edilemiyor</string>
     <string name="incall_error_supp_service_unknown">Desteklenmeyen hizmet</string>
     <string name="incall_error_wfc_only_no_wireless_network">Arama yapmak için bir kablosuz ağa bağlanın</string>
+    <string name="incall_number_anonymous">Bilinmeyen numara</string>
     <string name="incall_status_dialed_mmi">MMI sırası başlatılıyor</string>
     <string name="install_other_apps">Bilinmeyen uygulamaları yükle</string>
     <string name="international_disable">Uluslararası haberler kapalı</string>
@@ -1294,7 +1292,9 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Sim kart hatası</string>
     <string name="msim_setting_categery_title">Sim kart ayarları</string>
     <string name="msim_setting_default_data">Veri kartı</string>
+    <string name="msim_setting_default_data_description">Veri Sim %d</string>
     <string name="msim_setting_default_voice">Aramalar için varsayılan</string>
+    <string name="msim_setting_default_voice_description">Sim %d</string>
     <string name="msim_setting_install_virtual_sim_install">Yükle</string>
     <string name="msim_setting_install_virtual_sim_message">Sim kart satın almak ve operatör planınızı yönetmek için Mi taşıyıcı hizmetlerini kurun</string>
     <string name="msim_setting_install_virtual_sim_tip">Mi taşıyıcı hizmetleri</string>
@@ -1634,6 +1634,7 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="private_dns_mode_provider_failure">Bağlanamadı</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcısının ana bilgisayar adını girin</string>
     <string name="private_num">Özel numara</string>
+    <string name="private_num_kr">Arayan kimliği kısıtlandı</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="progress_dialog_exiting_ecm">Acil durum geri arama modundan çıkılıyor</string>
     <string name="prompt_to_suggest_no_call_service_notification_content">Arama yapamıyor ve alamıyor. VoLTE servisi şimdi Sim kartınız için kapalı (Çin Telekom)</string>

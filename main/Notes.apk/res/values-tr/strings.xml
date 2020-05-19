@@ -61,6 +61,7 @@
     <string name="audio_toast_file_invalid">Ses dosyası geçersiz</string>
     <string name="audio_toast_file_undownload">Ses dosyası tam indirilemedi veya kayıp</string>
     <string name="audio_toast_network_is_not_available">Ağa bağlanılamadı</string>
+    <string name="btn_next">Sonraki</string>
     <string name="call_folder_name">Arama notları</string>
     <string name="cancel_alarm_description">Alarmı iptal et</string>
     <string name="check_in_todo_app">Görevleri görüntüle</string>
@@ -398,6 +399,9 @@
     <string name="not_set">Ayarlanmadı</string>
     <string name="note_description_content">Notlar uygulaması fikirlerinizi kaydetmek için mükemmel bir araçtır. Yerleşik hatırlatıcıları ve Mi bulut ile senkronizasyon özelliği ile notlarınıza dilediğiniz zaman dilediğiniz yerde ulaşabilirsiniz. Uygulamayı silmeden önce uygulamayı gerçekten silmek istediğinize emin olun</string>
     <string name="note_description_title">Notlar hakkında</string>
+    <string name="note_gesture_guide_step1">Sesli bir not oluşturmak için artı tuşuna basın ve basılı tutun</string>
+    <string name="note_gesture_guide_step2">Bir nota basılı tutun ve sonra klasör oluşturmak için başka bir notun üzerine sürükleyin</string>
+    <string name="note_gesture_guide_step3">Bir nota basılı tutun ve sonra oradaki notu taşımak için başka bir klasörün üzerine sürükleyin</string>
     <string name="note_link_email">E-posta oluştur</string>
     <string name="note_link_other">Harita uygulamasını kullanarak aç</string>
     <string name="note_link_select">Metni seç</string>
@@ -466,7 +470,7 @@
     <string name="repeat_mode_set_title">Tekrar</string>
     <string name="repeat_mode_week">Her hafta</string>
     <string name="repeat_mode_year">Her yıl</string>
-    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE;android.permission.WRITE_EXTERNAL_STORAGE</string>
+    <string name="required_permissions">android.permission.READ_PRIVILEGED_PHONE_STATE;android.permission.GET_ACCOUNTS_PRIVILEGED</string>
     <string name="rich_text_bold_description">Kalın</string>
     <string name="rich_text_center_description">Merkez</string>
     <string name="rich_text_chooser_title">Stil seçin</string>

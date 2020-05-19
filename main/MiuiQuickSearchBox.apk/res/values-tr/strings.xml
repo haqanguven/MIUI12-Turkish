@@ -411,7 +411,7 @@ Ziyaret etmeden önce tehlikenin farkında olduğunuzdan emin olun"</string>
     <string name="app_download_exits">Görev var</string>
     <string name="app_install_fail">Yükleme başarısız oldu</string>
     <string name="app_installing">Yükleniyor</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="applications_authority">com.android.quicksearchbox.applications</string>
     <string name="apps_search_activity" />
     <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>

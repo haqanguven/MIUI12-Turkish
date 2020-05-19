@@ -153,6 +153,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="error_unknown">Bir şeyler ters gitti</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="get_device_id_error">Cihaz kimliği alınamadı</string>
+    <string name="help_and_feedback">Yardım ve geri bildirim</string>
     <string name="hint_restore_cross_space">Öğeleri boşluklar arasında aktarırsanız giriş ekranı düzeni yanlış görüntülenebilir</string>
     <string name="home_hint_global_launcher">Poco başlatıcı</string>
     <string name="home_hint_other_launcher">Diğer başlatıcı</string>

@@ -126,13 +126,6 @@ mesajları ikinci alanda göster"</string>
     <string name="dual_animation">Başlatma animasyonu</string>
     <string name="dual_animation_description">Çift uygulama başlatıldığında animasyonu göster</string>
     <string name="enable">Aç</string>
-    <string name="encrypt_space_delete_dialog_click_message">* Verileri taşımanız gerekmiyorsa, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">şimdi sil ve ikinci alanı oluştur</string>
-    <string name="encrypt_space_delete_dialog_message">Bir sistem güncellemesi yapmak üzeresiniz. Güncellemeden sonra ikinci alan verileri uyumsuz hale gelir. Bunu önlemek için tüm verilerinizi birinci alana taşıyın ve ikinci alanı silip tekrar oluşturun</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Verileri taşı</string>
-    <string name="encrypt_space_delete_dialog_title">Dikkat</string>
-    <string name="encrypt_space_delete_notification_message">İkinci alanınızı silin ve cihazınızı başarıyla güncellemek için yeni bir tane oluşturun</string>
-    <string name="encrypt_space_delete_notification_title">İkinci alan</string>
     <string name="ent_activating">Etkinleştiriliyor</string>
     <string name="ent_activation">Etkinleştir</string>
     <string name="ent_activation_hint">Şirket modunu etkinleştirmek için şirket kodunuzu lisans koduyla birlikte girin. Bundan sonra özel şirket hizmetleri etkinleştirilecek</string>
@@ -217,7 +210,6 @@ Mesajlar yalnızca ikinci alanca görüntülenir"</string>
     <string name="guide_pwd_detail_title">"Verilerinizi koruma altına alın
 İkinci alana kilit ekranından girin"</string>
     <string name="guide_setting_guide_title">İkinci alanı yönet</string>
-    <string name="guide_start_ads_text">Yepyeni bir güvenlik seviyesi</string>
     <string name="guide_start_text">İki alan. Tek cihaz</string>
     <string name="has_created_second_space">"Şimdi ikinci alan açabilirsiniz
 İki alan. Tek cihaz"</string>
@@ -294,7 +286,6 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="openPasswordGuard">İkinci alan şifresi ayarla</string>
     <string name="openSuccess">Açıldı</string>
     <string name="opened">Açık</string>
-    <string name="optimize_now">Optimize et</string>
     <string name="other">Diğer</string>
     <string name="otherSettings">Diğer ayarlar</string>
     <string name="passWordGuardSummary">Bir şifre kullanarak ikinci alana kilit ekranından giriş yapın</string>
@@ -318,8 +309,6 @@ Aksi halde, İkinci alana kilit ekranından giriş yapamazsınız"</string>
     <string name="remove_button">Kaldır ve yeniden başlat</string>
     <string name="remove_button_time">Kaldır ve yeniden başlat (%d saniye)</string>
     <string name="remove_second_space_msg">İkinci alanı silmenizden sonra ikinci alan verilerin tamamını kaybedeceksiniz. İkinci alanı silmek istiyor musunuz?</string>
-    <string name="remove_user_click_message">* İkinci alanda önemli bir öğeniz yoksa, %s</string>
-    <string name="remove_user_click_message_action">ikinci alanı silebilir ve şimdi cihazınızı yeniden başlatabilirsiniz</string>
     <string name="removingSpace">Siliniyor</string>
     <string name="repeat_scanner_fingerprint">Tekrar ekle</string>
     <string name="reset_passwd_success">Şifre başarıyla sıfırlandı</string>
@@ -343,14 +332,6 @@ ikinci alan parmak izini tarayın"</string>
     <string name="scanner_fingerprint_tips_desc">İkinci alana giriş için kullanılacak mevcut parmak izlerinden birini seçin. Seçmiş olduğunuz parmak izini ilk alana giriş için kullanamazsınız</string>
     <string name="scanner_fingerprint_tips_title">İkinci alana mevcut parmak izi kullanarak gir</string>
     <string name="scanner_second_space_fingerprint">İkinci parmak izini tara</string>
-    <string name="sdcardfs_dialog_message">Eski verileriniz yeni dosya sistemiyle uyumlu olmayabilir. İkinci alana girmeden önce verileri optimize edin ve cihazınızı yeniden başlatın</string>
-    <string name="sdcardfs_dialog_title">Önemli güncelleme</string>
-    <string name="sdcradfs_dialog_in_owner_message">"Miui'nun yeni bir dosya sistemi var. Eski veriler onunla uyumsuz olabilir. Güncellemek için öğeleri ikinci alana taşıyın, cihazınızı yeniden başlatın ve tekrar ikinci alanı oluşturun
-Güncelleme yapmazsanız çift uygulamalar da düzgün çalışmayabilir"</string>
-    <string name="sdcradfs_dialog_in_owner_title">İkinci alan</string>
-    <string name="sdcradfs_dialog_in_sec_message">"Güncellemek için ikinci alanınızı silmeli ve sonra yeniden oluşturmalısınız. Verileri ikinci alandan birinci alana taşıyın ve güncellemeyi tamamlamak için cihazınızı yeniden başlatın
-Güncelleme yapmazsanız çift uygulamalar da düzgün çalışmayabilir"</string>
-    <string name="sdcradfs_dialog_in_sec_title">Önemli güncelleme</string>
     <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
     <string name="search_menu_title">Ara</string>
     <string name="search_result_text">Uygulama bulunamadı</string>
@@ -420,7 +401,6 @@ Verilerinizi ayırın ve güvenliğini sağlayın"</string>
     <string name="space_create_guide_title_1">Gizliliği koruyun</string>
     <string name="space_create_guide_title_2">Dahili kullanımı ile</string>
     <string name="space_create_guide_title_3">Endişesiz yaratın</string>
-    <string name="space_created_success">İkinci alan başarıyla oluşturdu</string>
     <string name="space_deleted">Bu alan silindi</string>
     <string name="space_des_default">Şifrelenmiş verileri içeren izole alan</string>
     <string name="space_finger_sub_text">Daha hızlı geçiş yapmak için İkinci alan parmak izi belirleyin</string>
@@ -437,7 +417,6 @@ ikinci alan parmak izi kullanın"</string>
     <string name="stop_xspace_alert_title">Çift uygulama hesaplarını silme</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">İkinci alanda kullanılan uygulamaları seçin</string>
-    <string name="support_desc">" "</string>
     <string name="sure_to_use">Onayla</string>
     <string name="switchDataSummary">Öğeleri alanlar arasında taşıyın</string>
     <string name="switch_apps_settings">Uygulama ayarları</string>

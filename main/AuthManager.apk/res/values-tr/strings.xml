@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
     <string name="app_name">İzin yöneticisi</string>
     <string name="HIPS_Action_Accept">İzin ver</string>
     <string name="HIPS_Action_Reject">Reddet</string>
@@ -140,17 +141,17 @@
     <string name="permgroupdesc_phone">Arama yapın ve cihaz bilgilerine erişin</string>
     <string name="permgroupdesc_sensors">Vücut sensörü verilerine erişin</string>
     <string name="permgroupdesc_recognition">Sağlık &amp; etkinlik verilerine erişin</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarasına ve cihaz durumuna erişin</string>
     <string name="permdesc_read_calendar">Takvim etkinliklerine erişin</string>
     <string name="permdesc_write_calendar">Takvim etkinliklerine erişin ve ekleyin</string>
     <string name="permdesc_read_storage">Cihazda depolanan fotoğraflara ve dosyalara erişin</string>
     <string name="permdesc_write_storage">Cihazdaki fotoğraf, dosyalara erişin ve kaydedin</string>
     <string name="permdesc_location">Konuma erişin</string>
     <string name="permdesc_location_background">Arka planda erişim konumu</string>
-    <string name="permdesc_microphone">Aramaları ve sesi kaydedin</string>
     <string name="permdesc_recognition">Sağlık &amp; etkinlik verilerine erişin</string>
     <string name="permdesc_camera">Fotoğraf çekin ve video kaydedin</string>
     <string name="permdesc_sensors">Vücut sensör verilerine erişin</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarasına ve cihaz durumuna erişin</string>
+    <string name="permdesc_microphone">Aramaları ve sesi kaydedin</string>
     <string name="permdesc_out_calls">Giden aramaları izleyin</string>
     <string name="permdesc_in_calls">Gelen aramaları izleyin</string>
     <string name="virtual_reject_notice_title_sms">%1$s mesajlara erişmeye çalışıyor</string>
@@ -161,5 +162,4 @@
     <string name="virtual_reject_notice_content">Kişisel bilgilerinizi korumak için uygulamaya boş bir yanıt gönderildi</string>
     <string name="permission_list_include">"Aşağıdakiler dahil:
 "</string>
-    <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
 </resources>

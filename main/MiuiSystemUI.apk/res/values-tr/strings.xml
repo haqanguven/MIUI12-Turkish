@@ -316,6 +316,8 @@
     <string name="audio_effect_custom">Yapılandırma</string>
     <string name="audio_effect_info">Ses optimizasyonu</string>
     <string name="audio_effect_settings">Kulaklık türünü seçin</string>
+    <string name="auto_brightness_off">Otomatik parlaklık devre dışı</string>
+    <string name="auto_brightness_on">Otomatik parlaklık etkin</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Gezinme düğmeleri devre dışı. Tekrar açmak için herhangi bir düğmeye iki kez dokunun</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Gezinme düğmeleri etkin</string>
     <string name="available_via_carrier">%1$s aracılığıyla kullanılabilir</string>
@@ -616,8 +618,8 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="dlg_confirm_kill_storage_users_title">USB depolamayı aç</string>
     <string name="dlg_error_title">USB eylemi başarısız</string>
     <string name="dlg_ok">Tamam</string>
-    <string name="dnd_is_off">Uyku modu kapalı</string>
-    <string name="dnd_notification_warnings_title">Uyku modu açık. Aramalar ve bildirimler susturulacak</string>
+    <string name="dnd_is_off">Rahatsız etme kapalı</string>
+    <string name="dnd_notification_warnings_title">Rahatsız etme açık. Aramalar ve bildirimler susturulacak</string>
     <string name="do_disclosure_generic">Bu cihaz kuruluşunuz tarafından yönetilir</string>
     <string name="do_disclosure_with_name">Bu cihaz %s tarafından yönetiliyor</string>
     <string name="do_not_silence">Susturma</string>
@@ -1194,7 +1196,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="notification_channel_controls_closed_accessibility">%1$s için bildirim kontrolleri kapalı</string>
     <string name="notification_channel_controls_opened_accessibility">%1$s için bildirim kontrolleri açıldı</string>
     <string name="notification_channel_disabled">Artık bu bildirimleri almayacaksınız</string>
-    <string name="notification_channel_dnd">Uyku modu</string>
+    <string name="notification_channel_dnd">Rahatsız etme</string>
     <string name="notification_channel_general">Genel mesajlar</string>
     <string name="notification_channel_location">Konum</string>
     <string name="notification_channel_screenbutton">Ekran düğmesi</string>
@@ -1237,6 +1239,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="notification_otg_trackball_out">Palet topu bağlantısı kesildi</string>
     <string name="notification_otg_unknow_in">OTG cihazı bağlandı</string>
     <string name="notification_otg_unknow_out">OTG cihaz bağlantısı kesildi</string>
+    <string name="notification_storage_float">Harici depolama</string>
     <string name="notification_tap_again">Açmak için tekrar dokunun</string>
     <string name="notification_template_text">" bildirimi var. Görüntülemek için dokunun"</string>
     <string name="np_mcc">429</string>
@@ -1381,9 +1384,9 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="qs_customize_remove">Kaldır</string>
     <string name="qs_customize_title">Düzenle</string>
     <string name="qs_dnd_keep">Tut</string>
-    <string name="qs_dnd_prompt_app">Uyku modu bir uygulama tarafından açıldı (%s)</string>
-    <string name="qs_dnd_prompt_auto_rule">Uyku modu otomatik bir kural tarafından açıldı (%s)</string>
-    <string name="qs_dnd_prompt_auto_rule_app">Uyku modu otomatik bir kural veya uygulama tarafından açıldı</string>
+    <string name="qs_dnd_prompt_app">Rahatsız etme bir uygulama tarafından açıldı (%s)</string>
+    <string name="qs_dnd_prompt_auto_rule">Rahatsız etme otomatik bir kural tarafından açıldı (%s)</string>
+    <string name="qs_dnd_prompt_auto_rule_app">Rahatsız etme otomatik bir kural veya uygulama tarafından açıldı</string>
     <string name="qs_dnd_replace">Değiştir</string>
     <string name="qs_dnd_until">"%s'ye kadar"</string>
     <string name="qs_edit">Düzenle</string>
@@ -1467,7 +1470,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="quick_settings_notifications_label">Bildirimler</string>
     <string name="quick_settings_papermode_label">Okuma modu</string>
     <string name="quick_settings_powermode_label">Performans modu</string>
-    <string name="quick_settings_quietmode_label">Uyku modu</string>
+    <string name="quick_settings_quietmode_label">Rahatsız etme</string>
     <string name="quick_settings_reset_confirmation_button">Gizle</string>
     <string name="quick_settings_reset_confirmation_message">Ayarlarda bir sonraki açışınızda tekrar görünecektir</string>
     <string name="quick_settings_reset_confirmation_title">%1$s gizlensin mi?</string>
@@ -1484,7 +1487,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="quick_settings_settings_label">Ayarlar</string>
     <string name="quick_settings_sim_disabled">" (Devre dışı)"</string>
     <string name="quick_settings_sync_label">Senkronize</string>
-    <string name="quick_settings_tethering_label">\"Bağlantı noktası</string>
+    <string name="quick_settings_tethering_label">Bağlantı noktası</string>
     <string name="quick_settings_tiles">default</string>
     <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
@@ -1728,6 +1731,7 @@ Kilitlemek için aşağı doğru kaydırın"</string>
     <string name="status_bar_volte_label">HD</string>
     <string name="status_bar_work">İş profili</string>
     <string name="status_unavailable">Kullanım dışı</string>
+    <string name="storage_is_connecting">%1$s bağlı</string>
     <string name="stream_accessibility">Ulaşılabilirlik</string>
     <string name="stream_alarm">Alarm</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
@@ -1917,7 +1921,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="volume_stream_suppressed">%1$s sessiz — %2$s</string>
     <string name="volume_stream_vibrate">%s titreşim</string>
     <string name="volume_stream_vibrate_dnd">%s titreşim — Sadece öncelik</string>
-    <string name="volume_up_silent">Sesma açma tuşu ile uyku modundan çık</string>
+    <string name="volume_up_silent">Sesma açma tuşu ile rahatsız etme modundan çık</string>
     <string name="volume_zen_end_now">Şimdi kapat</string>
     <string name="vpn_footer">Ağ izlenebilir</string>
     <string name="vpn_settings_not_available">Vpn ayarları bu kullanıcı için kullanılamıyor</string>

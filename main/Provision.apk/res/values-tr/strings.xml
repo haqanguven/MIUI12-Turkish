@@ -250,5 +250,15 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="service_privacy_index">Gizlilik politikası</string>
     <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum</string>
     <string name="agree_and_next">Kabul et</string>
+    <string name="mobile_network">Mobil veri kullanımı</string>
+    <string name="move_data_dialog_box_title">Sınırsız veriye sahip bir planınız olmadığı sürece mobil veriyi kullanmak ek operatör ücretleri oluşturabilir. Mobil veri yine de kullanılsın mı?</string>
+    <string name="move_data_dialog_use">Kullan</string>
+    <string name="move_data_dialog_cancel">İptal et</string>
+    <string name="move_data_dialog_box_le">Bu kullanıcının isteğine göre mobil veri ve GPS bağlantısının kullanılmasına izin verir. Akıllı telefon özelliklerine bağlı olarak hesapların ve diğer öğelerin senkronizasyonu için mobil verilerin kullanılması gerekebilir</string>
+    <string name="move_data_dialog_title">Mobil veri bağlantısını daha sonra ayarlardan kısıtlayabilirsiniz</string>
     <string name="data_traffic_enable_dialog_title">Şimdi wifi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
+    <string name="service_name_backup">Yedekler</string>
+    <string name="backup_introduction">Cihazınızdaki öğeleri yedeklemek ve geri yüklemek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="permission_backup">Depolama alanına erişme</string>
+    <string name="permission_backup_introduction">Cihazınızdaki yedeklere erişmek ve bunları kaydetmek içindir</string>
 </resources>

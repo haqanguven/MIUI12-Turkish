@@ -55,6 +55,7 @@
     <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına ve tüm özelliklerini kullanabilmesi için isteğe bağlı izinler vermesine izin verin</string>
     <string name="cta_v2_app_purpose">yön, koordinat, atmosfer basıncı ve mevcut rakımı göstermek</string>
     <string name="dialog_body_no_network">Wifi ağına bağlanın veya mobil veriyi açın</string>
+    <string name="dialog_body_no_network_global">Wifi ağına bağlanın veya mobil veriyi açın</string>
     <string name="dialog_calibrat_altitude">Kalibre ediliyor</string>
     <string name="dialog_title_no_network">Ağa bağlanılamadı</string>
     <string name="direction_east">D</string>
@@ -84,6 +85,14 @@
     <string name="location_south">G</string>
     <string name="location_west">B</string>
     <string name="longitude">Boylam</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için serbest bırak</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Veri yok</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
     <string name="mobiledata_alert_dialog_message">Rakım kalibrasyon işlemi için internete bağlanılsın mı?</string>
     <string name="mobiledata_alert_dialog_title">Veri kullanımı uyarısı</string>
     <string name="not_set">Ayarlanmamış</string>

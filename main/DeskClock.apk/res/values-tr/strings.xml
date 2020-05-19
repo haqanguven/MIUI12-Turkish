@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="add_alarm">Alarm ekle</string>
     <string name="add_clock">Saat ekle</string>
+    <string name="add_common_timer">Zamanlayıcı ekle</string>
     <string name="add_timer">Sık zamanlayıcı</string>
     <string name="add_timezone_title">Zaman dilimi ekle</string>
     <string name="agree">Kabul et</string>
@@ -110,6 +111,7 @@
     <string name="close">Kapat</string>
     <string name="close_alarm">Kapat</string>
     <string name="common_settings">Ayarlar</string>
+    <string name="common_timer_selector">Zamanlayıcı seçin</string>
     <string name="confirm">Onayla</string>
     <string name="confirm_abort">Vazgeç</string>
     <string name="content_desc_keep_screen">Ekranı açık tut düğmesi</string>
@@ -243,7 +245,7 @@
     <string name="module_download_data_msg_timer">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmelidir. Bu indirme işlemi için tahmini 20MB mobil veri gereklidir. Şimdi indirilsin mi?</string>
     <string name="module_download_fail">Ek ses dosyaları indirilemedi</string>
     <string name="module_download_failure">Ses dosyası indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="module_download_msg">Akıllı alarmlar, doğa sesleri ve doğum günü alarmları yapmak için saatin internete bağlanıp kişilerinize erişmesi gerekir. Ayrıca ek ses indirmeniz gerekecek. Kabul ediyor musunuz?</string>
+    <string name="module_download_msg">Akıllı alarmlar doğa sesleri ve doğum günü alarmları yapmak için saatin internete bağlanıp kişilerinize erişmesi gerekir. Ayrıca ek ses indirmeniz gerekecek. Kabul ediyor musunuz?</string>
     <string name="module_download_msg_golbal">Akıllı alarmların doğa seslerini kullanılabilir hale getirmesi için saatin ek ses indirmesi gerekiyor. Kabul ediyor musunuz?</string>
     <string name="module_download_msg_replace">Miui akıllı alarmlar için güncel ses mevcut. Şimdi indirilsin mi?</string>
     <string name="module_download_msg_timer">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmelidir. Şimdi indirilsin mi?</string>
@@ -400,6 +402,8 @@
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Tur yok</string>
+    <string name="stopwatch_reset_notification">Kronometre sıfırlandı</string>
+    <string name="stopwatch_running_notification">Kronometre</string>
     <string name="stopwatch_title">Kronometre</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="symbol_colon">:</string>
@@ -480,6 +484,7 @@
     <string name="wake_up_alert_desc">Uyanma anında alarm sesini çal</string>
     <string name="wake_up_ringtone">Alarm zil sesi</string>
     <string name="wake_up_time">Uyanma</string>
+    <string name="white_noise_selector">Ses dosyası seç</string>
     <string name="workday_alarm_clock">Çalışma günleri alarmı</string>
     <string name="worldclock_empty_text">Saat yok</string>
     <string name="worldclock_input_hint_text">Ülke veya şehir arayın</string>

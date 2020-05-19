@@ -307,8 +307,8 @@ Bu kodu gönderin"</string>
     <string name="exo_track_unknown">Bilinmiyor</string>
     <string name="explore">Keşfet</string>
     <string name="explore_on_mi_video">Videolarda daha fazlasına erişin</string>
-    <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook_application_id" />
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>

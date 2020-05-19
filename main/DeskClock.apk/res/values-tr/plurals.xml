@@ -29,15 +29,15 @@
         <item quantity="one">%d dakika</item>
     </plurals>
     <plurals name="minute_text">
-        <item quantity="other">" dk"</item>
-        <item quantity="one">" dk"</item>
+        <item quantity="other">" dakika"</item>
+        <item quantity="one">" dakika"</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d saniye</item>
         <item quantity="one">%d saniye</item>
     </plurals>
     <plurals name="sleep_duration_hour">
-        <item quantity="other">%1s saat</item>
+        <item quantity="other">%1$s saat</item>
         <item quantity="one">%1$s saat</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
@@ -75,6 +75,14 @@
     <plurals name="snooze_message">
         <item quantity="other">%d dakika ertele</item>
         <item quantity="one">%d dakika ertele</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Kronometre %s gündür çalışıyor. Görüntülemek için dokunun</item>
+        <item quantity="one">Kronometre %s gündür çalışıyor. Görüntülemek için dokunun</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Kronometre %s saattir çalışıyor. Görüntülemek için dokunun</item>
+        <item quantity="one">Kronometre %s saattir çalışıyor. Görüntülemek için dokunun</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d saat "</item>

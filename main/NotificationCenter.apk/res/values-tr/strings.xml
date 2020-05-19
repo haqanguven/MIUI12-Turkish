@@ -32,6 +32,7 @@
     <string name="am">ÖÖ</string>
     <string name="app_name">Bildirimler</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="back">Geri</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="cancel">İptal et</string>
     <string name="category_other">Diğer</string>

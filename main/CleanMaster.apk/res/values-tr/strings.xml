@@ -251,7 +251,7 @@
     <string name="deepclean_normal_item_desc1">Çöp dosyalar</string>
     <string name="deepclean_normal_item_desc2">Temizleyici uygulaması işlemleri sistem performansını etkilememektedir</string>
     <string name="deepclean_normal_item_summary_empty">Her şey yolunda görünüyor. Temizlenecek dosya yok</string>
-    <string name="deepclean_normal_title">Otomatik olarak temizle</string>
+    <string name="deepclean_normal_title">Otomatik temizle</string>
     <string name="deepclean_similar_ignore">Yoksay</string>
     <string name="deepclean_similar_summary_empty">Her şey yolunda görünüyor. Silinecek fotoğraf yok</string>
     <string name="deepclean_size_summary_less">Cihazınızın depolama alanı dolmak üzere</string>
@@ -616,7 +616,7 @@
     <string name="pref_content_cleanup_white_list_none">Yok</string>
     <string name="pref_summary_auto_clean_and_alert">Temizleyiciyi belirli bir tarihte otomatik olarak çalışmaya ayarlayın</string>
     <string name="pref_summary_auto_update_cleanup_db">Son güncelleme: %s</string>
-    <string name="pref_summary_cleanup_white_list">Seçilen uygulamaların temizlenmesini önle</string>
+    <string name="pref_summary_cleanup_white_list">Seçilen uygulamaların temizlenmesini önler</string>
     <string name="pref_summary_expand_cache_group">Önbellek detaylarını otomatik olarak görüntüle</string>
     <string name="pref_summary_garbage_auto_clean_content">Otomatik olarak temizlenmesini istediğiniz öğeleri seçin</string>
     <string name="pref_summary_garbage_cleanup_check_size">Çöpler belirli bir boyuta ulaştığında otomatik olarak temizle</string>
@@ -625,8 +625,8 @@
     <string name="pref_summary_open_optimizer_cloud_scan">Bilinmeyen dosya isimlerini karşıya yükle ve çevrimiçi tanımlamalar ile karşılaştır</string>
     <string name="pref_title_apps_cleanup_size">Önbellek boyutu şu miktara ulaştığında</string>
     <string name="pref_title_auto_clean_content_choose">Temizlenecek öğeleri seçin</string>
-    <string name="pref_title_auto_update_cleanup_db">Otomatik olarak güncelle</string>
-    <string name="pref_title_choose_engine">Veritabanları</string>
+    <string name="pref_title_auto_update_cleanup_db">Otomatik güncelle</string>
+    <string name="pref_title_choose_engine">Veri tabanı</string>
     <string name="pref_title_clean_alert">Temizlemeyi hatırlat</string>
     <string name="pref_title_cleanup_white_list">İstisnalar</string>
     <string name="pref_title_create_onekeyclean_shortcut">Ana ekran kısayolu</string>

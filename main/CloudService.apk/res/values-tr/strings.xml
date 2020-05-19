@@ -104,6 +104,7 @@
     <string name="finddevice_miservice_notification_content">Cihazınız kaybolursa uzaktan kilitle</string>
     <string name="finddevice_miservice_notification_title">Cihazı bul özelliğini aç</string>
     <string name="forget_password"><u>Şifremi unuttum</u></string>
+    <string name="help_and_feedback">Yardım ve geri bildirim</string>
     <string name="i_know">Tamam</string>
     <string name="input_password_hint">Parolayı girin</string>
     <string name="internet_access_dspt">Bu uygulama normal olarak çalışabilmesi için internete bağlanması gerekmektedir</string>
@@ -222,6 +223,8 @@ Kayıp olması durumunda cihazınızı bulun ve kilitleyin"</string>
     <string name="micloud_find_device_guide_alert_positive">Tamam</string>
     <string name="micloud_find_device_guide_alert_title">Xiaomi hesap kimliğini ve şifreyi hatırla</string>
     <string name="micloud_find_device_guide_button">Cihazı bul özelliğini aç</string>
+    <string name="micloud_find_device_guide_desc_pad">"Cihazınızı bulmak, kilitlemek veya silmek için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Cihazınızın kaybolması durumunda bulmanıza yardımcı olabilir. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Yardıma bak]&lt;/a>"</string>
+    <string name="micloud_find_device_guide_desc_phone">"Cihazınızı bulmak, kilitlemek veya silmek için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Cihazınızın kaybolması durumunda bulmanıza yardımcı olabilir. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Yardıma bak]&lt;/a>"</string>
     <string name="micloud_find_device_guide_fail_reopen">Cihazı bul özelliğini Mi hesabı - Xiaomi bulut menüsünde açabilirsiniz</string>
     <string name="micloud_find_device_guide_fail_sub_net">Ağ bağlantınızı kontrol edin ve yeniden deneyin</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Kişilerinizi, fotoğraflarınızı, notlarınızı ve daha fazlasını Xiaomi bulut ile senkronize edin</string>
@@ -234,7 +237,6 @@ Kayıp olması durumunda cihazınızı bulun ve kilitleyin"</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat cihazı bul özelliğini açmanızı öneriyor</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay cihazı bul özelliğini açmanızı öneriyor</string>
     <string name="micloud_find_device_guide_progress">Cihazı bul açılıyor</string>
-    <string name="micloud_find_device_guide_title">Cihazınızın konumunu bulmak, kilitlemek veya silmek için <b><font color="#FF0000">&lt;font color=#FF</font></b>0000>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Bu özellik cihazınızı kaybetmeniz durumunda cihazınızı bulmanıza yardımcı olabilir.&lt;br />Cihazınızı kaybederseniz &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde bulanan hesabınızı korumak için sık kullandığınız uygulamaların güvenlik servisleri ile iletişime geçmelisiniz</string>
     <string name="micloud_find_device_open_fail">Cihazı bul kapatılamadı</string>
     <string name="micloud_find_device_opened">Cihazı bul açık</string>
     <string name="micloud_find_device_opened_content">Cihaz konumunu bulun %s</string>

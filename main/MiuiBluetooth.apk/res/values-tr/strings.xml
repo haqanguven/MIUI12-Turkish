@@ -106,6 +106,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Dosya aktarım sunucusuna bağlandı</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Dosya aktarım sunucusuna bağlanmadı</string>
     <string name="bluetooth_opp_profile_summary_use_for">Dosya aktarımı için kullan</string>
+    <string name="bluetooth_paired">Eşleştirildi</string>
     <string name="bluetooth_pairing">Eşleştiriliyor</string>
     <string name="bluetooth_pairing_accept">Eşleştir</string>
     <string name="bluetooth_pairing_accept_all_caps">Eşleştir</string>
@@ -263,6 +264,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="fast_connect_device_title_find_headset_others">Bu cihazın size ait olmadığı anlaşılıyor: %1$s</string>
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
+    <string name="fast_connect_reset_common">Eşleştirmek için bu cihazı sıfırlayın</string>
     <string name="fast_connect_wbs_name">Mi kablosuz şarj hoparlörü</string>
     <string name="fast_connect_wbs_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
     <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
@@ -619,4 +621,5 @@ Kimlik bilgisi depolama etkin değil gibi görünüyor"</string>
     <string name="zen_mode_settings_summary_off">Asla</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız etme özelliğini açın</string>
     <string name="zhiyun_name">SMOOTH Q2</string>
+    <string name="zhiyun_smooth_x_name">SMOOTH-X</string>
 </resources>

@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şu anda</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="other">%1$d tema için güncelleme mevcut</item>
+        <item quantity="one">%1$d tema için güncelleme mevcut</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="other">%1$d tema güncelleniyor</item>
+        <item quantity="one">%1$d tema güncelleniyor</item>
+    </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="other">%1$d fan</item>
         <item quantity="one">%1$d fan</item>
@@ -7,6 +44,10 @@
     <plurals name="de_author_theme_amount">
         <item quantity="other">%1$d öğe</item>
         <item quantity="one">%1$d öğe</item>
+    </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="other">%1$d simge</item>
+        <item quantity="one">%1$d simge</item>
     </plurals>
     <plurals name="de_more_comment">
         <item quantity="other">%1$d daha fazla yorum</item>
@@ -23,6 +64,41 @@
     <plurals name="guide_used_number">
         <item quantity="other">%1$d cihazda uygulandı</item>
         <item quantity="one">%1$d cihazda uygulandı</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="other">%1$d simge için güncelleme mevcut</item>
+        <item quantity="one">%1$d simge için güncelleme mevcut</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">%1$d simge güncelleniyor</item>
+        <item quantity="one">%1$d simge güncelleniyor</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d yorum</item>

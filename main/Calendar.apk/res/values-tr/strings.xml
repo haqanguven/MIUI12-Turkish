@@ -32,14 +32,20 @@
     <string name="accessibility_add_attendee">Katılımcı ekle</string>
     <string name="accessibility_alarm_remind">Alarm hatırlatıcıları</string>
     <string name="accessibility_all_day">Tüm gün etkinliği</string>
+    <string name="accessibility_month_page_selected_prefix">%2$d/%1$d için aylık görünüm. Seçilen tarih: %4$d/%5$d/%3$d</string>
     <string name="accessibility_pick_start_date">Başlangıç tarihi</string>
     <string name="accessibility_pick_time_zone">Zaman dilimi</string>
     <string name="accessibility_remove_attendee">Katılımcı kaldır</string>
     <string name="accessibility_repeats">Tekrarla</string>
     <string name="accessibility_sync_cal">Takvimi senkronize et</string>
+    <string name="accessibility_year_item_selected">Seçilen ay: %d. Ay görünümünü açmak için dokunun</string>
+    <string name="accessibility_year_page_selected">%d için yıl görünümü. Yıllar arasında geçiş yapmak için sola veya sağa kaydırın. Ayları seçmek için dokunun</string>
     <string name="account_and_calendar">Hesaplar</string>
+    <string name="action_bar_cancel">İptal et</string>
+    <string name="action_bar_confirm">Tamam</string>
     <string name="action_bar_return">Geri</string>
     <string name="action_label">Geri dön</string>
+    <string name="action_text_card_manager">İptal et</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_card_download_count">%1$d kişi indirdi</string>
     <string name="ad_card_download_count_million">%1$d milyon indirdi</string>
@@ -624,6 +630,7 @@
     <string name="lunar_chu">İlk</string>
     <string name="lunar_chu_shi">İlk on</string>
     <string name="lunar_date">Ay takvimi</string>
+    <string name="lunar_date_content_desc">Geleneksel Çin takvimine göre tarih</string>
     <string name="lunar_day" />
     <string name="lunar_day_chinese_calendar">Ay takvimi: %1$s</string>
     <string name="lunar_er">İki</string>
@@ -695,6 +702,7 @@
     <string name="miuix_search_history_clear">Clear search history</string>
     <string name="miuix_search_history_default_title">Search history</string>
     <string name="miuix_search_recommendation_default_title">You might be interested in these</string>
+    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="modify_all">Serideki tüm etkinlikleri değiştir</string>
     <string name="modify_all_following">Bu ve gelecekteki tüm etkinlikleri değiştir</string>
     <string name="modify_event">Yalnızca bu etkinliği değiştir</string>
@@ -829,6 +837,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="notification_open_setting_button_ok">İzin ver</string>
     <string name="notification_open_setting_message">Takvimin size bildirim göndermesine izin vermediğiniz sürece etkinliklerle ilgili bildirimleri alamazsınız</string>
     <string name="notification_open_setting_title">Takvim bildirimlerine izin verilsin mi?</string>
+    <string name="nth_week">%1$s. hafta</string>
     <string name="olympic_rank">Sıralama</string>
     <string name="olympic_total">Toplam</string>
     <string name="olympic_vs">VS</string>
@@ -1067,6 +1076,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="slight_heat">Hafif sıcak</string>
     <string name="slight_heat_tradition">Hafif sıcak</string>
     <string name="sms_import_description">Zamanla ilgili mesaj olaylarını daha iyi yönetin</string>
+    <string name="solar_date_content_desc">Gregoryen takvimine göre tarih</string>
     <string name="solar_lunar_convert_date" />
     <string name="solar_lunar_convert_description">Geleneksel Çince miladi takvimi</string>
     <string name="solar_lunar_convert_description_2">Geleneksel Çince ve Gregoryen takvimleri arasında geçiş yap</string>
@@ -1128,6 +1138,10 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
     <string name="tag_feed_list_container">feed_list_container</string>
     <string name="taishen">Fetal tanrı</string>
+    <string name="talk_back_description_close_ad_card">Reklam kartını kapat</string>
+    <string name="talk_back_description_close_ad_text">Yakın reklam kısa zinciri</string>
+    <string name="talk_back_description_hide_menstruation">Adet bilgilerini gizle</string>
+    <string name="talk_back_description_show_menstruation">Adet bilgilerini göster</string>
     <string name="talk_back_month">Ay</string>
     <string name="talk_back_read_date">%1$s (%2$s ay takvimine göre)</string>
     <string name="talk_back_setting">Ayarlar</string>
