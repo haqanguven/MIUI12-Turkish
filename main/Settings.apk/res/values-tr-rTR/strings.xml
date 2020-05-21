@@ -285,7 +285,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="admin_profile_owner_message">Yöneticiniz ayarlar, izinler, kurumsal erişim, ağ etkinliği ve cihazın konum bilgileri dahil iş profilinizle ilişkilendirilen uygulamaları ve verileri izleyip yönetebilir</string>
     <string name="admin_profile_owner_user_message">Yöneticiniz ayarlar, izinler, kurumsal erişim, ağ etkinliği ve cihazın konum bilgileri dahil bu kullanıcıyla ilişkilendirilen uygulamaları ve verileri izleyip yönetebilir</string>
     <string name="admin_support_more_info">Diğer ayrıntılar</string>
-    <string name="advanced_apps">İleri düzey</string>
+    <string name="advanced_apps">Gelişmiş ayarlar</string>
     <string name="advanced_battery_graph_subtext">Kalan pil gücü tahmini cihazınızın kullanımına göre yapılır</string>
     <string name="advanced_battery_title">Pil kullanımı</string>
     <string name="advanced_section_header">Gelişmiş</string>

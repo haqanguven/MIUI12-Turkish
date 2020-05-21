@@ -1028,12 +1028,12 @@
     <string name="editphoto_datetime_needdownload_origin_title">Orijinali indir</string>
     <string name="email_picker_title">Paylaşılan e-postayı ekle</string>
     <string name="empty" />
-    <string name="empty_album_cloud_list_title">No albums to sync</string>
-    <string name="empty_album_hidden_list_title">No hidden albums</string>
+    <string name="empty_album_cloud_list_title">Senkronize edilecek albüm yok</string>
+    <string name="empty_album_hidden_list_title">Gizli albüm yok</string>
     <string name="empty_album_other_list_title">Burada albüm yok</string>
     <string name="empty_album_rubbish_list_title">Burada albüm yok</string>
     <string name="empty_description_conditions">Önemli olan şeyleri hatırlayın</string>
-    <string name="empty_description_conditions_new">Öğelerin burada daha erken görünmesini sağlamak için fotoğraf çektiğinizden, şarj cihazını bağladığınızdan ve ekranı kapattığınızdan emin olun</string>
+    <string name="empty_description_conditions_new">Önemli olan şeyleri hatırlayın</string>
     <string name="empty_description_no_cards">Önemli olan şeyleri hatırlayın</string>
     <string name="empty_query_text_msg">Ne aranması gerektiği bilinmiyor</string>
     <string name="empty_recommend_back">Geri</string>
