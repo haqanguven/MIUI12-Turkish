@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="accessibility_menu_item_smallwindow_disable">Bu uygulama kayan pencereleri desteklemiyor</string>
+    <string name="accessibility_menu_item_smallwindow_enable">Bu uygulama kayan pencereleri destekliyor</string>
     <string name="accessibility_menu_item_split_disable">Uygulama bölünmüş ekranı desteklemiyor</string>
     <string name="accessibility_menu_item_split_enable">Uygulama bölünmüş ekranı destekliyor</string>
     <string name="accessibility_recent_task_enter">En son açılan</string>
@@ -60,6 +62,7 @@
     <string name="all_apps_no_search_results">Sonuç bulunamadı</string>
     <string name="all_apps_search_app">Uygulama ara</string>
     <string name="all_apps_search_market_message">Çevrimiçi ara</string>
+    <string name="all_apps_setting_classic_title">Klasik</string>
     <string name="all_apps_setting_desktop_desc">Tüm yüklü uygulamaları Ana ekranda göster. Mevcut kısayolları görmek uygulamayı yönetmek veya kaldırmak için uygulamanın simgesine basın ve basılı tutun</string>
     <string name="all_apps_setting_desktop_title">Normal</string>
     <string name="all_apps_setting_drawer_desc">Tüm yüklü uygulamalarınızı ana ekranda yukarı doğru kaydırarak açılabilen uygulama çekmecesine yerleştirin. Ana ekrana taşıdığınız tüm uygulamaları uygulama çekmecesinde de bulabileceksiniz</string>
