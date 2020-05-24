@@ -35,7 +35,7 @@ Seçili klavyenin gizlilik politikasını görüntüleyin"</string>
     <string name="other_settings_ad_disable_summary">Reklamları kişiselleştirmek için aç</string>
     <string name="other_settings_ad_dialog_content">"Bu özelliği kapattıktan sonra artık kişiselleştirilmiş reklamlar almayacaksınız. Yine de ilgi alanlarınızla alakalı olmayan reklamlar alacaksınız. Kişiselleştirilmiş reklamlar hakkında daha fazla bilgiyi Xiaomi gizlilik politikasında öğrenebilirsiniz
 Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
-    <string name="other_settings_enhanced_lockscreen">Atlı karınca duvar kağıdı</string>
+    <string name="other_settings_enhanced_lockscreen">Duvar kağıdı döngüsü</string>
     <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak kilit ekranınıza gönderilen fotoğrafları ve hikayelerini alın. %1$s ve %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik politikası</string>

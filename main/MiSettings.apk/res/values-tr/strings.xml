@@ -458,7 +458,9 @@
     <string name="usage_app_limit_alter_title">Ekran süresi limitini kontrol et</string>
     <string name="usage_app_limit_prelong">Zamanı uzat</string>
     <string name="usage_app_limit_reach_summay">%s kalan</string>
+    <string name="usage_app_limit_reach_summay_new">%d dakika kullanımını uzatmak için düğmeyi tıklayın</string>
     <string name="usage_app_limit_reach_title">%s uygulaması ekran süresi limitine ulaşıyor</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">%1s ayrıca %2s kullanabilir</string>
     <string name="usage_app_limit_summary">Sınıra ulaşıldığında seçilen uygulamalar kullanılamayacaktır</string>
     <string name="usage_app_limit_title">Ekran süresini kısıtla</string>
     <string name="usage_app_other_settings">Ek ayarlar</string>
@@ -523,8 +525,10 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_new_home_dashboard">Gösterge paneli</string>
     <string name="usage_new_home_date_day_title">%s | Kullanım süresi</string>
     <string name="usage_new_home_day_category_title">Uygulama kategorileri</string>
+    <string name="usage_new_home_day_category_title_new">%s kategori kullanımı</string>
     <string name="usage_new_home_day_title">Gün</string>
     <string name="usage_new_home_day_usage_title">Bireysel uygulamalar</string>
+    <string name="usage_new_home_day_usage_title_new">%s uygulama kullanımı</string>
     <string name="usage_new_home_first_unlock">İlk kilit açma: %s</string>
     <string name="usage_new_home_name">Ad</string>
     <string name="usage_new_home_show_more_data_summary">Tek tek uygulamalar için ekran süresini de sınırlayabilirsiniz</string>
@@ -669,6 +673,8 @@ Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki i
     <string name="usage_stats_week_day">Hafta sonu</string>
     <string name="usage_total_days">Toplam günler</string>
     <string name="usage_total_times">Toplam oturumlar</string>
+    <string name="usage_week_avg_usage_title">Bu hafta ortalama kullanım</string>
+    <string name="usage_week_avg_usage_title2">Ortalama kullanım</string>
     <string name="usage_weekly_report_summary">Özel haftalık zaman</string>
     <string name="usage_weekly_report_title">Haftalık kullanım</string>
     <string name="usagestats_app_category_miui_education">Eğitim</string>

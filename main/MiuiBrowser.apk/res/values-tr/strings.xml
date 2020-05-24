@@ -1875,4 +1875,5 @@ feedsContentId:
     <string name="watch_the_long_video">İzle</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
+    <string name="pref_content_javascript">"JavaScript'i etkinleştir"</string>
 </resources>
