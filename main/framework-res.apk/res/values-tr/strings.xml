@@ -5,7 +5,6 @@
     <string name="copyUrl">Bağlantıyı kopyala</string>
     <string name="cut">Kes</string>
     <string name="defaultVoiceMailAlphaTag">Sesli Mesaj</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Telefon numarası yok)</string>
     <string name="httpErrorBadUrl">Bağlantı geçersiz olduğundan sayfa açılamıyor</string>
     <string name="httpErrorUnsupportedScheme">Protokol desteklenmiyor</string>
@@ -23,7 +22,6 @@
     <string name="dialog_alert_title">Dikkat</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Bu video bu cihazda akış için uygun değil</string>
     <string name="selectTextMode">Metin seç</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Parmak izi simgesi</string>
     <string name="paste_as_plain_text">Düz metin olarak yapıştır</string>
     <string name="autofill">Otomatik doldur</string>
@@ -126,7 +124,7 @@
     <string name="anr_activity_process">%1$s yanıt vermiyor</string>
     <string name="anr_application_process">%1$s yanıt vermiyor</string>
     <string name="anr_process">%1$s işlemi yanıt vermiyor</string>
-    <string name="app_category_audio">Müzik ve Ses</string>
+    <string name="app_category_audio">Müzik ve ses</string>
     <string name="app_category_game">Oyunlar</string>
     <string name="app_category_image">Fotoğraflar ve görüntüler</string>
     <string name="app_category_maps">Haritalar ve navigasyon</string>
@@ -608,7 +606,6 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
     <string name="launch_warning_title">Uygulama yönlendirildi</string>
     <string name="leave_accessibility_shortcut_on">Kısayolu kullan</string>
     <string name="loading">Yükleniyor</string>
-    <string name="locale_replacement" />
     <string name="locale_search_menu">Ara</string>
     <string name="lock_pattern_view_aspect">square</string>
     <string name="lock_to_app_description">"Ekran iğneleme ekranı tek bir görünümde sabitler
@@ -985,7 +982,7 @@ izin isteğinde bulunuldu"</string>
     <string name="permlab_accessNotifications">bildirimlere eriş</string>
     <string name="permlab_accessWifiState">Kablosuz bağlantıları görüntüleme</string>
     <string name="permlab_accessWimaxState">"WiMAX'e bağlan veya WiMAX bağlantısını kes"</string>
-    <string name="permlab_access_notification_policy">Rahatsız Etmeyin özelliğine erişme</string>
+    <string name="permlab_access_notification_policy">Rahatsız etme özelliğine erişme</string>
     <string name="permlab_addVoicemail">sesli mesaj ekle</string>
     <string name="permlab_answerPhoneCalls">telefon çağrılarını yanıtla</string>
     <string name="permlab_bindCarrierMessagingService">operatör mesajlaşma hizmetine bağlan</string>
@@ -1085,7 +1082,6 @@ izin isteğinde bulunuldu"</string>
     <string name="permlab_writeSyncSettings">senkronizasyonu açma veya kapatma</string>
     <string name="perms_description_app">Sağlayan: %1$s.</string>
     <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">Yeni: </font></string>
-    <string name="petabyteShort">PB</string>
     <string name="phoneTypeAssistant">Yardımcı</string>
     <string name="phoneTypeCallback">Geri arama</string>
     <string name="phoneTypeCar">Araç</string>
@@ -1096,7 +1092,7 @@ izin isteğinde bulunuldu"</string>
     <string name="phoneTypeHome">Ev</string>
     <string name="phoneTypeIsdn">ISDN</string>
     <string name="phoneTypeMain">Santral</string>
-    <string name="phoneTypeMms">MMS</string>
+    <string name="phoneTypeMms">Multimedya</string>
     <string name="phoneTypeMobile">Mobil</string>
     <string name="phoneTypeOther">Diğer</string>
     <string name="phoneTypeOtherFax">Diğer Faks</string>
@@ -1106,7 +1102,7 @@ izin isteğinde bulunuldu"</string>
     <string name="phoneTypeTtyTdd">TTY TDD</string>
     <string name="phoneTypeWork">İş</string>
     <string name="phoneTypeWorkMobile">İş Mobil</string>
-    <string name="phoneTypeWorkPager">İş Çağrı Cihazı</string>
+    <string name="phoneTypeWorkPager">İş çağrı cihazı</string>
     <string name="pin_target">Sabitle</string>
     <string name="policydesc_disableCamera">Tüm cihaz kameralarının kullanımını engelleme</string>
     <string name="policydesc_disableKeyguardFeatures">Ekran kilidinin bazı özelliklerinin kullanılmasını önleme</string>
@@ -1164,7 +1160,7 @@ izin isteğinde bulunuldu"</string>
     <string name="relationTypeBrother">Erkek Kardeş</string>
     <string name="relationTypeChild">Çocuk</string>
     <string name="relationTypeCustom">Özel</string>
-    <string name="relationTypeDomesticPartner">Hayat Arkadaşı</string>
+    <string name="relationTypeDomesticPartner">Hayat arkadaşı</string>
     <string name="relationTypeFather">Baba</string>
     <string name="relationTypeFriend">Arkadaş</string>
     <string name="relationTypeManager">Yönetici</string>
@@ -1175,7 +1171,6 @@ izin isteğinde bulunuldu"</string>
     <string name="relationTypeRelative">Akraba</string>
     <string name="relationTypeSister">Kız Kardeş</string>
     <string name="relationTypeSpouse">Eş</string>
-    <string name="relative_time">%1$s, %2$s</string>
     <string name="replace">Değiştir</string>
     <string name="report">Bildir</string>
     <string name="reset">Sıfırla</string>

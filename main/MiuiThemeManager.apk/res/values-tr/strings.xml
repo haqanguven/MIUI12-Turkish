@@ -87,12 +87,12 @@
     <string name="author_dynamic">Durum</string>
     <string name="author_dynamic_no_resource">Sonuç bulunamadı</string>
     <string name="automatically_update_using_theme_tips">Bir sonraki defa otomatik olarak güncelle</string>
-    <string name="backup_theme_dialog_message">Mevcut temayı yedeklensin mi?</string>
+    <string name="backup_theme_dialog_message">Kullanılan tema yedeklensin mi?</string>
     <string name="backup_theme_dialog_ok">Yedekle</string>
     <string name="backup_theme_fail_trial_rights_message">Deneme öğeleri yedeklenemiyor</string>
     <string name="backup_theme_name">Tema yedeği</string>
     <string name="backup_theme_progress_message">Yedekleniyor</string>
-    <string name="backup_theme_success_message">Mevcut tema ayarlarınız yedeklendi</string>
+    <string name="backup_theme_success_message">Kullanılan tema ayarlarınız yedeklendi</string>
     <string name="both_all_apply_failured">Duvar kağıdı uygulanamıyor</string>
     <string name="both_all_apply_success">Duvar kağıdı uygulandı</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
@@ -201,7 +201,7 @@
     <string name="concentration_old_period">Daha fazla</string>
     <string name="copy">Kopyala</string>
     <string name="count_down_tip">%d saniye kaldı</string>
-    <string name="current_using">Mevcut</string>
+    <string name="current_using">Kullanılıyor</string>
     <string name="current_using_desktop_wallpaper_text">Ana ekran</string>
     <string name="current_using_float_wallpaper_text">Şeffaf</string>
     <string name="current_using_lockscreen_wallpaper_text">Kilit ekranı</string>
@@ -397,7 +397,7 @@
     <string name="gallery_wallpaper">Duvar kağıdı döngüsü</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
-    <string name="gallery_wallpaper_theme">Olması gereken duvar kağıtları</string>
+    <string name="gallery_wallpaper_theme">Önerilen duvar kağıtları</string>
     <string name="gift_anonymous">Anonim</string>
     <string name="gift_count_format">%1$s+</string>
     <string name="gift_operation_fail_dlg_abandon"> İptal et</string>

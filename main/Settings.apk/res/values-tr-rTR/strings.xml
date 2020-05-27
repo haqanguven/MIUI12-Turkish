@@ -1597,7 +1597,7 @@ Telefonunuz kullanmaya devam edebilmek için fabrika ayarlarına sıfırlama iş
     <string name="crypt_keeper_warn_wipe">Uyarı: Cihazınız ^1 kez daha başarısız kilit açma denemesinden sonra silinecek</string>
     <string name="cryptkeeper_emergency_call">Acil durum araması</string>
     <string name="cryptkeeper_return_to_call">Aramaya dön</string>
-    <string name="cryptkeeper_wrong_password">Yanlış Şifre</string>
+    <string name="cryptkeeper_wrong_password">Yanlış şifre</string>
     <string name="cryptkeeper_wrong_pattern">Yanlış desen</string>
     <string name="cryptkeeper_wrong_pin">Yanlış Pin</string>
     <string name="current_backup_pw_prompt">Buraya mevcut tam yedekleme şifrenizi yazın</string>
@@ -2445,9 +2445,9 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="firewall_wifi_dialog_message">Yüklü uygulama bu anahtar kapalı olduğunda wifi kullanarak internete bağlanamaz</string>
     <string name="firmware_title">Android</string>
     <string name="firmware_version">Android sürümü</string>
-    <string name="flash_drive_backup_disable">Önce USB sürücüsünü bağlayın</string>
+    <string name="flash_drive_backup_disable">Önce USB sürücüsünü bağlayın ve USB kullanarak cihazınızı yedekleyin veya geri yükleyin</string>
     <string name="flash_drive_backup_enable">Öğeleri yedeklemek veya geri yüklemek için bir USB sürücü kullanın</string>
-    <string name="flash_drive_backup_restore">USB kullanarak yedekle veya geri yükle</string>
+    <string name="flash_drive_backup_restore">USB</string>
     <string name="flash_drive_backup_restore_summary">Bir USB sürücüsü bağlayın</string>
     <string name="floating_window_switch_label">Kayan pencereleri aç</string>
     <string name="floating_window_switch_label_disable">Kayan pencereleri kapat</string>
@@ -3936,7 +3936,7 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="notifications_hidden">Kilit ekranında yok</string>
     <string name="notifications_label">Bildirimler</string>
     <string name="notifications_partly_blocked">%1$d / %2$d kategori kapalı</string>
-    <string name="notifications_priority">Rahatsız Etmeyin geçersiz kılındı</string>
+    <string name="notifications_priority">Rahatsız etme geçersiz kılındı</string>
     <string name="notifications_redacted">Hassas içerik kilit ekranında yok</string>
     <string name="notifications_sent_daily">~%1$s / gün</string>
     <string name="notifications_sent_never">Hiçbir zaman</string>
@@ -5618,9 +5618,7 @@ Bu ^1 birimi sadece bu cihazda çalışacak şekilde biçimlendirilmiştir. Baş
     <string name="storage_rename_title">Depolama alanına yeni ad ver</string>
     <string name="storage_settings">Depolama</string>
     <string name="storage_settings_summary">USB belleğin bağlantısını kes, kullanılabilir depolama alanını görüntüle</string>
-    <string name="storage_settings_title">"Depolama ayarları
-	
-"</string>
+    <string name="storage_settings_title">Depolama ayarları</string>
     <string name="storage_summary">%1$s kullanılıyor - %2$s boş</string>
     <string name="storage_summary_format">%1$s kullanılıyor (%2$s)</string>
     <string name="storage_summary_with_sdcard">Dahili depolama alanı: %1$s kullanılıyor - %2$s boş</string>
@@ -7238,7 +7236,7 @@ Görünüşe göre kimlik depolama etkinleştirilmemiş"</string>
     <string name="zen_mode_button_turn_off">Şimdi kapat</string>
     <string name="zen_mode_button_turn_on">Şimdi etkinleştir</string>
     <string name="zen_mode_calls">Aramalar</string>
-    <string name="zen_mode_calls_footer">Rahatsız Etmeyin ayarı açık olduğunda gelen aramalar engellenir. Ayarları arkadaşlarınızın, ailenizin veya diğer kişilerin size ulaşmasına izin verecek şekilde düzenleyebilirsiniz</string>
+    <string name="zen_mode_calls_footer">Rahatsız etme ayarı açık olduğunda gelen aramalar engellenir. Ayarları arkadaşlarınızın, ailenizin veya diğer kişilerin size ulaşmasına izin verecek şekilde düzenleyebilirsiniz</string>
     <string name="zen_mode_calls_summary_one">Aramayı yapan: %1$s</string>
     <string name="zen_mode_calls_summary_two">Şu kaynaklardan: %1$s ve %2$s</string>
     <string name="zen_mode_calls_title">Çağrılara izin ver</string>

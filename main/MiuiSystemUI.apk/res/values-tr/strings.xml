@@ -678,7 +678,7 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="fs_gesture_back_ready_title">Geri git</string>
     <string name="fs_gesture_final_over">Hazırım</string>
     <string name="fs_gesture_final_restart">Bir kez daha</string>
-    <string name="fs_gesture_final_summary">Tuşları kullanmaya Ayarlar > Tam ekran görünüm menüsünde geri dönebilirsiniz</string>
+    <string name="fs_gesture_final_summary">Tuşları kullanmaya ayarlar menüsünden geri dönebilirsiniz</string>
     <string name="fs_gesture_final_title">Artık hazırsınız</string>
     <string name="fs_gesture_finish">Harika</string>
     <string name="fs_gesture_left_back_ready_summary">Ekranın köşesinden sağa kaydır</string>

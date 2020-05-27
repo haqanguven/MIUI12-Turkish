@@ -127,7 +127,7 @@
     <string name="app_category_tools">Araçlar</string>
     <string name="app_category_travel">Seyahat</string>
     <string name="app_category_vr">VR</string>
-    <string name="app_name">matrix-io-canary</string>
+    <string name="app_name">smallWindow</string>
     <string name="application_name">Sistem başlatıcı</string>
     <string name="apply">Ayarla</string>
     <string name="apply_action">Ayarla</string>
@@ -168,6 +168,10 @@
     <string name="choose_wallpaper">Duvar kağıdı seçin</string>
     <string name="chooser_wallpaper">Yeni bir duvar kağıdı seçin</string>
     <string name="cloud_app_restore_title">Beklemede</string>
+    <string name="common_home_search_delete">Ana ekran arama çubuğu siliniyor</string>
+    <string name="common_home_search_delete_cancle">İptal et</string>
+    <string name="common_home_search_delete_confirm">Sil</string>
+    <string name="common_home_search_delete_content">Sildikten sonra ana ekran arama çubuğunu kullanarak öğeleri arayamazsınız. Yine de silinsin mi?</string>
     <string name="configure_wallpaper">Ayarlar</string>
     <string name="confirm_btn_label">Tamam</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Çift uygulamalar bunlarla birlikte kaldırılacaktır</string>
@@ -389,7 +393,7 @@
     <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
     <string name="open_personal_assistant_title">Uygulama kasası</string>
     <string name="out_of_space">Ana ekranda yeterli boş alan yok</string>
-    <string name="perfect_icons_switch_summary">Üçüncü taraf uygulama simgelerine animasyonlar oluşturun</string>
+    <string name="perfect_icons_switch_summary">Animasyonları üçüncü taraf uygulama simgelerinden oluşturur</string>
     <string name="perfect_icons_switch_title">Simge animasyonları</string>
     <string name="permdesc_install_shortcut">Bir uygulamanın kullanıcı izni olmadan kısayol eklemesine izin verir</string>
     <string name="permdesc_install_widget">Bir uygulamaya kullanıcı müdahalesi olmadan araç yerleştirme izni verir</string>
@@ -471,8 +475,6 @@
     <string name="reset_fail">Geri yüklenemedi</string>
     <string name="reset_scene_prompt">Ekran varsayılan ekran düzenine sıfırlanacaktır</string>
     <string name="reset_title">Geri yükle</string>
-    <string name="resource_canary_leak_tip">Sızıntı var</string>
-    <string name="resource_canary_wait_for_heapdump_message">Anlık yığın görüntüsü boşaltılıyor</string>
     <string name="screen_cells_config_title">Ana ekran düzeni</string>
     <string name="screen_locked_toast">Ana ekran düzeni kilitli</string>
     <string name="screen_number">%d. ekran</string>

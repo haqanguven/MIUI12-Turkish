@@ -276,7 +276,7 @@
     <string name="module_white_noise_download_data_privacy">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmek ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Şu anda mobil veri kullanıyorsunuz. Kabul ediyor musunuz?</string>
     <string name="module_white_noise_download_wifi">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmelidir. Şimdi indirilsin mi?</string>
     <string name="module_white_noise_download_wifi_privacy">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmek ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
-    <string name="monday_to_friday">Pazartesiden cumaya</string>
+    <string name="monday_to_friday">Pazartesi - cuma</string>
     <string name="more_alert_setting">Ek alarm ayarları</string>
     <string name="more_setting">Daha fazla ayar</string>
     <string name="more_settings">Ayarlar</string>
