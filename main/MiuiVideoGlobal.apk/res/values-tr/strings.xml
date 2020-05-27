@@ -108,13 +108,13 @@
     <string name="all">Tümünü göster</string>
     <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
     <string name="app_name">Videolar</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
     <string name="auto_play_next_on">Otomatik oynatma açık</string>
     <string name="before_yestoday">2 gün önce</string>
     <string name="bind_sign_in_title">Hesap ekle</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_choose">Seçimi kaldır</string>
     <string name="cancel_subscribe_tips">Takip sonlandırılsın mı?</string>

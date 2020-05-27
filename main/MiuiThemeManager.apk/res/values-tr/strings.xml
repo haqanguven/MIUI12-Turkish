@@ -95,7 +95,7 @@
     <string name="backup_theme_success_message">Kullanılan tema ayarlarınız yedeklendi</string>
     <string name="both_all_apply_failured">Duvar kağıdı uygulanamıyor</string>
     <string name="both_all_apply_success">Duvar kağıdı uygulandı</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="browser_local_resource">Yerel kaynaklar</string>
     <string name="can_not_apply">Uygulanamıyor</string>
     <string name="card_data_request_error">Bir hata meydana geldi. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>

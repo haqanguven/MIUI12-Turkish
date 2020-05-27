@@ -48,7 +48,7 @@
     <string name="barcode_into_rectangle">Kodu çerçevenin içerisine hizalayın</string>
     <string name="birthday">Doğum günü:</string>
     <string name="blog">Weibo</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="business_card">İş kartı</string>
     <string name="business_card_result_title">İş kartı</string>
     <string name="business_card_title">İş kartını karenin içerisine hizalayın</string>

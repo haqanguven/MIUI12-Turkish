@@ -149,7 +149,7 @@
     <string name="app_control_title">Uygulama yönetimi</string>
     <string name="app_market_desc">Bebeğin çocuk alanında kullanabileceği uygulamayı indirin</string>
     <string name="app_market_title">Uygulama mağazası</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="btn_connecting">Bağlanılıyor</string>
     <string name="btn_holding">Yükleme bekleniliyor</string>
