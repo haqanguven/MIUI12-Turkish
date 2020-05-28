@@ -659,7 +659,7 @@ Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki i
     <string name="usage_state_work_day_hour_minute">Hafta içi: %1$d saat %2$d dakika</string>
     <string name="usage_stats_device_limit">Ekipman kullanım kısıtlamaları</string>
     <string name="usage_stats_device_limit_summary">Günlük cihazın kullanılabilir zamanını ayarla</string>
-    <string name="usage_stats_experience_text">Denemek için hafifçe vurun (1 dakika)</string>
+    <string name="usage_stats_experience_text">Denemek için dokunun (1 dakika)</string>
     <string name="usage_stats_limit_time_accuracy_title">Kalan sürenin ekran doğruluğu</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Kalan kullanılabilir süre dakikaya kadar doğrudur ve güç tüketimi yüksektir</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Yüksek hassasiyet</string>

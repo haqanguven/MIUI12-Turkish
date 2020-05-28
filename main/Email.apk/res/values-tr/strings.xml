@@ -295,6 +295,7 @@
     <string name="certificate_password_tips_w">Lütfen doğru şifreyi girin</string>
     <string name="change_folders_selection_dialog_title">Klasörleri değiştir</string>
     <string name="change_sync_settings">Senkronizasyon ayarlarını değiştir</string>
+    <string name="changepw_dialog_auth_tips">%S için yetkilendirme kodunu tekrar girin</string>
     <string name="changepw_dialog_tips">%s hesabı parolasını yeniden girin</string>
     <string name="changepw_dialog_tips_please_clikc_btn">%s üzerindeki doğrulama kodunu görüntüleyin ve tekrar oturum açın</string>
     <string name="chat_item_msg_people_unit">kişi</string>
@@ -562,6 +563,23 @@
     <string name="folder_trash_name_en1">Silinen mesajlar</string>
     <string name="folder_trash_name_en2">Silinen mesaj</string>
     <string name="folder_trash_name_en3">[Gmail]/Bin</string>
+    <string name="font_bold_add">Kalın yazı tipi</string>
+    <string name="font_bold_remove">Kalın yazı tipini iptal et</string>
+    <string name="font_color">Geçerli yazı tipi rengi: %s</string>
+    <string name="font_color_black">Siyah</string>
+    <string name="font_color_blue">Mavi</string>
+    <string name="font_color_cyan_blue">Cam mavisi</string>
+    <string name="font_color_gray">Gri</string>
+    <string name="font_color_green">Yeşil</string>
+    <string name="font_color_orange">Turuncu</string>
+    <string name="font_color_purple">Mor</string>
+    <string name="font_color_red">Kırmızı</string>
+    <string name="font_color_white">Beyaz</string>
+    <string name="font_italic_add">İtalik yazı tipi</string>
+    <string name="font_italic_remove">İtalik yazı tipini iptal et</string>
+    <string name="font_size">Geçerli yazı tipi boyutu: %s</string>
+    <string name="font_underline">Altı çizili</string>
+    <string name="font_underline_remove">Altı çiziliyi iptal et</string>
     <string name="forever">Her zaman</string>
     <string name="formatted_email_address">&lt;%1$s></string>
     <string name="formatted_subject">%1$s %2$s</string>
@@ -974,6 +992,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="print_scheduler_title">Tüm zamanlayıcıları yazdır</string>
     <string name="privacy_des">Günlükler e-posta istemcisinin hata ayıklama bilgilerini ve cihaz bilginizi içerir. Bu bilgiler sorunları daha hızlı bir şekilde bulmak için kullanılır. Aşağıdaki %1$s seçeneğine dokunarak %2$s sözleşmemizi kabul etmiş sayılıyorsunuz</string>
     <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Kabul et</string>
     <string name="prompt_title">Komut istemi</string>
     <string name="protocol_eas">eas</string>
@@ -1180,6 +1199,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="ser_resp_err_map_or">%1$s veya %2$s</string>
     <string name="ser_resp_err_map_pserr">Hatalı kullanıcı adı veya şifre</string>
     <string name="ser_resp_err_map_serclosed">%s sunucusu kapalı</string>
+    <string name="ser_resp_err_map_serclosed_info">%s sunucusu kapatıldı</string>
     <string name="ser_resp_err_map_ssl">"Güvenlik türü menüsünde SSL/TLS opsiyonunu seçin"</string>
     <string name="service_protocol_discribe"><u>WPS mail hizmet sözleşmesini okudum ve kabul ediyorum</u></string>
     <string name="service_protocol_title">Hizmet sözleşmesi</string>
@@ -1276,6 +1296,9 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="too_large_to_attach_additional">Maksimum dosya boyutu: %1$s</string>
     <string name="too_large_to_attach_multiple">Dosya eklenemiyor. Eklenebilecek maksimum dosya boyutu: %1$s</string>
     <string name="too_large_to_attach_single">%1$s boyutundan büyük dosyalar eklenemiyor</string>
+    <string name="toolbar_add_image">Fotoğraf ekle</string>
+    <string name="toolbar_part_num">Paragraf numarası</string>
+    <string name="toolbar_part_symbol">Paragraf sembolü</string>
     <string name="topic_merge">Görüntüleme ayarları</string>
     <string name="topic_merge_summary">Konuya göre grupla</string>
     <string name="translation_loading">Yükleniyor</string>
