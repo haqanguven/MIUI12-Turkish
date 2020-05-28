@@ -395,14 +395,14 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_input_vcode_hint">Doğrulama kodunu girin</string>
     <string name="passport_input_voice_captcha_hint">Ses doğrulama kodunu girin</string>
     <string name="passport_input_voice_hint">Ses kodunu girin</string>
-    <string name="passport_international_register_by_email">E-posta adresini kullanarak bir hesap oluşturun</string>
+    <string name="passport_international_register_by_email">E-posta adresi ile hesap oluştur</string>
     <string name="passport_license_host_unreachable">Ağa bağlanamıyor. Bu sayfayı %s adresinde görüntüleyebilirsiniz</string>
     <string name="passport_loading">Yükleniyor</string>
     <string name="passport_login">Oturum aç</string>
     <string name="passport_login_failed">Oturum açılamıyor</string>
     <string name="passport_login_instead_reg">Bu numarayı kullan</string>
     <string name="passport_login_instead_reg_with_email">Bu e-posta adresini kullan</string>
-    <string name="passport_login_other_account">Diğer hesap</string>
+    <string name="passport_login_other_account">Diğer hesaplar</string>
     <string name="passport_login_prompt">Tek bir Mi hesabı. Tüm Mi hizmetleri</string>
     <string name="passport_login_recycle_account_no">Hayır</string>
     <string name="passport_login_recycle_account_yes">Evet</string>
@@ -413,7 +413,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_next">Sonraki</string>
     <string name="passport_no">Hayır</string>
     <string name="passport_notification_title">%1$s hesabı giriş hatası</string>
-    <string name="passport_password_phone_login">Mi hesabı kullanarak oturum açın</string>
+    <string name="passport_password_phone_login">Mi hesabı ile oturum aç</string>
     <string name="passport_password_req_notice">Şifreniz 8-16 karakter uzunluğunda olmalı. Rakam ve harf içermelidir (Büyük küçük harf duyarlıdır)</string>
     <string name="passport_phone_num_hint_text">Telefon numarası</string>
     <string name="passport_phone_ticket_login">Mesaj ile oturum aç</string>
