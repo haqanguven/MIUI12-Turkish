@@ -1188,6 +1188,11 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
     <string name="overview">Genel bakış</string>
     <string name="owner_info_settings_edit_text_hint">Örneğin: Hakan GÜVEN</string>
+    <string name="partial_screenshot_edit">Düzenle</string>
+    <string name="partial_screenshot_repaint">Baştan başla</string>
+    <string name="partial_screenshot_save">Kaydet</string>
+    <string name="partial_screenshot_save_successful">Kaydedildi</string>
+    <string name="partial_screenshot_share">Paylaş</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="phone_hint">Telefon için simgeden kaydır</string>
     <string name="phone_label">Telefonu aç</string>
@@ -1619,6 +1624,7 @@ Kilitlemek için aşağı doğru kaydırın"</string>
     <string name="status_bar_recent_guide_bottom">Kilitlemek için aşağı doğru kaydırın</string>
     <string name="status_bar_recent_guide_top">Kapatmak için yukarı kaldırın</string>
     <string name="status_bar_recent_inspect_item_title">Uygulama bilgisi</string>
+    <string name="status_bar_recent_memory_info1">"%2$sB - %1$sB kullanılabilir"</string>
     <string name="status_bar_recent_remove_item_title">Listeden kaldır</string>
     <string name="status_bar_recording_back">Ses kaydediciye dön</string>
     <string name="status_bar_recording_pause">Kayıt duraklatıldı</string>
