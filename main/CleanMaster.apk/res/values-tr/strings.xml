@@ -455,7 +455,7 @@
     <string name="installed">Yüklendi</string>
     <string name="installing">Yükleniyor</string>
     <string name="item_title_process_mode">Bir eylem seçin</string>
-    <string name="junk_syscache_alert_desc">Bu önbelleği temizlemenizi önermiyoruz.<font color="#d64438">"Temizlendikten sonra APP'nin normal çalışmasını etkileyecektir"</font></string>
+    <string name="junk_syscache_alert_desc">"Bu önbelleği temizlemenizi önermiyoruz.<font color="#d64438">Temizlendikten sonra APP'nin normal çalışmasını etkileyecektir</font>"</string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Yazılım sistemi kalıntısı (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">LG telefonu demo videosu</string>
     <string name="junk_tag_RF_DemoVideo_MIUI">Mi telefon markası görüntü videosu</string>
@@ -700,9 +700,9 @@
     <string name="recommended">Öne çıkanlar</string>
     <string name="remain_item_name_n7p" />
     <string name="remain_item_name_pamp" />
-    <string name="resutl_function_deep_clean_summary">"<font color="#ff0000">%1$s</font> daha fazla dosya temizlenebilir. Daha fazla alan boşaltın"</string>
-    <string name="resutl_function_qq_clean_summary">"QQ tarafından oluşturulan <font color="#ff0000">%1$s</font> önbelleği temizleyebilirsiniz"</string>
-    <string name="resutl_function_wechat_clean_summary">""<font color="#ff0000">%1$s</font> WeChat önbelleği. Daha fazla alan boşaltın"</string>
+    <string name="resutl_function_deep_clean_summary"><font color="#ff0000">%1$s</font> daha fazla dosya temizlenebilir. Daha fazla alan boşaltın</string>
+    <string name="resutl_function_qq_clean_summary">QQ tarafından oluşturulan <font color="#ff0000">%1$s</font> önbelleği temizleyebilirsiniz</string>
+    <string name="resutl_function_wechat_clean_summary"><font color="#ff0000">%1$s</font> WeChat önbelleği. Daha fazla alan boşaltın</string>
     <string name="sc_allow_network_dialog_button">İzin ver</string>
     <string name="sc_allow_network_dialog_message">Bu uygulamanın güncelleme dosyalarını almak amacıyla internete bağlanmasına izin verilsin mi?</string>
     <string name="scanning">Taranıyor</string>
@@ -720,59 +720,6 @@
     <string name="start_downloading_app">İndirme işlemine başlanıyor: %1$s</string>
     <string name="start_install">Şimdi yükle</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_activity_title">Depolama alanı</string>
-    <string name="storage_app_detail_activity_title">Dolu alan</string>
-    <string name="storage_app_detail_cache">Önbellek</string>
-    <string name="storage_app_detail_clear_all_data">Tüm verileri temizle</string>
-    <string name="storage_app_detail_clear_all_dialog_message">Bu uygulamanın tüm verileri kalıcı olarak silinecek. Silinen içerik tüm dosyaları, ayarları, hesapları, veri tabanlarını, uygulama önbellekleri gibi bilgileri içerir</string>
-    <string name="storage_app_detail_clear_all_dialog_title">Tüm verileri silmek istiyor musunuz?</string>
-    <string name="storage_app_detail_clear_cache">Önbelleği temizle</string>
-    <string name="storage_app_detail_clear_cache_title">Uygulama önbelleğini temizlemek istiyor musunuz?</string>
-    <string name="storage_app_detail_dialog_cancel">İptal et</string>
-    <string name="storage_app_detail_dialog_ok">Tamam</string>
-    <string name="storage_app_detail_manage_space">%s - Depolama alanını yönetin</string>
-    <string name="storage_app_detail_manager_enabled">Etkin</string>
-    <string name="storage_app_detail_qq_cleaner">QQ özel temizle</string>
-    <string name="storage_app_detail_sdcard">Uygulama verisi</string>
-    <string name="storage_app_detail_system">Uygulama boyutu</string>
-    <string name="storage_app_detail_third_clean_size">%s boşalt</string>
-    <string name="storage_app_detail_total">Kullanılan toplam alan</string>
-    <string name="storage_app_detail_uninstall_app">Uninstall app</string>
-    <string name="storage_app_detail_uninstall_dialog_message">Uygulama kaldırıldıktan sonra tüm verileride silinecektir</string>
-    <string name="storage_app_detail_uninstall_dialog_title">Kaldırmak istiyor musunuz?</string>
-    <string name="storage_app_detail_uninstall_done">Kaldırma işlemi tamamlandı</string>
-    <string name="storage_app_detail_wechat_cleaner">WeChat temizleyici</string>
-    <string name="storage_app_detail_wechat_session">WeChat sohbet geçmişini temizle</string>
-    <string name="storage_app_list_activity_title">Uygulama ayrıntıları</string>
-    <string name="storage_app_list_desc">Dolu alan: %s</string>
-    <string name="storage_app_manager_clear_dlg_title">Verileri temizle</string>
-    <string name="storage_app_manager_clear_failed_dlg_message">Uygulama verileri silinemedi</string>
-    <string name="storage_app_manager_disable_dlg_text">Bu uygulamayı devre dışı bırakırsanız diğer uygulamalar düzgün çalışmayabilir</string>
-    <string name="storage_app_manager_disable_dlg_title">Yerleşik uygulamaları devre dışı bırakmak istiyor musunuz?</string>
-    <string name="storage_app_manager_disable_text">Devre dışı</string>
-    <string name="storage_app_manager_factory_reset_dlg_msg">Android sistemiyle gelen uygulamalarla ilgili tüm güncellemeler kaldırılacak</string>
-    <string name="storage_app_manager_factory_reset_dlg_title">Güncellemeyi kaldırmak istiyor musunuz?</string>
-    <string name="storage_app_manager_uninstall_application">Kaldır</string>
-    <string name="storage_app_manager_uninstall_protected_dlg_msg">Sistem ön ayarlı bileşenlerini zorlayarak kaldırmak sistemin bazı işlevlerinin normal şekilde kullanılmamasına veya anormal çalışmasına neden olabilir</string>
-    <string name="storage_app_manager_uninstall_protected_dlg_title">Uyarı</string>
-    <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Bu uygulama çift uygulamaya sahiptir ve kaldırma çift uygulama ile birlikte silinir</string>
-    <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Çift uygulamayı kaldırdıktan sonra uygulama içi veriler silinecektir</string>
-    <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Çift uygulamayı kaldırmak istiyor musunuz?</string>
-    <string name="storage_app_space_details_entry">Uygulama ayrıntılarını görüntüle</string>
-    <string name="storage_app_uninstall_app_dialog_msg">Uygulama kaldırıldıktan sonra tüm verileride silinecektir</string>
-    <string name="storage_app_uninstall_app_dialog_title">Kaldır</string>
-    <string name="storage_available_total_size">%2$s üzerinden %1$s kullanılabilir</string>
-    <string name="storage_deepclean_entry">Derin temizlik</string>
-    <string name="storage_item_apk_name">Apk</string>
-    <string name="storage_item_appdata_name">Uygulamalar ve veriler</string>
-    <string name="storage_item_audio_name">Ses</string>
-    <string name="storage_item_clean_name">Yer açın</string>
-    <string name="storage_item_doc_name">Belgeler</string>
-    <string name="storage_item_other_name">Diğer</string>
-    <string name="storage_item_picture_name">Fotoğraflar</string>
-    <string name="storage_item_system_name">Sistem</string>
-    <string name="storage_item_video_name">Video</string>
-    <string name="storage_space_release_hint">Daha fazla depolama alanına mı ihtiyacınız var?</string>
     <string name="summary_auto_cleaner">Çöp boyutu 100 MB boyutunu geçtiğinde bildirim alınsın mı?</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">"Seçili Apk'lar kalıcı olarak silinsin mi?"</string>

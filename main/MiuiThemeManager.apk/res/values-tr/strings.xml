@@ -226,7 +226,7 @@
     <string name="de_icon_text_share">Paylaş</string>
     <string name="de_mix">Oluştur</string>
     <string name="de_mix_dialog_title">Temanızı oluşturun</string>
-    <string name="de_mix_mode_aod">Her zaman açık ekran</string>
+    <string name="de_mix_mode_aod">Her zaman açık</string>
     <string name="de_mix_mode_aod_desc">Arka planları ve saat biçimini özelleştirin</string>
     <string name="de_mix_mode_desktop">Ana ekran</string>
     <string name="de_mix_mode_desktop_desc">Duvar kağıdı ve saat</string>
@@ -455,13 +455,13 @@
     <string name="hide_free_miwallpaper">Ücretsiz ana efektlerini gizle</string>
     <string name="hide_free_theme">Ücretsiz temaları gizle</string>
     <string name="hide_free_wallpaper">Ücretsiz duvar kağıtlarını gizle</string>
-    <string name="hide_incompatible">Uyumsuz %1$s öğeyi gizle</string>
-    <string name="hide_mamual_hide_aod">Gizlenmiş her zaman açık ekran öğelerini gösterme</string>
-    <string name="hide_mamual_hide_font">Gizlenmiş yazı tiplerini gösterme</string>
-    <string name="hide_mamual_hide_icons">Gizlenmiş simgeleri gösterme</string>
-    <string name="hide_mamual_hide_miwallpaper">Gizlenmiş ana ekran efektlerini gösterme</string>
-    <string name="hide_mamual_hide_theme">Gizlenmiş temaları gösterme</string>
-    <string name="hide_mamual_hide_wallpaper">Gizlenmiş duvar kağıtlarını gösterme</string>
+    <string name="hide_incompatible">Uyumsuz %1$s gizle</string>
+    <string name="hide_mamual_hide_aod">Gizlenmiş her zaman açık ekran öğelerini gizle</string>
+    <string name="hide_mamual_hide_font">Gizlenmiş yazı tiplerini gizle</string>
+    <string name="hide_mamual_hide_icons">Gizlenmiş simgeleri gizle</string>
+    <string name="hide_mamual_hide_miwallpaper">Gizlenmiş ana ekran efektlerini gizle</string>
+    <string name="hide_mamual_hide_theme">Gizlenmiş temaları gizle</string>
+    <string name="hide_mamual_hide_wallpaper">Gizlenmiş duvar kağıtlarını gizle</string>
     <string name="hide_pull_down_message">Biblo gizlensin mi?</string>
     <string name="hide_pull_down_negative">Gizlenemedi</string>
     <string name="hide_pull_down_positive">Gizle</string>
@@ -519,9 +519,9 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="mine_tab_not_login">"Öğeleri görüntülemek için oturum açın
 Şimdi oturum açmak için buraya dokunun"</string>
     <string name="mine_tab_title_favorite">Favoriler</string>
-    <string name="mine_tab_title_like">Beğendiler</string>
+    <string name="mine_tab_title_like">Beğeniler</string>
     <string name="mine_tab_title_local">Yerel</string>
-    <string name="mine_tab_title_purchase">Siparişleri</string>
+    <string name="mine_tab_title_purchase">Satın alınanlar</string>
     <string name="miuishare_account_activate_confirmation">Mi hesabını etkinleştir</string>
     <string name="miuishare_account_activate_ok">Etkinleştir</string>
     <string name="miuishare_account_login_cancel">İptal et et</string>
@@ -812,7 +812,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="resource_exchange_unavailable">Girmiş olduğunuz kod ile ilişkilendirilmiş olan tema kullanılabilir durumda değil</string>
     <string name="resource_exchange_universal_finish">Temalar uygulamasında öğe indirmek için bu kodu kullanın</string>
     <string name="resource_exchange_universal_goon">Bu kod market içerisindeki herhangi bir temayı indirmek için kullanılabilir</string>
-    <string name="resource_exchange_window_title">Kullan</string>
+    <string name="resource_exchange_window_title">Hadiye kodu</string>
     <string name="resource_exchange_wrong_format_by_local">Girmiş olduğunuz kod biçimi hatalı</string>
     <string name="resource_exchange_wrong_format_by_server">Kod doğrulanamadı. Kodu doğru olarak girdiğinizden emin olun</string>
     <string name="resource_expand_full_text">Genişlet</string>
@@ -971,7 +971,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="show_free_miwallpaper">Ücretsiz ana ekran efektlerini göster</string>
     <string name="show_free_theme">Ücretsiz temaları göster</string>
     <string name="show_free_wallpaper">Ücretsiz duvar kağıtlarını göster</string>
-    <string name="show_incompatible">Uyumsuz %1$s ögeyi göster</string>
+    <string name="show_incompatible">Uyumsuz %1$s göster</string>
     <string name="show_mamual_hide_aod">Gizli her zaman açık öğeleri göster</string>
     <string name="show_mamual_hide_font">Gizli yazı tiplerini göster</string>
     <string name="show_mamual_hide_icons">Gizli simgeleri göster</string>
@@ -1089,12 +1089,12 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="theme_comment_dialog_ok">İnceleme</string>
     <string name="theme_comment_sub_comment_bar_hint">Fikirlerinizi topluluğumuzla paylaşın</string>
     <string name="theme_community">Topluluk</string>
-    <string name="theme_component_aod">Her zaman açık ekran</string>
+    <string name="theme_component_aod">Her zaman açık</string>
     <string name="theme_component_icon">Simgeler</string>
     <string name="theme_component_title_alarm">Alarm</string>
     <string name="theme_component_title_alarmstyle">Alarm stili</string>
     <string name="theme_component_title_all">Temalar</string>
-    <string name="theme_component_title_aod">Her zaman açık ekran</string>
+    <string name="theme_component_title_aod">Her zaman açık</string>
     <string name="theme_component_title_audio_effect">Sesler</string>
     <string name="theme_component_title_boot_animation">Açılış animasyonu</string>
     <string name="theme_component_title_boot_audio">Açılış sesi</string>
@@ -1180,7 +1180,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="title_system_audio_alarm_resource">Sistem alarmları</string>
     <string name="title_system_audio_notification_resource">Sistem bildirimleri</string>
     <string name="title_system_audio_resource">Sistem zil sesleri</string>
-    <string name="title_system_wallpaper_resource">Sistem duvarkağıtları</string>
+    <string name="title_system_wallpaper_resource">Sistem duvar kağıtları</string>
     <string name="to_activate_the_account">Mi hesabınızı şimdi etkinleştirin</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
@@ -1201,7 +1201,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="transparent_wallpaper_guide">Temalara git</string>
     <string name="transparent_wallpaper_guide_tip">Şimdi Temalardan saydam duvar kağıdı seçebilirsiniz</string>
     <string name="transparent_wallpaper_is_running_in_background">Şeffaf duvar kağıdı arka planda çalışıyor</string>
-    <string name="transparent_wallpaper_pref_summary">Azaltılmış arkaplan opaklığına sahip duvar kağıtları</string>
+    <string name="transparent_wallpaper_pref_summary">Azaltılmış arka plan opaklığına sahip duvar kağıtları</string>
     <string name="transparent_wallpaper_white_wallpaper">Arka planı beyazlaştır</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">Arka plan rengi beyazlaştırılamadı</string>
     <string name="transparent_wallpaper_white_wallpaper_success">Arka plan rengi şimdi beyaz</string>
@@ -1233,7 +1233,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="update_no_net">Bir ağ hatası meydana geldi. Tekrar deneyin</string>
     <string name="update_title">Yeni güncelleme mevcut</string>
     <string name="using_theme_has_update_tips">Bu tema için bir güncelleme mevcut</string>
-    <string name="using_theme_next_automatic_update">Otomatik güncelleme</string>
+    <string name="using_theme_next_automatic_update">Otomatik güncelle</string>
     <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda wifi ağı üzerinden otomatik olarak günceller</string>
     <string name="using_theme_show_ad">Öneriler</string>
     <string name="v7_preference_off">Kapalı</string>
@@ -1312,8 +1312,8 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wifi_check_message">Güncellemeleri indirmek için mobil veri kullanılsın mı?</string>
     <string name="wifi_check_tip">Tekrar gösterme</string>
     <string name="xiaoai_speech_not_installed_download">İndir</string>
-    <string name="xiaoai_speech_not_installed_message">Devam etmek için Mi AI sesli yardımcısını indirin ve yükleyin</string>
-    <string name="xiaoai_speech_not_installed_title">Mi AI sesli yardımcısı yüklü değil</string>
+    <string name="xiaoai_speech_not_installed_message">Devam etmek için Mi AI yardımcısını indirin ve yükleyin</string>
+    <string name="xiaoai_speech_not_installed_title">Mi AI yardımcısı yüklü değil</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme yöneticine bağlanma başarısız oldu. Lütfen uygulama yönetimindeki indirme yöneticisi durumunu kontrol edin</string>
     <string name="xiaomi_update_sdk_dialog_message">"Tanıtımı sürümü: %1$s

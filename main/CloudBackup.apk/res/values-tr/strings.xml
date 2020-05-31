@@ -37,7 +37,6 @@
     <string name="back_up_task_in_process">Yedekleniyor</string>
     <string name="back_up_task_unfinished">Yedekleme işlemi tamamlanmadı</string>
     <string name="backing_up_to_micloud">Yedekleniyor</string>
-    <string name="backup_fail_wifi_needed">Yedeklenemedi. Wifi ağı gerekli</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi bulutda yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın</string>
     <string name="backup_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın</string>
     <string name="backup_failed_reason_network_error">Ağ hatası. Bir iki dakika bekleyin ve tekrar deneyin</string>
@@ -58,6 +57,7 @@
     <string name="btn_restore_resume">Devam et</string>
     <string name="btn_restore_retry">Tekrar dene</string>
     <string name="btn_restore_wait">Wifi ağı bekleniyor</string>
+    <string name="btn_restore_wait_china">Wifi ağı bekleniyor</string>
     <string name="btn_retry">Tekrar kontrol et</string>
     <string name="btn_skip">Bu adımı atla</string>
     <string name="button_cancel">İptal et</string>
@@ -81,7 +81,13 @@
     <string name="cloud_app_restore_success">Uygulamalar geri yüklendi</string>
     <string name="cloud_app_restore_wifi_prompt">Bulut yedeklemesinden geri yükleyin</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-    <string name="cloud_back_up_detail_discription">"Cihazınız bir wifi ağına bağlandığında belirtilen ögeler Xiaomi bulut alanınıza yedeklenecektir: 
+    <string name="cloud_back_up_detail_discription">"Cihazınız bir wifi ağına bağlandığında belirtilen öğeler Xiaomi bulut alanınıza yedeklenecektir: 
+* Uygulamalar, ana ekran düzeni ve duvar kağıtları 
+* Alarmlar, saat ve zaman ayarları 
+* Bildirim ayarları 
+* Miui ve sistem ayarları 
+Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedeklenmez"</string>
+    <string name="cloud_back_up_detail_discription_china">"Cihazınız bir wifi ağına bağlandığında belirtilen öğeler Xiaomi bulut alanınıza yedeklenecektir: 
 * Uygulamalar, ana ekran düzeni ve duvar kağıtları 
 * Alarmlar, saat ve zaman ayarları 
 * Bildirim ayarları 
@@ -90,7 +96,6 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_back_up_frequence_choice_title">Zamanlı yedekleme</string>
     <string name="cloud_back_up_frequence_long">Her 7 gün</string>
     <string name="cloud_back_up_frequence_short">Her gün</string>
-    <string name="cloud_back_up_no_network_warn">Wifi ağına bağlanılamıyor</string>
     <string name="cloud_back_up_ok_btn">Tamam</string>
     <string name="cloud_back_up_opening">Yükleniyor</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Yükselt</string>
@@ -103,6 +108,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_backup_detail_manage">Yedekleri yönet</string>
     <string name="cloud_backup_detail_state">Xiaomi bulut yedekleme</string>
     <string name="cloud_backup_detail_state_summary">Wifi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
+    <string name="cloud_backup_detail_state_summary_china">Wifi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
     <string name="cloud_backup_detail_time">Son yedekleme: %1$s</string>
     <string name="cloud_backup_detail_title">Ana ekran, uygulamalar ve ayarlar</string>
     <string name="cloud_backup_have_data">Xiaomi bulut alanında yedek bulundu</string>
@@ -138,7 +144,9 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="dialog_cancel_backup_title">Devam eden yedekleme işlemi iptal edilsin mi?</string>
     <string name="dialog_msg_overwrite_backup">Yerel yedekleme Xiaomi buluttakinden farklı. Devam ederseniz geçerli yedekleme öncekinin üzerine yazacaktır</string>
     <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
+    <string name="dialog_msg_restore_require_wlan_china">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
     <string name="dialog_title_require_wlan">Wifi ağına bağlan</string>
+    <string name="dialog_title_require_wlan_china">Wifi ağına bağlan</string>
     <string name="dir_date_format">HHmmss_MMddyyyy</string>
     <string name="doing_calc_backup_data_size">Boyut hesaplanıyor</string>
     <string name="doing_restore_home">Ana ekran ve ayarlar geri yükleniyor</string>
@@ -181,7 +189,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="msg_alert_restore_error">Bulut yedeklemesinden geri yüklenemedi. Lütfen tekrar deneyin</string>
     <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz mobil veri indirmek için kullanılacaktır</string>
-    <string name="msg_restore_with_metered_network_pattern"><b><font color="'red'">%s dosya </font></b>indirilecek</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> dosya indirilecek"</string>
     <string name="network_error">Ağa bağlan</string>
     <string name="no_account">Mi hesabı oturumu açılmadı</string>
     <string name="no_backup">Xiaomi bulut alanında yedek yok</string>
@@ -189,9 +197,6 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="notification_channel_remind">Hatırlatıcı</string>
     <string name="notification_channel_service">Servis</string>
     <string name="open_backup_switch">Yedekleme anahtarını değiştir</string>
-    <string name="open_wifi">"Wifi'yi şimdi aç"</string>
-    <string name="open_wifi_description">Uygulamayı geri yüklemek için bir wifi ağına bağlanın</string>
-    <string name="open_wifi_setting">Wifi ayarları</string>
     <string name="other_device_main_space">İlk alan</string>
     <string name="other_device_second_space">İkinci alan</string>
     <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
@@ -225,7 +230,6 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_app_order_search_prior">Yüksek öncelikli uygulamalar</string>
     <string name="restore_app_order_title">Geri yüklenen öğelere öncelik ver</string>
     <string name="restore_cloud_backup_to_phone">Öğeleri buluttan geri yükle</string>
-    <string name="restore_data_summary">Bu özellik internet bağlantısına ihtiyaç duymaktadır</string>
     <string name="restore_data_title">Veri geri yükleme</string>
     <string name="restore_detail_category_apps">Ana ekran düzeni &amp; uygulamalar</string>
     <string name="restore_detail_category_settings">Ayarlar</string>
