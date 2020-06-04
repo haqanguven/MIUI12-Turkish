@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+ <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="btn_clear_records">
         <item quantity="other">%d kaydı sil</item>
@@ -29,6 +29,10 @@
         <item quantity="one">%d kayıt indirildi</item>
     </plurals>
     <plurals name="search_alll_records_hint">
+        <item quantity="other">%d kayıt arasında ara</item>
+        <item quantity="one">%d kayıt arasında ara</item>
+    </plurals>
+    <plurals name="search_app_records_hint">
         <item quantity="other">%d kayıt arasında ara</item>
         <item quantity="one">%d kayıt arasında ara</item>
     </plurals>

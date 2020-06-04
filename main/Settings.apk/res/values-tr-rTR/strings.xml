@@ -7400,8 +7400,10 @@ Ayarları şu şekilde güncelle:
     <string name="zone_time_type_standard">Standart saat</string>
 	<string name="statusbar_style_title">Durum çubuğu düzeni</string>
 	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
-	<string name="show_cards_title">Kontrol merkezi kartlarını kapat</string>
+	<string name="notif_icon_title">Bildirim simge sayısı</string>
 	<string name="double_tap_lock_title">Çift tıkla kilitle</string>
 	<string name="text_lines_title">Simge etiket görünümü</string>
+	<string name="icon_shadow_title">Simge gölgeleri</string>
 	<string name="folder_count_title">Klasör düzeni</string>
+	<string name="time_setting_sound_title">Zaman ayarı sesi</string>
 </resources>

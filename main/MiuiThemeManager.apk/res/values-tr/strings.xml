@@ -1016,7 +1016,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="system_aod_dialog_positive_button">Ayarlar</string>
     <string name="system_aod_dialog_title">Her zaman açık ekran kapalı</string>
     <string name="system_cta_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
-    <string name="system_cta_all_purpose">Temalara hoş geldiniz. Temalarınızı, duvar kağıtlarınızı, zil seslerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="system_cta_all_purpose">"Temalara hoş geldiniz. Temalarınızı, duvar kağıtlarınızı, zil seslerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz. "</string>
     <string name="system_cta_main_purpose">Çevrimiçi ve çevrimdışı temaları, duvar kağıtlarını, zil seslerini, yazı tiplerini ve video duvar kağıtlarını kullanın</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">IMEI bilgisine erişmek ve indirme hizmetleri sağlamak için</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Oturum açmak ve sistem hesaplarını yönetmek için</string>

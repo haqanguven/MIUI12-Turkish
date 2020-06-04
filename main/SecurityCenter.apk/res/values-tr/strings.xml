@@ -4,15 +4,15 @@
     <string name="HIPS_Perm_CallLog_Desc">Arama geçmişini yazın ve silin</string>
     <string name="HIPS_Perm_Call_Desc">Doğrudan telefon numaralarını arayın</string>
     <string name="HIPS_Perm_Contact_Desc">Kişileri değiştirin ve silin</string>
-    <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI’ye erişin</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişin</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI’ye erişme</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişme</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Arama geçmişini okuyun</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Rehberi okuyun</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Mesajlarını okuyun</string>
     <string name="HIPS_Perm_SendSMS_Desc">Doğrudan mesajlar gönderin</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">"Wifi'i açma ve kapatma"</string>
     <string name="HIPS_Perm_add_voicemail_Desc">Sistem sesli mesajları ekleyin</string>
-    <string name="HIPS_Perm_get_accounts_Desc">Cihazda depolanan tüm hesaplara erişin</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Cihazda depolanan tüm hesaplara erişme</string>
     <string name="HIPS_Perm_process_nfc_Desc">NFC kullan</string>
     <string name="HIPS_Perm_use_sip_Desc">Video akışı için oturum başlatma protokolünü kullanın</string>
     <string name="Phonepass">Aramalara izin ver</string>
@@ -449,7 +449,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_permission_use_group_mic">Mikrofon</string>
     <string name="app_permission_use_group_mic_des">Ses kaydı</string>
     <string name="app_permission_use_group_phone">Telefon</string>
-    <string name="app_permission_use_group_phone_des">Arama geçmişinde öğeleri okuyun, ekleyin, arama yapın ve arama durumuna erişin</string>
+    <string name="app_permission_use_group_phone_des">Arama geçmişinde öğeleri okuyun, ekleyin, arama yapın ve arama durumuna erişme</string>
     <string name="app_permission_use_group_sensor">Vücut sensörleri</string>
     <string name="app_permission_use_group_sensor_des">Vücut sensörleri tarafından üretilen verileri okuyun</string>
     <string name="app_permission_use_group_sms">Mesajlaşma</string>
@@ -2224,17 +2224,17 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="perm_intercept_unknown_title">"%1s'nin bilinmeyen kaynaklardan uygulama yüklemesine izin vermek aşağıdaki risklere neden olabilir:"</string>
     <string name="permdesc_in_calls">Gelen aramaları izleyin</string>
     <string name="permdesc_out_calls">Giden aramaları izleyin</string>
-    <string name="permgroupdesc_calendar">Takvim etkinliklerine erişin</string>
+    <string name="permgroupdesc_calendar">Takvim etkinliklerine erişme</string>
     <string name="permgroupdesc_calllog">Arama geçmişine erişme ve öğe kaydetme</string>
     <string name="permgroupdesc_camera">Fotoğraf çekin ve video kaydedin</string>
-    <string name="permgroupdesc_contacts">Kişilere erişin</string>
-    <string name="permgroupdesc_location">Konum bilgisine erişin</string>
+    <string name="permgroupdesc_contacts">Kişilere erişme</string>
+    <string name="permgroupdesc_location">Konum bilgisine erişme</string>
     <string name="permgroupdesc_microphone">Ses kaydı</string>
     <string name="permgroupdesc_phone">Aramalar yapın ve konuşmaları yönetin</string>
-    <string name="permgroupdesc_recognition">Sağlık &amp; etkinlik verilerine erişin</string>
-    <string name="permgroupdesc_sensors">Vücut sensör verilerine erişin</string>
+    <string name="permgroupdesc_recognition">Sağlık &amp; etkinlik verilerine erişme</string>
+    <string name="permgroupdesc_sensors">Vücut sensör verilerine erişme</string>
     <string name="permgroupdesc_sms">Mesaj oku veya gönder</string>
-    <string name="permgroupdesc_storage">Cihazdaki fotoğraflara veya dosyalara erişin</string>
+    <string name="permgroupdesc_storage">Cihazdaki fotoğraflara veya dosyalara erişme</string>
     <string name="permission_action_accept">Kabul et</string>
     <string name="permission_action_always">Herzaman izin ver</string>
     <string name="permission_action_desc">Uygulama izinleri verin ancak gizliliği korumak için boş bilgiler gönderin</string>
@@ -3227,19 +3227,19 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
     <string name="system_permission_declare_double_link">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s uygulamasına hoş geldiniz. Bu uygulama aşağıdaki özelliği kullanmanızı sağlar: %2s</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>.</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>At the same time, to fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a>.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\">kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikamızı&lt;/a> kabul etmeniz gerekmektedir</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\">gizlilik politikamızı&lt;/a></Data> kabul etmeniz gerekmektedir</string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Aynı zamanda bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yöntemlerimizi tam olarak anlamak için &lt;a href=\"%1$s\">kullanıcı sözleşmemizi&lt;/a></Data> kabul etmeniz gerekmektedir</string>
     <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama normal şekilde çalışamaz</string>
     <string name="system_permission_declare_no_say_no_analytics">Bu izinleri vermek istemiyorsanız Ayarlar> Ek ayarlar> Gizlilik> Kullanıcı deneyimi programından kaydını silebilirsiniz</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz bu uygulama kısmen çalışama</string>
-    <string name="system_permission_declare_privacy_declare">Gizliliğinize saygı duyuyor ve koruyoruz. %1s için verilerinizi toplaması ve normal çalışması için aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
-    <string name="system_permission_declare_privacy_no_network">This app needs the following permissions to be able to work normally:</string>
+    <string name="system_permission_declare_privacy_declare">Bu uygulama internete bağlanmalı ve normal çalışabilmesi için aşağıdaki izinleri gerektirir:</string>
+    <string name="system_permission_declare_privacy_no_network">Bu uygulamanın normal çalışabilmesi için aşağıdaki izinlere ihtiyacı vardır:</string>
     <string name="system_permission_declare_privacy_no_permission">Bu uygulama internete bağlanmak ve size hizmet vermek için gerekli kişisel bilgileri toplaması gerektiğini unutmayın. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
     <string name="system_permission_declare_privacy_policy">Bu özelliği kullanmadan önce <a href="%1$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz</string>
     <string name="system_permission_declare_revoke_uninstallable">Güvenlik > Uygulamaları yönet > İzinler > İzinler bölümünden çıkış yapabilir, bu uygulamayı kaldırabilir veya yetkilendirmenizi iptal edebilirsiniz</string>
-    <string name="system_permission_declare_title">Attention</string>
+    <string name="system_permission_declare_title">Dikkat</string>
     <string name="system_permission_declare_use_network">Ağa bağlan</string>
     <string name="system_permission_declare_use_network_no_permission">Ağa bağlan</string>
     <string name="system_permission_declare_user_agreement">Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> okuyun ve kabul edin</string>

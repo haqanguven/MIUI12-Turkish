@@ -211,7 +211,6 @@
     <string name="cm_privacy_dialog_tips">"Akıllı mesajlaşma servisleri operatörünüz tarafından sağlanır. Mesajlaşma bu hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. Bu hizmetleri kullanmaya başlamadan önce taşıyıcınızın %1s'ini kabul etmelisiniz. Kabul ediyor musunuz?"</string>
     <string name="cm_privacy_dialog_title">Dikkat</string>
     <string name="cmcc_privacy">Çin mobil taşıyıcı gizlilik sözleşmesi</string>
-    <string name="com.crashlytics.android.build_id">a52eb4db-7176-416d-bc0f-7db4f901252b</string>
     <string name="complain_message_title">Rapor</string>
     <string name="compressing">Resim boyutu çok büyük. Sıkıştırılıyor</string>
     <string name="confirm">Tamam</string>
@@ -269,7 +268,6 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
-    <string name="default_web_client_id">442074018142-eri5e8fk5h1pv23iej2aup5r7a4knsnj.apps.googleusercontent.com</string>
     <string name="delete">Sil</string>
     <string name="delete_block_conversation">Bu sohbeti sil</string>
     <string name="delete_bookmark">Favorilerden kaldır</string>
@@ -381,7 +379,6 @@
     <string name="file_size">Boyut:</string>
     <string name="file_title">İsim:</string>
     <string name="file_width_height">Boyut:</string>
-    <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
     <string name="flatshow_page_no">%1$d</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
@@ -452,11 +449,6 @@
     <string name="from_pkg_name">Uygulamadan:</string>
     <string name="ft_cfs_dialog_content">Dosyalar Rcs kullanılarak teslim edilemedi. Bunun yerine kısa mesajla bağlantı gönderilsin mi?</string>
     <string name="ft_cfs_dialog_title">Alternatif dosya aktarımı</string>
-    <string name="gcm_defaultSenderId">442074018142</string>
-    <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
-    <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
-    <string name="google_crash_reporting_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
-    <string name="google_storage_bucket">global-sms-ab3bc.appspot.com</string>
     <string name="group_already_kicked_hint">Bu grupta değilsiniz. Mesaj gönderemezsiniz</string>
     <string name="group_member_is_composing">Yazıyor</string>
     <string name="group_message">Grup mesajı</string>
@@ -867,7 +859,6 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="private_protect">Şifreler</string>
     <string name="private_settings">Özel mesaj ayarları</string>
     <string name="processing">Çalışıyor</string>
-    <string name="project_id">global-sms-ab3bc</string>
     <string name="prompt_area_code">+90</string>
     <string name="prompt_otp">Kod</string>
     <string name="prompt_phone">Telefon numarası</string>

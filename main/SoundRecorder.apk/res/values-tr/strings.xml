@@ -33,6 +33,8 @@
     <string name="alert_message_delete_record">Kaydı cihazınızdan silmeniz aynı zamanda kaydın Mi bulutdan da silinmesine neden olacaktır. Şimdi silinsin mi?</string>
     <string name="alert_message_delete_record_title">Kayıt silinsin mi?</string>
     <string name="app_name">Ses kaydedici</string>
+    <string name="app_record">Uygulama kayıtları</string>
+    <string name="app_record_preference_title">Uygulama kayıtları</string>
     <string name="back">Geri</string>
     <string name="button_queue_for_wifi">Bekle</string>
     <string name="button_start_now">İndir</string>
@@ -272,7 +274,8 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="record_downloading_notification_count">%d indiriliyor</string>
     <string name="record_format_preference_title">Kayıt biçimi</string>
     <string name="record_list">Kayıtlar</string>
-    <string name="record_list_call">Kaydedilen aramalar</string>
+    <string name="record_list_app">Uygulama kayıtları</string>
+    <string name="record_list_call">Arama kayıtları</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">Senkronize edilen kayıtlar</string>
     <string name="record_list_cloud_call">Senkronize edilen kayıtlı aramalar</string>
