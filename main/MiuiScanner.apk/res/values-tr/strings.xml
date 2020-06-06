@@ -34,7 +34,7 @@
     <string name="accessibility_shutter_button">Deklanşör</string>
     <string name="action_search">Ara</string>
     <string name="address">Adres:</string>
-    <string name="agree_app_use">QR kodlarını tarama ve diğer görüntülerde tanıma</string>
+    <string name="agree_app_use">QR kodlarını ve diğer görüntüleri tarama (Bazı özellikler konumunuza erişmenizi gerektirebilir)</string>
     <string name="agree_btn">Kabul et</string>
     <string name="agree_camera_permission">Fotoğraf ve video çekmek için</string>
     <string name="agree_storage_permission">Fotoğraflara ve cihazınızda saklanan dosyalara erişmek için</string>
@@ -159,10 +159,10 @@
     <string name="feedback">Geri bildirim</string>
     <string name="feedback_description_camera_access">Barkod okuyucu Kameraya bağlanamıyor</string>
     <string name="feedback_description_save_photo">Fotoğraf veya video kaydedilemedi</string>
-    <string name="feedback_phone">Contact info (optional)</string>
+    <string name="feedback_phone">İletişim bilgileri (İsteğe bağlı)</string>
     <string name="feedback_title">Geri bildirim</string>
-    <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken wifi elle açılsın mı?</string>
-    <string name="food_identification_fail_tips">Meyveleri, sebzeleri ve diğer yiyecekleri tarayın. Bu özellik aynı zamanda resimlerle de çalışır</string>
+    <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken wifi ağını elle aç</string>
+    <string name="food_identification_fail_tips">Meyveleri, sebzeleri ve diğer yiyecekleri tarayın. Bu özellik görüntülerlede çalışır</string>
     <string name="food_identification_tip_msg">Yiyecek tanımlanıyor</string>
     <string name="food_make_complaints_hint">Geri bildirimi buraya girin</string>
     <string name="food_module_feedback_str">Geri bildirim</string>
@@ -176,14 +176,14 @@
     <string name="global_default_language">@string/language_value_english</string>
     <string name="got_it">Anladım</string>
     <string name="gps">Git</string>
-    <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history">Geçmiş</string>
     <string name="history_empty">Burada henüz öğe yok</string>
     <string name="if_to_open_milogo_scanning">Xiaomi logosunu tanıma</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
     <string name="importFailed">İçe aktarılamadı</string>
     <string name="import_contact">Kişiyi içe aktar</string>
-    <string name="impunity_declaration_content">Tarayıcı kameranıza bağlanmaya ve siz uygulamayı kullanırken çektiğiniz resimleri işlemeye ihtiyaç duyar. Kişisel bilgilerinizin bulunduğu cisimlerin fotoğraflarını çekmek için Tarayıcı uygulamasını kullanmayın. Kabul et seçeneğine dokunarak <a href="http://privacy.mi.com/all/%1$s" style="color:#ff32b4ff"><font color="#ff32b4ff">Gizlilik Politikasını kabul etmiş sayılırsınız ve Tarayıcı uygulamasının internete bağlanma</font></a>sına izin vermiş olursunuz</string>
+    <string name="impunity_declaration_content">"Barkod okuyucu kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğrafını çekmek için tarayıcıyı kullanmayın. Bu özelliği kullanmak için &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik politikası&lt;/a>&lt;/font> ve barkod okuyucunun internete bağlanmasına izin vermeniz gerekmektedir"</string>
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="impunity_declaration_title">Gizlilik politikası</string>
     <string name="jd_shopping_title">"JD'de ara"</string>
@@ -271,7 +271,7 @@
     <string name="pref_camera_jpeg_quality_fine">fine</string>
     <string name="pref_camera_jpeg_quality_normal">normal</string>
     <string name="pref_camera_jpeg_quality_superfine">superfine</string>
-    <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preparing_sd">Dahili depolama alanı hazırlanıyor</string>
     <string name="previous">Geri</string>
     <string name="prompt">Uyarı</string>
@@ -373,8 +373,8 @@
     <string name="url_is_safety">Bu internet sitesi güvenli</string>
     <string name="url_is_unknown">İnternet sitesi güvenliği kontrol edilemiyor</string>
     <string name="url_is_unsafety">Bu internet sitesi güvenli değil</string>
-    <string name="v7_preference_off">KAPALI</string>
-    <string name="v7_preference_on">AÇIK</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="vender_info_translation_kingsoft">Kingsoft tarafından sağlanmaktadır</string>
     <string name="waybill_num">"Sipariş: "</string>
     <string name="web">İnternet sitesi:</string>
