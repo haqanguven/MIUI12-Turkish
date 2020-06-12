@@ -50,6 +50,7 @@
     <string name="action_menu_text_fullscreen_enter">Tam ekran yap</string>
     <string name="action_menu_text_fullscreen_exit">Tam ekrandan çık</string>
     <string name="action_menu_text_history">Yer imleri &amp; geçmiş</string>
+    <string name="action_menu_text_like">Beğen</string>
     <string name="action_menu_text_nightmode">Gece modu</string>
     <string name="action_menu_text_readmode">Okuma modu</string>
     <string name="action_menu_text_refresh">Yenile</string>
@@ -140,7 +141,7 @@
     <string name="app_downloading_ratio_text">İndiriliyor: %s</string>
     <string name="app_downloading_text">İndiriliyor</string>
     <string name="app_installing_text">Yükleniyor</string>
-    <string name="app_name">CrashLib</string>
+    <string name="app_name">ad-sdk-native</string>
     <string name="app_new_version">Uygulamanın en güncel sürümü zaten yüklü durumda</string>
     <string name="app_open_text">Aç</string>
     <string name="app_task_download_exists_text">İndirme var</string>
@@ -666,6 +667,45 @@ Mi hesabınızda oturum açın"</string>
     <string name="more_description">Menü</string>
     <string name="movie_player_3g_tip_retry">Devam et</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+    <string name="mw_abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="mw_abc_action_bar_up_description">Yukarı git</string>
+    <string name="mw_abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="mw_abc_action_mode_done">Bitti</string>
+    <string name="mw_abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="mw_abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="mw_abc_capital_off">Kapat</string>
+    <string name="mw_abc_capital_on">Aç</string>
+    <string name="mw_abc_font_family_body_1_material">sans-serif</string>
+    <string name="mw_abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="mw_abc_font_family_button_material">sans-serif-medium</string>
+    <string name="mw_abc_font_family_caption_material">sans-serif</string>
+    <string name="mw_abc_font_family_display_1_material">sans-serif</string>
+    <string name="mw_abc_font_family_display_2_material">sans-serif</string>
+    <string name="mw_abc_font_family_display_3_material">sans-serif</string>
+    <string name="mw_abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="mw_abc_font_family_headline_material">sans-serif</string>
+    <string name="mw_abc_font_family_menu_material">sans-serif</string>
+    <string name="mw_abc_font_family_subhead_material">sans-serif</string>
+    <string name="mw_abc_font_family_title_material">sans-serif-medium</string>
+    <string name="mw_abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="mw_abc_menu_ctrl_shortcut_label">Kontrol+</string>
+    <string name="mw_abc_menu_delete_shortcut_label">Sil</string>
+    <string name="mw_abc_menu_enter_shortcut_label">Enter</string>
+    <string name="mw_abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="mw_abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="mw_abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="mw_abc_menu_space_shortcut_label">Boşluk</string>
+    <string name="mw_abc_menu_sym_shortcut_label">Sembol+</string>
+    <string name="mw_abc_prepend_shortcut_label">Menü+</string>
+    <string name="mw_abc_search_hint">Ara</string>
+    <string name="mw_abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="mw_abc_searchview_description_query">Arama sorgusu</string>
+    <string name="mw_abc_searchview_description_search">Ara</string>
+    <string name="mw_abc_searchview_description_submit">Sorgu gönder</string>
+    <string name="mw_abc_searchview_description_voice">Sesli arama</string>
+    <string name="mw_abc_shareactionprovider_share_with">Paylaş</string>
+    <string name="mw_abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="mw_abc_toolbar_collapse_description">Daralt</string>
     <string name="mw_accessibility_date_picker_month">Ay</string>
     <string name="mw_accessibility_date_picker_week">Hafta</string>
     <string name="mw_accessibility_date_picker_year">Yıl</string>
@@ -696,9 +736,51 @@ Mi hesabınızda oturum açın"</string>
     <string name="mw_color_picker_hue">Renk</string>
     <string name="mw_color_picker_saturation">Doyma</string>
     <string name="mw_color_picker_value">Değer</string>
+    <string name="mw_common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="mw_common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
+    <string name="mw_common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="mw_common_google_play_services_install_button">Yükle</string>
+    <string name="mw_common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz</string>
+    <string name="mw_common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="mw_common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="mw_common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="mw_common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
+    <string name="mw_common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor</string>
+    <string name="mw_common_google_play_services_update_button">Güncelle</string>
+    <string name="mw_common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak</string>
+    <string name="mw_common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="mw_common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz</string>
+    <string name="mw_common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir</string>
+    <string name="mw_common_open_on_phone">Telefonda aç</string>
+    <string name="mw_common_signin_button_text">Oturum aç</string>
+    <string name="mw_common_signin_button_text_long">"Google'da oturum aç"</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Panoya kopyalanamadı</string>
-    <string name="mw_current_detected_ui_locale_name">tr-TR</string>
+    <string name="mw_crash_label">Çökme (%1$s) - [%2$s]</string>
+    <string name="mw_crash_report_button_text">Daha fazla bilgi verin</string>
+    <string name="mw_crash_report_template">"Önemli: Kilitlenmeniz otomatik olarak kilitlenme sistemimize bildirilmiştir. Bunu yalnızca çökmeyi yeniden oluşturma adımları gibi daha fazla bilgi paylaşabiliyorsanız doldurmanız gerekir
+
+Cihaz adı:
+Android işletim sistemi sürümü:
+WebView sürümü Android Sistem WebView uygulamasının sürümüdür. Android NP'de büyük olasılıkla Chrome'un sürümüdür. Herhangi bir uygulamanın sürümünü Ayarlar > Uygulamalar altında bulabilirsiniz
+Uygulama: (Mümkünse Play Store sayfasına bağlantı verin. Sağ üstteki 3 noktaya > Paylaş > Panoya kopyalaya dokunarak bağlantıyı Play Store uygulamasının içinden alabilirsiniz veya uygulamayı Play Store'da bulabilirsiniz: https://play.google.com/store/apps
+Uygulama sürümü:
+
+
+Yeniden oluşturma adımları:
+(1)
+(2)
+(3)
+
+
+Beklenen sonuç:
+(Ne olmalıydı?)
+
+
+****Bu hat altında değiştirmeyin****
+Çökme kimliği: http://crash/%1$s"</string>
+    <string name="mw_crashes_list_activity_title">İnternet görünümü çökmeleri</string>
+    <string name="mw_crashes_num">Çökmeler (%1$d)</string>
     <string name="mw_data_traffic_prompt_change">Videoları izlemek için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Planınızın veri kullanım sınırını aşarsanız operatörümüz sizden ek ücret talep edebilir</string>
     <string name="mw_data_traffic_prompt_message">Videolara göz atmak için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Planınızın veri kullanım sınırını aşarsanız operatörünüz sizden ek ücret talep edebilir</string>
     <string name="mw_data_traffic_prompt_message_short">Video akışı için mobil verilerin kullanılması plan verilerinizin kullanım sınırını aşmanıza neden olabilir</string>
@@ -722,6 +804,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="mw_last_month">Geçen ay</string>
     <string name="mw_license_activity_title">Sistem internet önizleme lisansları</string>
     <string name="mw_low_memory_error">Düşük bellek nedeniyle önceki işlem tamamlanamadı</string>
+    <string name="mw_menu_refresh">Yenile</string>
     <string name="mw_miui_content_copy">Kopyala</string>
     <string name="mw_miui_content_cut">Kes</string>
     <string name="mw_miui_content_extent_select">Daha fazla seç</string>
@@ -820,6 +903,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="mw_save_password_never">Asla</string>
     <string name="mw_save_password_notnow">Şimdi değil</string>
     <string name="mw_save_password_remember">Hatırla</string>
+    <string name="mw_search_menu_title">Ara</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">ÖÖ</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -827,6 +911,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="mw_time_picker_dialog_pm">ÖS</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Saati ayarla</string>
+    <string name="mw_url_copied">Bağlantı kopyalandı</string>
     <string name="mw_video_buffering_percent">Arabelleğe alınıyor</string>
     <string name="mw_video_float_window">Açılır pencere</string>
     <string name="mw_video_float_window_playing">Video oynatılıyor</string>
