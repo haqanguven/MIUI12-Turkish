@@ -7466,5 +7466,5 @@ Ayarları şu şekilde güncelle:
 	<string name="charging_animations_title">Kilit ekranı şarj animasyonları</string>
 	<string name="unread_notifications_title">Okunmamış bildirimler</string>
 	<string name="unread_notifications_summary">Kilit ekranında okunmamış bildirimleri her zaman gösterir</string>
-	<string name="secure_screenshot_disable">Her yerde ekran resmi al</string>
+	<string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
 </resources>
