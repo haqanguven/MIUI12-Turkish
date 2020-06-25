@@ -225,6 +225,11 @@
         <item>Yüzde (Simgenin yanında)</item>
         <item>Üst çubuk</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
+    </string-array>
     <string-array name="bearer_entries">
         <item>Belirtilmedi</item>
         <item>LTE</item>
@@ -393,6 +398,12 @@
         <item>Normal</item>
         <item>Büyük</item>
         <item>Çok büyük</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>%25</item>
+        <item>%50</item>
+        <item>%75</item>
+        <item>%100</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Uygulama varsayılanını kullan</item>
@@ -1147,6 +1158,10 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir"</item>
 		<item>Merkezi saat</item>
 		<item>Karışık</item>
 		<item>Aosp</item>
+	</string-array>
+	<string-array name="charging_animations_entries">
+		<item>Varsayılan (Uygulamak için cihazı yeniden başlatın)</item>
+		<item>Dalga (Uygulamak için cihazı yeniden başlatın)</item>
 	</string-array>
 	<string-array name="text_lines_entries">
 		<item>Varsayılan</item>

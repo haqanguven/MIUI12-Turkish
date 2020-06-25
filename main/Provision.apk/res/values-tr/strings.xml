@@ -261,4 +261,9 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="backup_introduction">Cihazınızdaki öğeleri yedeklemek ve geri yüklemek için bu uygulamayı kullanabilirsiniz</string>
     <string name="permission_backup">Depolama alanına erişme</string>
     <string name="permission_backup_introduction">Cihazınızdaki yedeklere erişmek ve bunları kaydetmek içindir</string>
+    <string name="position_header">Konum bilgilerini paylaşma</string>
+    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">Yasaya uygun olarak mobil operatörler, güvenlik ve acil kurtarma amaçlarını izleyen acil kurtarma kurumlarının gereksinimlerine uymak için mobil cihazların konum bilgilerini alabilirler</string>
+    <string name="position_subheading">Konum bilgisi</string>
+    <string name="location_location">Acil kurtarma acentaları bulunduğunuz yeri istek üzerine öğrenebilirler</string>
 </resources>

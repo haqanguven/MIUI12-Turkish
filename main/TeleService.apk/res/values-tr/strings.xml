@@ -1500,11 +1500,14 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="preferred_network_type_pref_entries_3g_preferred">3G öncelikli</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G öncelikli (CDMA)</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">Otomatik WCDMA/GSM</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G öncelikli)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">LTE öncelikli</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G öncelikli (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G öncelikli</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">Otomatik LTE/WCDMA/GSM</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G öncelikli)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G öncelikli</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G öncelikli)</string>
     <string name="preferred_network_type_pref_entries_auto">Otomatik</string>
     <string name="preferred_network_type_pref_entries_global">Küresel</string>
     <string name="preferred_network_type_pref_entries_only_2g">Sadece 2G (Pil tasarrufu sağlar)</string>

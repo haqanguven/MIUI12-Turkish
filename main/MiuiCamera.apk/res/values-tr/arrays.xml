@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_scene_names">
+        <item>Hiçbiri</item>
+        <item>Doktor</item>
+        <item>Çiçek</item>
+        <item>Gıda</item>
+        <item>ppt</item>
+        <item>Gökyüzü</item>
+        <item>Gün doğumu veya gün batımı</item>
+        <item>Kedi</item>
+        <item>Köpek</item>
+        <item>Yeşil bitki</item>
+        <item>Gece görüşü</item>
+        <item>Kar</item>
+        <item>Sahil</item>
+        <item>Sonbahar</item>
+        <item>Mum ışığı</item>
+        <item>Araba</item>
+        <item>Çimen</item>
+        <item>Yaprak</item>
+        <item>Etli</item>
+        <item>Bina</item>
+        <item>Kent</item>
+        <item>Parçalı bulut</item>
+        <item>Bulut</item>
+        <item>Portre</item>
+        <item>Siluet</item>
+        <item>Vesika</item>
+        <item>Mücevher</item>
+        <item>Buda heykeli</item>
+        <item>Sığırlar</item>
+        <item>Köri</item>
+        <item>Motosiklet</item>
+        <item>Tapınak</item>
+        <item>Plaj</item>
+        <item>Su altı</item>
+    </string-array>
+</resources>

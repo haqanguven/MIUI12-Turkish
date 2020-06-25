@@ -197,6 +197,7 @@
     <string name="miui_warning_tip_info">%1$s içinde bir hata oluştu. Şimdi bu uygulama kapatılsın mı?</string>
     <string name="talk_back_water_mark_string1">Geri konuşma açık</string>
     <string name="talk_back_water_mark_string2">"Kapatmak için ses+ ve ses- tuşlarını 3 saniye basılı tutun"</string>
+    <string name="talk_back_conflict_with_handy_mode">TalkBack açıkken tek elle mod kullanılamaz</string>
     <string name="start_dump_log">Sorunla ilgili günlükleri almaya başla</string>
     <string name="popup_camera_tip">Dikkat</string>
     <string name="popup_camera_sure">Anladım</string>
@@ -283,6 +284,10 @@
     <string name="frequent_email">Sık kullanılan e-posta</string>
     <string name="data_usage_context">Wifi açık değilse cihazınız ödeme planınıza bağlı olarak ek masraflara neden olabilecek bir mobil ağa bağlanacaktır</string>
     <string name="slatoast">Hızı artırmak için mobil veri kullanmak mobil veriyi tüketebilir</string>
+    <string name="bluetooth_enable_notification_title">Bluetooth açık</string>
+    <string name="bluetooth_enable_notification_content">"%s bluetooth'u açtı"</string>
+    <string name="bluetooth_disable_notification_title">Bluetooth kapalı</string>
+    <string name="bluetooth_disable_notification_content">"%s bluetooth'u kapattı"</string>
     <string name="sunlight_notification_title">Güneş ışığı modunu aç</string>
     <string name="sunlight_notification_content">Parlaklığı otomatik olarak güçlü ortam ışığına ayarlayın</string>
     <string name="miaudiovisual_notification_title">Görsel ve işitsel efektler</string>

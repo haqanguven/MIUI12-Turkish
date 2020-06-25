@@ -358,8 +358,12 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="apn_general">Genel</string>
     <string name="apn_http_port">Bağlantı noktası</string>
     <string name="apn_http_proxy">Proxy</string>
+    <string name="apn_mcc">MCC</string>
+    <string name="apn_mms">MMS</string>
     <string name="apn_mms_port">MMS bağlantı noktası</string>
     <string name="apn_mms_proxy">"MMS proxy'si"</string>
+    <string name="apn_mmsc">MMSC</string>
+    <string name="apn_mnc">MNC</string>
     <string name="apn_name">Ad</string>
     <string name="apn_new">Yeni erişim noktası (Apn)</string>
     <string name="apn_not_set">Ayarlanmadı</string>
@@ -1388,6 +1392,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="color_black">Siyah</string>
     <string name="color_blue">Mavi</string>
     <string name="color_calibration_none">Doğal</string>
+    <string name="color_calibration_srgb">sRGB</string>
     <string name="color_cyan">Camgöbeği</string>
     <string name="color_gray">Gri</string>
     <string name="color_green">Yeşil</string>
@@ -1517,6 +1522,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="content_description_menu_button">Menü</string>
     <string name="continue_reset_factory">Fabrika ayarları</string>
     <string name="contributors_title">Katkıda bulunanlar</string>
+    <string name="control_center">Kontrol merkezi</string>
     <string name="controls_label">Denetimler</string>
     <string name="controls_subtitle">Pil kullanımını ayarla</string>
     <string name="convenience_key_category_title">Sistem kontrolü</string>
@@ -2550,8 +2556,9 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_brightness_template">Parlaklık %1$s</string>
     <string name="gadget_location">Konum</string>
-    <string name="gadget_picker_title">Gadget seç</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
+    <string name="gadget_picker_title">Araç seç</string>
+    <string name="gadget_state_turning_off">kapatılıyor</string>
+    <string name="gadget_state_turning_on">açılıyor</string>
     <string name="gadget_sync">Senkronizasyon</string>
     <string name="gadget_title">Güç denetimi</string>
     <string name="gadget_toggle_bluetooth">Bluetooth ayarları güncelleniyor</string>
@@ -2579,6 +2586,8 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="gesture_wakeup_summary">Kilit ekranında çift tıklayarak ekranı kapatabilir veya uyandırabilirsiniz</string>
     <string name="gesture_wakeup_title">Kilitlemek veya uyandırmak için çift dokun</string>
     <string name="gesture_z">Z deseni</string>
+    <string name="giga_hertz">GHz</string>
+    <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">Bu ayar bu telefondaki tüm kullanıcıları etkiler</string>
     <string name="global_locale_change_title">Dil değiştir</string>
     <string name="gmscore_settings_title">Temel google hizmetleri</string>
@@ -2642,6 +2651,7 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="hdmi_3dplay_control_text">3D görüntü çıkışı</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_color_calibration_none">Doğal</string>
+    <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="header_account_settings">Hesap ayarları</string>
     <string name="header_add_an_account">Hesap ekle</string>
     <string name="header_application_sync_settings">Uygulama senkronizasyon ayarları</string>
@@ -2774,6 +2784,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="input_method_quick_access">Hızlı erişim</string>
     <string name="input_method_quick_cloud_mode_title">Yeni pano içeriği hakkında bildirimler</string>
     <string name="input_method_quick_cloud_summary">Uyumlu bilgisayarlara öğe kopyalayın ve cihazınıza yapıştırın</string>
+    <string name="input_method_quick_cloud_tips">Bildirim türü</string>
     <string name="input_method_quick_cloud_title">Bulut panosu</string>
     <string name="input_method_quick_paste_summary">Pano simgesine dokunarak kopyalanan öğeleri görüntüle</string>
     <string name="input_method_quick_paste_title">Hızlı yapıştır</string>
@@ -2948,6 +2959,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keywords_write_settings">Yazma değiştirme sistem ayarları</string>
     <string name="keywords_zen_mode_settings">Rahatsız etme, zamanlama, bildirimler, engelleme, sessiz, titreşim, uyku, çalışma, odak, ses, sesi kapatma, gün, hafta içi, hafta sonu, hafta içi gece, etkinlik</string>
     <string name="kid_space_settings">Çocuk alanı</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="kilobyte_per_second">KB/s</string>
     <string name="label_mi_stats">Mi analitik</string>
     <string name="language_empty_list_user_restricted">Cihazın dilini değiştirmek için izniniz yok</string>
     <string name="language_input_gesture_title">Diller, giriş &amp; hareketler</string>
@@ -3390,6 +3403,8 @@ Bu cihazda başka kullanıcılar da var
     <string name="media_volume_option_title">Müzik, oyunlar ve medya sesi</string>
     <string name="media_volume_summary">Müziğin ve videoların ses düzeyini ayarla</string>
     <string name="media_volume_title">Medya</string>
+    <string name="megabyteShort">MB</string>
+    <string name="megabyte_per_second">MB/s</string>
     <string name="meid_multi_sim">MEID (Sim yuvası %1$d)</string>
     <string name="mem_details_title">Bellek ayrıntıları</string>
     <string name="memory">Ram</string>
@@ -3600,9 +3615,9 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="mqs_privacy_dialog_title">Bir hata oluştu</string>
     <string name="msd_driver_download">Sürücüyü indir</string>
     <string name="msd_driver_download_mac">OSX: Sürücüyü indirin ve ardından AndroidFileTransfer.dmg dosyasını yükleyin</string>
-    <string name="msd_driver_download_mac_url">Sürücüyü \"http://www.android.com/filetransfer/\" adresinden edinebilirsiniz</string>
-    <string name="msd_driver_download_xp">Windows: Telefonunuzu USB depolama cihazı olarak kullanabilmek için Mi Telefon Yöneticisi yazılımını indirin</string>
-    <string name="msd_driver_download_xp_url">Sürücüyü \"http://zhushou.mi.com/\" adresinden edinebilirsiniz</string>
+    <string name="msd_driver_download_mac_url">Sürücüyü http://www.android.com/filetransfer adresinden edinebilirsiniz</string>
+    <string name="msd_driver_download_xp">Windows: Telefonunuzu USB depolama cihazı olarak kullanabilmek için Mi telefon yöneticisi yazılımını indirin</string>
+    <string name="msd_driver_download_xp_url">Sürücüyü http://zhushou.mi.com/ adresinden edinebilirsiniz</string>
     <string name="msd_help_summary">"Cihazınıza bağlanamıyor musunuz?
 İşletim sisteminizi seçin:"</string>
     <string name="msd_help_title">Yardım</string>
@@ -3683,8 +3698,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="network_changed_noti_summary">Mobil veri kullanılıyor</string>
     <string name="network_changed_noti_title">Wifi bağlantısı kesildi</string>
     <string name="network_control">Uygulama ayarlarını görüntüle</string>
-    <string name="network_dashboard_summary_data_usage">Veri kullanımı</string>
-    <string name="network_dashboard_title">Ağ ve İnternet</string>
+    <string name="network_dashboard_title">Ağ &amp; internet</string>
     <string name="network_detail">%s ağ detayları</string>
     <string name="network_error">Ağ hatası</string>
     <string name="network_name_input_error">SSID kaydedilemedi. Tekrar deneyin</string>
@@ -4455,6 +4469,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="radioInfo_data_connecting">Bağlanıyor</string>
     <string name="radioInfo_data_disconnected">Bağlantı kesildi</string>
     <string name="radioInfo_data_suspended">Askıya alındı</string>
+    <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">IMS hizmet durumu</string>
     <string name="radioInfo_menu_viewADN">Sim adres defterini görüntüle</string>
     <string name="radioInfo_menu_viewFDN">Sabit arama numaralarını görüntüle</string>
@@ -4490,7 +4505,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="radio_info_ims_feature_status_available">Kullanılabiliyor</string>
     <string name="radio_info_ims_feature_status_unavailable">Kullanılamıyor</string>
     <string name="radio_info_ims_reg_status">"IMS kaydı: %1$s
-LTE:üzerinden ses %2$s
+LTE üzerinden ses: %2$s
 Wifi üzerinden ses: %3$s
 Görüntülü görüşme: %4$s
 UT arayüzü: %5$s"</string>
@@ -5361,6 +5376,12 @@ Pin yanlış olabilir"</string>
     <string name="single_key_use">Tek tuş</string>
     <string name="single_key_use_summary">Ana ekran tuşunu diğer 2 tuş tarafından gerçekleştirilen işlemleri yapmak için kullan</string>
     <string name="single_press_AI_button">Ai tuşuna basın</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Yine de atla</string>
     <string name="skip_label">Atla</string>
     <string name="skip_lock_screen_confirm_msg">Bildirimler, müzik çalar kontrolleri ve kısayollar kilit ekranında görüntülenmeyecektir</string>
@@ -5514,9 +5535,17 @@ Cihazınızda yüklü durumdaki güvenilen bir kimlik bilgisi bunu mümkün kıl
     <string name="status_bt_address">Bluetooth adresi</string>
     <string name="status_data_network_type">Mobil veri ağ türü</string>
     <string name="status_data_state">Mobil ağ durumu</string>
+    <string name="status_esim_id">EID</string>
     <string name="status_failed_to_write">Nfc etiketine veri yazılamıyor. Sorun devam ederse başka bir etiket deneyin</string>
+    <string name="status_icc_id">ICCID</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="status_imei">IMEI</string>
+    <string name="status_imei_sv">IMEI SV</string>
     <string name="status_invalid_password">Geçersiz şifre. Tekrar deneyin</string>
     <string name="status_latest_area_info">Operatör bilgileri</string>
+    <string name="status_meid_number">MEID</string>
+    <string name="status_min_number">MIN</string>
+    <string name="status_msid_number">MSID</string>
     <string name="status_number">Telefon numarası</string>
     <string name="status_number_sim_slot">Telefon numarası (Sim yuvası %1$d)</string>
     <string name="status_number_sim_status">"Sim'deki telefon numarası"</string>
@@ -5783,11 +5812,9 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="suggestion_for_phone_recycled">Farklı bir telefon numarası ekle</string>
     <string name="suggestion_remove">Kaldır</string>
     <string name="suggestions_more_title">+%1$d öneri daha</string>
-    <string name="suggestions_summary">+%1$d</string>
     <string name="suggestions_title">Öneriler</string>
     <string name="suggestions_title_v2">Sizin için önerilenler</string>
     <string name="sum_carrier_select">Bir ağ operatörü seçin</string>
-    <string name="summary_range_verbal_combination">%1$s ile %2$s arası</string>
     <string name="supl_not_set">&lt;Ayarlanmadı></string>
     <string name="supplicant_state_label">Talep eden durum:</string>
     <string name="support_country_format">%1$s - %2$s</string>
@@ -6254,6 +6281,7 @@ veya kulaklıklara erişmek için 3.5mm kulaklık jakı kullanın"</string>
     <string name="usb_install_app">USB üzerinden yükle</string>
     <string name="usb_install_app_desc">Uygulamaların USB üzerinden yüklenmesine izin verin</string>
     <string name="usb_midi_summary">MIDI özellikli uygulamaların bilgisayarınızda MIDI yazılımıyla USB üzerinden çalışmasına olanak verir</string>
+    <string name="usb_midi_title">MIDI</string>
     <string name="usb_mount">USB depolama birimi yerleştir</string>
     <string name="usb_msd_driver_installer_summary">Windows ve OSX sürücülerini al</string>
     <string name="usb_msd_driver_installer_title">Sürücü Yükleme Diski (MSD)</string>
@@ -6261,9 +6289,11 @@ veya kulaklıklara erişmek için 3.5mm kulaklık jakı kullanın"</string>
     <string name="usb_msd_title">Yığın depolama aygıtı</string>
     <string name="usb_mtp_summary">"Windows'da ya da Android dosya aktarımı'nı kullanarak Mac üzerinde (www.android.com/filetransfer sayfasına bakın) medya dosyalarını aktarma olanağı sağlar"</string>
     <string name="usb_mtp_title">Medya cihazı (MTP)</string>
+    <string name="usb_pref">USB</string>
     <string name="usb_preference">USB tercihleri</string>
     <string name="usb_ptp_summary">"Kamera yazılımını kullanarak fotoğrafları ve MTP'yi desteklemeyen bilgisayarlardaki her türlü dosyayı aktarmanıza olanak sağlar"</string>
     <string name="usb_ptp_title">Kamera (PTP)</string>
+    <string name="usb_summary_MIDI">MIDI</string>
     <string name="usb_summary_MIDI_power">MIDI ve güç sağlama</string>
     <string name="usb_summary_charging_only">Bu cihaz şarj ediliyor</string>
     <string name="usb_summary_file_transfers">Dosya aktarımı</string>
@@ -6282,7 +6312,9 @@ veya kulaklıklara erişmek için 3.5mm kulaklık jakı kullanın"</string>
     <string name="usb_tethering_storage_active_subtext">USB depolama kullanımdayken internet paylaşımı yapılamıyor</string>
     <string name="usb_tethering_subtext">Telefonun internet bağlantısını USB üzerinden paylaşın</string>
     <string name="usb_tethering_unavailable_subtext">USB bağlı değil</string>
+    <string name="usb_title">USB</string>
     <string name="usb_use">USB kullanımı</string>
+    <string name="usb_use_MIDI">MIDI</string>
     <string name="usb_use_MIDI_desc">Bu cihazı MIDI olarak kullanın</string>
     <string name="usb_use_charging_only">Sadece şarj</string>
     <string name="usb_use_charging_only_desc">Sadece bu cihazı şarj edin</string>
@@ -6615,6 +6647,8 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="wapi_password_length_is_min">Şifre en az 8 karakter uzunluğunda olmalıdır</string>
     <string name="wapi_password_length_is_min_to_max">Şifre 8 - 64 karakter içermelidir</string>
     <string name="wapi_psk_type">Şifre türü</string>
+    <string name="wapi_psk_type_ascii">ASCII</string>
+    <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">Evet</string>
     <string name="warm_color">Sıcak</string>
     <string name="web_action_enable_summary">Yüklü olmasalar bile uygulamalardaki bağlantıları aç</string>
@@ -6659,6 +6693,8 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="wifi_advanced_titlebar">Gelişmiş wifi</string>
     <string name="wifi_advanced_toggle_description_collapsed">Gelişmiş seçenekler açılır listesi. Genişletmek için iki kez dokunun</string>
     <string name="wifi_advanced_toggle_description_expanded">Gelişmiş seçenekler açılır listesi. Daraltmak için iki kez dokunun</string>
+    <string name="wifi_ap_2G">2.4 GHz</string>
+    <string name="wifi_ap_5G">5.0 GHz</string>
     <string name="wifi_ap_band_config">Erişim noktası bandı seçin</string>
     <string name="wifi_ap_band_select_one">Kablosuz bağlantı noktası için en az bir grup seçin:</string>
     <string name="wifi_ap_choose_2G">2,4 GHz bandı</string>
@@ -6666,6 +6702,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="wifi_ap_choose_auto">Otomatik</string>
     <string name="wifi_ap_choose_dual">Her ikisi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
+    <string name="wifi_api_test">Wifi API</string>
     <string name="wifi_ask_disable">%s kablosuz özelliğini kapatmak istiyor</string>
     <string name="wifi_ask_enable">%s kablosuz özelliğini açmak istiyor</string>
     <string name="wifi_assistant">Wifi yardımcı</string>
@@ -6693,13 +6730,14 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="wifi_auto_sel_wapi_cert">Otomatik olarak seç</string>
     <string name="wifi_available_title">"Wifi'ye bağlan"</string>
     <string name="wifi_avoid_poor_network_detection_summary">Yalnızca iyi internet bağlantısı olan ağları kullanın</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
     <string name="wifi_calling_mode_dialog_title">Kablosuz arama modu</string>
     <string name="wifi_calling_mode_title">Arama tercihi</string>
     <string name="wifi_calling_not_supported">Kablosuz arama %1$s için desteklenmiyor</string>
     <string name="wifi_calling_off_explanation">Kablosuz arama açık olduğunda telefonunuz tercihinize ve hangi sinyalin daha güçlü olduğuna bağlı olarak aramaları kablosuz ağlar veya operatörünüzün ağı üzerinden yönlendirebilir. Bu özelliği açmadan önce ücretleri ve diğer ayrıntıları öğrenmek için operatörünüze danışın</string>
     <string name="wifi_calling_pref_managed_by_carrier">Ayar operatör tarafından yönetiliyor</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Dolaşım tercihi</string>
-    <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">Dolaşım tercihi</string>
     <string name="wifi_calling_settings_activation_instructions">Kablosuz aramayı etkinleştirin</string>
     <string name="wifi_calling_settings_title">Kablosuz arama</string>
@@ -6742,6 +6780,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="wifi_data_template">^1 kablosuz bağlantı verisi</string>
     <string name="wifi_data_usage">Kablosuz ağ veri kullanımı</string>
     <string name="wifi_datanetwork_switch_not_remind">Tekrar gösterme</string>
+    <string name="wifi_details_dns">DNS</string>
     <string name="wifi_details_ipv6_address_header">IPv6 adresleri</string>
     <string name="wifi_details_subnet_mask">Alt ağ maskesi</string>
     <string name="wifi_details_title">Ağ ayrıntıları</string>
@@ -6778,6 +6817,8 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="wifi_display_status_in_use">Kullanımda</string>
     <string name="wifi_display_status_not_available">Kullanılamıyor</string>
     <string name="wifi_display_wps_config">WPS yapılandırması</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
     <string name="wifi_do_not_provide_eap_user_cert">Sağlama</string>
     <string name="wifi_do_not_validate_eap_server">Doğrulama</string>
     <string name="wifi_do_not_validate_eap_server_warning">Sertifika belirtilmedi. Bağlantınız gizli olmayacak</string>
@@ -7069,6 +7110,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="wifi_traffic_priority_regular">Normal</string>
     <string name="wifi_traffic_priority_regular_summary">Arka planda indirme özelliği ağ kaynaklarını mevcut uygulamayla paylaşır</string>
     <string name="wifi_traffic_priority_summary">Ağ trafik önceliğini akıllı olarak ayarlar</string>
+    <string name="wifi_type_approval_dialog_title">Düzenleme bilgisi</string>
     <string name="wifi_type_approval_title">Tür onayı</string>
     <string name="wifi_unchanged">(Değişmedi)</string>
     <string name="wifi_unmetered_label">Ölçüsüz</string>
@@ -7401,10 +7443,28 @@ Ayarları şu şekilde güncelle:
 	<string name="statusbar_style_title">Durum çubuğu düzeni</string>
 	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
 	<string name="notif_icon_title">Bildirim simge sayısı</string>
+	<string name="network_type_settings_title">Ağ türü simge ayarları</string>
+	<string name="network_types_title">Ağ türleri</string>
+	<string name="2g_or_e_title">2G veya E simgesi</string>
+	<string name="2g_instead_e_title">2G simgesi yerine E simgesi</string>
+	<string name="3g_icon_title">3G simgesi</string>
+	<string name="h_icon_h_plus_title">H simgesi yerine H+ simgesi</string>
+	<string name="4g_or_lte_title">4G veya LTE simgesi</string>
+	<string name="4g_instead_lte_title">4G simgesi yerine LTE simgesi</string>
+	<string name="default_assistant_title">Varsayılan uygulama kasası</string>
 	<string name="double_tap_lock_title">Çift tıkla kilitle</string>
+	<string name="home_animation_title">Kilit açma animasyonunu kapat</string>
 	<string name="text_lines_title">Simge etiket görünümü</string>
+	<string name="app_name_title">Uygulama başlıklarını gizle</string>
 	<string name="icon_shadow_title">Simge gölgeleri</string>
 	<string name="folder_count_title">Klasör düzeni</string>
 	<string name="close_folder">Klasörleri otomatik kapat</string>
+	<string name="charged_sounds_title">Şarj doldu sesi</string>
 	<string name="time_setting_sound_title">Zaman ayarı sesi</string>
+	<string name="music_mute_title">Müzik sesi</string>
+	<string name="music_mute_summary">Video kaydı sırasında arka planda müziği kısıtlamasını devre dışı bırakır</string>
+	<string name="charging_animations_title">Kilit ekranı şarj animasyonları</string>
+	<string name="unread_notifications_title">Okunmamış bildirimler</string>
+	<string name="unread_notifications_summary">Kilit ekranında okunmamış bildirimleri her zaman gösterir</string>
+	<string name="secure_screenshot_disable">Her yerde ekran resmi al</string>
 </resources>

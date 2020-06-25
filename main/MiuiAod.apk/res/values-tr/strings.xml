@@ -207,7 +207,9 @@ olacağına inan"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="super_wallpaper_date">"dd/M
 EEaa"</string>
-    <string name="super_wallpaper_date_lunar">"N月e
+    <string name="super_wallpaper_date_inter">"dd/M
+EEEE"</string>
+    <string name="super_wallpaper_date_lunar">"N-e
 YY年"</string>
     <string name="temporary_style">10 saniye</string>
     <string name="text_color">Metin rengi</string>

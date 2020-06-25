@@ -11,12 +11,9 @@
     <string name="find_device_error_password_changed">Hesap şifresi yakın bir tarihte zaten değiştirildi</string>
     <string name="find_device_error_network">Ağ hatası</string>
     <string name="find_device_error_server">Sunucu hatası: %s</string>
-    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_account_sys_timeout">"Mi hesabına bağlanılamadı. "</string>
     <string name="find_device_error_account_unknown_error">Mi hesabı hatası: %s</string>
-    <string name="find_device_crash">Cihazı bul uygulaması beklenmedik bir şekilde sonlandırıldı</string>
     <string name="find_device_storage_corrupted">Cihazı bul depolama alanı hasarlı. Cihazınız şu anda güvenli değil</string>
-    <string name="find_device_telephony_fault">Cihazı bul: Telefon hatası (%s)</string>
     <string name="time_correction_success">Zaman doğrulandı</string>
     <string name="time_correction_failure">Zaman doğrulanamıyor: %s</string>
     <string name="find_device_stop_noise">"Susturmak için Tamam'a dokunun"</string>
@@ -45,15 +42,15 @@
     <string name="phone_locked_account_email">, bağlı e-posta adresi: %s</string>
     <string name="phone_locked_account_phone">, bağlı telefon numarası: %s</string>
     <string name="password">Şifre</string>
-    <string name="captcha">Captcha</string>
+    <string name="captcha">Doğrulama</string>
     <string name="stop_on_empty_password">Şifre boş bırakılamaz</string>
-    <string name="stop_on_empty_captcha">Captcha boş bırakılamaz</string>
+    <string name="stop_on_empty_captcha">Doğrulama boş bırakılamaz</string>
     <string name="verifing_account">Şifre doğrulanıyor</string>
     <string name="doing_extra_login_steps">Oturum açma isteği doğrulanıyor</string>
     <string name="adding_or_updating_account">Hesap güncelleniyor</string>
     <string name="unlocking">Etkinleştiriliyor</string>
     <string name="unlock">Etkinleştir</string>
-    <string name="verify_password_failed">Mi hesap Kimliği doğrulanamadı: %s</string>
+    <string name="verify_password_failed">Mi hesap kimliği doğrulanamadı: %s</string>
     <string name="login_failed">Oturum açılamadı: %s</string>
     <string name="change_find_device_status_failed">Kilit açılamadı: %s</string>
     <string name="unlock_help_title">Kilit açma yardımı:</string>
@@ -87,4 +84,7 @@ Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
     <string name="sys_notification_async_verify_content">Güncellenen güvenlik politikamız cihaz bul özelliğinin yeniden etkinleştirilmesini gerektiriyor</string>
     <string name="sys_notification_async_open_failed_title">Cihazı bul açılamadı</string>
     <string name="sys_notification_async_open_failed_content">Yeniden denemek için dokunun veya iptal edin</string>
+    <string name="find_device_error_custom">%s</string>
+    <string name="find_device_crash">Cihazı bul beklenmedik bir şekilde kapatıldı</string>
+    <string name="find_device_telephony_fault">Cihazı bul: Telefon hatası (%s)</string>
 </resources>
