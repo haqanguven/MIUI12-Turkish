@@ -137,6 +137,7 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="cloud_service_state_open_reminder">Notları senkronize etmek için Mi bulut ile senkronizasyonu açın</string>
+    <string name="cloud_service_state_open_reminder_note_and_todo">Bulut ile senkronizasyonu aç</string>
     <string name="cloud_trash_bin_title">Mi buluttaki notları sil</string>
     <string name="confirm_cancel">Reddet</string>
     <string name="confirm_ok">Kabul et</string>
@@ -147,6 +148,7 @@
     <string name="cta_dialog_message">Notlar normal olarak çalışabilmek amacıyla internet bağlantısı, ses kaydı ve kişilerinize erişim için izinlere ihtiyaç duyar. İzin verilsin mi?</string>
     <string name="cta_dialog_title">İzin gerekli</string>
     <string name="cta_reminder">Notlar normal olarak çalışabilmek amacıyla internet bağlantısı, ses kaydı ve kişilerinize erişim için izinlere ihtiyaç duyar. İzin verilsin mi?</string>
+    <string name="cta_v2_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
     <string name="cta_v2_app_purpose">Not oluşturma, görüntüleme ve yönetme</string>
     <string name="cta_v2_app_purpose_v12">"Notlar'a hoş geldiniz! Bu uygulamayı metin, görüntü ve ses içeren görevler ve notlar oluşturmak için kullanabilirsiniz."</string>
     <string name="data_empty_note">Burada henüz not yok</string>
@@ -549,6 +551,10 @@
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="sync_all_terms">%1$s, %2$s, ve %3$s</string>
+    <string name="sync_folder_todo">%1$s ve %2$s</string>
+    <string name="sync_note_folder">%1$s ve %2$s</string>
+    <string name="sync_note_todo">%1$s ve %2$s</string>
     <string name="sync_tips">Notları Mi bulut ile senkronize etmek için dokunun</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
