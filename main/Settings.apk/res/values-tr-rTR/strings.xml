@@ -1868,7 +1868,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="device_admin_settings_title">Cihaz yöneticisi ayarları</string>
     <string name="device_admin_status">Bu yönetim uygulaması etkin ve %1$s uygulamasının aşağıdaki işlemleri gerçekleştirmesine izin veriyor:</string>
     <string name="device_admin_warning">Bu yönetim uygulamasının etkinleştirilmesi %1$s uygulamasının şu işlemleri gerçekleştirmesine izin verir:</string>
-    <string name="device_available_memory">"Kullanılabilir alan "</string>
+    <string name="device_available_memory">"Kullanılabilir alan: "</string>
     <string name="device_battery">Pil</string>
     <string name="device_build_id">Sürüm numarası</string>
     <string name="device_camera">Kamera</string>
@@ -1916,7 +1916,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="device_status_activity_title">Durum</string>
     <string name="device_status_summary">Telefon numarası, model numarası gibi bilgileri içerir</string>
     <string name="device_theme">Cihaz teması</string>
-    <string name="device_total_memory">"Toplam alan "</string>
+    <string name="device_total_memory">"Toplam alan: "</string>
     <string name="device_usage_list_summary">Tam şarj sonrası cihaz kullanımı</string>
     <string name="devices_title">Cihazlar</string>
     <string name="dial_application_title">Arama</string>
@@ -5889,7 +5889,7 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="taplus_title">Taplus</string>
     <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
     <string name="terms_title">Şartlar ve koşullar</string>
-    <string name="testing">Test ediliyor</string>
+    <string name="testing">Test etme</string>
     <string name="testing_phone_info">Telefon bilgileri</string>
     <string name="testing_sim_toolkit">Sim araç kiti</string>
     <string name="testing_usage_stats">Kullanım istatistikleri</string>
@@ -7441,8 +7441,9 @@ Ayarları şu şekilde güncelle:
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
 	<string name="statusbar_style_title">Durum çubuğu düzeni</string>
-	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
+	<string name="switch_control_panel_title">Kontrol merkezi konumu</string>
 	<string name="notif_icon_title">Bildirim simge sayısı</string>
+	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
 	<string name="network_type_settings_title">Ağ türü simge ayarları</string>
 	<string name="network_types_title">Ağ türleri</string>
 	<string name="2g_or_e_title">2G veya E simgesi</string>

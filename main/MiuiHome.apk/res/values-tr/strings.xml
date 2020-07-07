@@ -384,6 +384,9 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
     <string name="mtzgadget_missing_text">Araç kullanılabilir durumda değil</string>
     <string name="multi_selecting_tips">Bir uygulamayı seçmek için uygulama simgesini taşıyın ve buraya bırakın</string>
+    <string name="navigation_type_full_screen">Hareketler</string>
+    <string name="navigation_type_title">Sistem navigasyonu</string>
+    <string name="navigation_type_virtual_key">Düğmeler</string>
     <string name="no_detail_page">Ayrıntı sayfası yok</string>
     <string name="no_space_toast">Yeterli boş alan yok</string>
     <string name="no_space_toast_when_click_widget">Bu sayfada yeterli alan yok. Bu öğeyi farklı bir sayfaya sürüklemeyi deneyin</string>
@@ -483,6 +486,8 @@
     <string name="reset_fail">Geri yüklenemedi</string>
     <string name="reset_scene_prompt">Ekran varsayılan ekran düzenine sıfırlanacaktır</string>
     <string name="reset_title">Geri yükle</string>
+    <string name="resource_canary_leak_tip">Sızıntı var</string>
+    <string name="resource_canary_wait_for_heapdump_message">Yığın boyutu boşaltılıyor</string>
     <string name="screen_cells_config_title">Ana ekran düzeni</string>
     <string name="screen_locked_toast">Ana ekran düzeni kilitli</string>
     <string name="screen_number">%d. ekran</string>

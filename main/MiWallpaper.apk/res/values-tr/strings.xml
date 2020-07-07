@@ -241,7 +241,7 @@ Mart Vallis"</string>
     <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">dd MMMM EEEE</string>
     <string name="miui_lock_screen_date_12">dd MMMM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd MMMM
+    <string name="miui_lock_screen_date_two_lines">"dd MMMMd
 EEEE"</string>
     <string name="miui_lock_screen_date_two_lines_12">"dd MMMM
 EEEE"</string>
