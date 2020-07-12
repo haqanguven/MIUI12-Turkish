@@ -351,6 +351,20 @@
         <item>Xiao Wei, A. Dan Kontrasepsiyon güvenli bir dönemde güvenli midir? [J.] Health Essentials, 2002 (4).</item>
         <item>2018 fiziksel aktivite yönergeleri danışma komitesi bilimsel rapor sundu</item>
     </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Pzt, Çrş, Cum</item>
+        <item>Sal, Per, Cmt</item>
+        <item>Çrş, Cum, Paz</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Her pazartesi</item>
+        <item>Her salı</item>
+        <item>Her çarşamba</item>
+        <item>Her perşembe</item>
+        <item>Her cuma</item>
+        <item>Her cumartesi</item>
+        <item>Her pazar</item>
+    </string-array>
     <string-array name="rh_blood_array">
         <item>Ayarlanmadı</item>
         <item>Negatif</item>

@@ -431,7 +431,7 @@
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
-    <string name="time_picker_dialog_title">Saati ayarla</string>
+    <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="title_activity_easy_mode">Basit mod</string>
