@@ -250,7 +250,7 @@ Adım 3: Seçilen MBN'yi yüklemek için Etkinleştir düğmesine tıklayın
     <string name="cit_reset_se_start">"ESE'nizi sıfırla"</string>
     <string name="cit_reset_se">"ESE'yi sıfırla"</string>
     <string name="cit_reset_se_nfc_closed">Başarısız: NFC etkinleştirilmelidir</string>
-    <string name="cit_reset_ese_summary">ESE'yi sıfırlayın. Tüm NFC banka kartlarınız ve çapraz kartlarınız silinecektir</string>
+    <string name="cit_reset_ese_summary">"ESE'yi sıfırlayın. Tüm NFC banka kartlarınız ve çapraz kartlarınız silinecektir"</string>
     <string name="cit_version_check_summary">Cihaz bilgileri aşağıdadır. Yeşil renk ile vurgulanan bilgilerin doğru olduğunu onaylayın</string>
     <string name="cit_proximity_sensor_check_summary">"Yakınlık sensörünü elinizle kapatın ve ardından elinizi sensörden uzaklaştırın. Elinizi cihazınızdan uzaklaştırdığınızda değer 0.0 değerinden yükselmeye başlamalıdır
 Kalibrasyon işlemi sırasında eliniz ile sensör arasında herhangi bir obje olmamasına dikkat edin"</string>

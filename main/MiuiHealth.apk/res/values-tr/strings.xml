@@ -289,7 +289,7 @@ Sağlık verilerinizi saklamayı seçtikten sonra silmeye karar verirseniz Sağl
     <string name="data_source_manage">Veri kaynaklarını yönet</string>
     <string name="data_source_not_support_hm_description">%1$s ayrıntılı adım sayısı sunmuyor. Diğer > Veri kaynakları bölümünden diğer veri kaynaklarına geçmeyi deneyebilirsiniz</string>
     <string name="data_source_not_support_hm_description_consume">Seçilen veri kaynağı (%1$s) kalori hakkında ayrıntılı bilgi sağlamıyor. Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz</string>
-    <string name="data_source_not_support_hm_description_duration">Seçilen veri kaynağı (%1$s) ortalama yüksek yoğunluklu egzersizler hakkında ayrıntılı bilgi sağlamıyor. Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz</string>
+    <string name="data_source_not_support_hm_description_duration">Seçilen veri kaynağı (%1$s) orta ila yüksek yoğunluklu egzersizler hakkında ayrıntılı bilgi sağlamıyor. Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz</string>
     <string name="date">Tarih</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -453,7 +453,7 @@ Mi sağlık yalnızca önemli ögeler hakkında bildirim gönderir"</string>
     <string name="exercise">Etkinlik</string>
     <string name="exercise_consume">Yanmış %1$d kal</string>
     <string name="exercise_consume_description">"Çinliler için diyet rehberine göre günlük fiziksel aktivite toplam enerji harcamasının %15'inden fazlasını tüketmelidir. Günlük fiziksel aktivitenizde harcanan enerji burada özetlenir ancak temel metabolik harcamaları içermez. Kilo yönetimi endişeleriniz varsa enerji alımına da odaklanmanız gerekir"</string>
-    <string name="exercise_consume_exercise_description">Bu orta ve yüksek yoğunluklu aktivitelere harcadığınız zamandır. Çin sağlık yetkililerine göre haftalık egzersiz süresi en az 150 dakika olmalıdır. Hızlı yürüyüş, koşu ve merdiven çıkma gibi aktiviteler ortalama yüksek yoğunluklu antrenmanlar olarak görülecektir</string>
+    <string name="exercise_consume_exercise_description">Bu orta ve yüksek yoğunluklu aktivitelere harcadığınız zamandır. Çin sağlık yetkililerine göre haftalık egzersiz süresi en az 150 dakika olmalıdır. Hızlı yürüyüş, koşu ve merdiven çıkma gibi aktiviteler orta ila yüksek yoğunluklu antrenmanlar olarak görülecektir</string>
     <string name="exercise_correct">Düzelt</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Seçilen veri kaynağı (%1$s) kalori sayısı bilgilerini sağlamıyor
@@ -462,7 +462,7 @@ Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebili
 Diğer > Veri kaynakları bölümünden başka bir kaynak seçebilirsiniz"</string>
     <string name="exercise_detail_no_steps_hint">"Seçilen veri kaynağı (%1$s) adım sayısı bilgisi sağlamıyor
 Daha fazla > Veri kaynakları bölümünden farklı bir veri kaynağı seçebilirsiniz"</string>
-    <string name="exercise_duration">Ortalama yüksek yoğunluk</string>
+    <string name="exercise_duration">Orta ila yüksek yoğunluk</string>
     <string name="exercise_duration_consume">Süre: %1$s | Yakılan: %2$s</string>
     <string name="exercise_fast_description">%1$s(%2$s)</string>
     <string name="exercise_goal">Etkinlik hedefi</string>
@@ -771,7 +771,7 @@ Yatakta 30 dakika geçirdikten sonra uykuya dalmakta hala zorlanıyorsanız bu d
     <string name="min_low_pressure">Minimum diyastolik (Alt)</string>
     <string name="min_pace">En düşük hız</string>
     <string name="minimum">Minimum</string>
-    <string name="minute">D</string>
+    <string name="minute">" dakila"</string>
     <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
     <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
     <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
@@ -1270,9 +1270,9 @@ bulunamadı"</string>
     <string name="tb_exercise_detail_consume_no_data">Yanmış Kalori hakkında bilgi yok</string>
     <string name="tb_exercise_detail_consume_w_m_normal">Ortalama yanmış kalori: %1$d. Toplam Yanmış Kalori: %2$d</string>
     <string name="tb_exercise_detail_data">%1$s için istatistikler görüntüleniyor</string>
-    <string name="tb_exercise_detail_duration_daily_enough">Dakika cinsinden ortalama yüksek yoğunlukta egzersiz süresi: %1$d. Egzersiz yeterliydi</string>
+    <string name="tb_exercise_detail_duration_daily_enough">Dakika cinsinden orta ila yüksek yoğunlukta egzersiz süresi: %1$d. Egzersiz yeterliydi</string>
     <string name="tb_exercise_detail_duration_daily_not_enough">Dakika cinsinden true yüksek yoğunlukta egzersiz süresi: %1$d. Egzersiz yeterince üretken değildi</string>
-    <string name="tb_exercise_detail_duration_no_data">Ortalama yüksek yoğunluklu egzersiz süresi bilgisi yok</string>
+    <string name="tb_exercise_detail_duration_no_data">Orta ila yüksek yoğunluk egzersiz süre bilgisi yok</string>
     <string name="tb_exercise_detail_duration_w_m_normal">Dakika cinsinden günlük ortalama: %1$d. Toplam dakika: %2$d</string>
     <string name="tb_exercise_detail_pillar">%1$s ile %2$s arasındaki adımlar: %3$s</string>
     <string name="tb_exercise_detail_pillar_cancel">Seçimi iptal et</string>
@@ -1283,8 +1283,8 @@ bulunamadı"</string>
     <string name="tb_exercise_detail_step_w_m_no_data">Adım sayısı verisi yok. Hedefe ulaştığınız günler: %1$d</string>
     <string name="tb_exercise_detail_step_w_m_no_goal">Ortalama günlük adım sayısı: %1$d</string>
     <string name="tb_exercise_detail_step_w_m_normal">Ortalama günlük adım sayısı: %1$d. Hedefe ulaştığınız günler: %2$d</string>
-    <string name="tb_exercise_exercise_duration">Dakika cinsinden ortalama yüksek yoğunlukta egzersiz süresi: %1$d. %2$s. Ayrıntıları görüntülemek için dokunun</string>
-    <string name="tb_exercise_exercise_no_data">Ortalama yüksek yoğunluklu egzersiz yok</string>
+    <string name="tb_exercise_exercise_duration">Dakika cinsinden orta ila yüksek yoğunlukta egzersiz süresi: %1$d. %2$s. Ayrıntıları görüntülemek için dokunun</string>
+    <string name="tb_exercise_exercise_no_data">Orta ila yüksek yoğunluk egzersizi yok</string>
     <string name="tb_exercise_goal_info">Günlük etkinlik hedefi: %1$s. %2$s</string>
     <string name="tb_exercise_home_banner">Günlük giriş</string>
     <string name="tb_exercise_label_close">İstemi kapat</string>
@@ -1435,8 +1435,8 @@ bulunamadı"</string>
     <string name="time_duration_number">%1$s:%2$s</string>
     <string name="time_format_hh_mm">HH:mm</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
-    <string name="time_picker_label_hour">S</string>
-    <string name="time_picker_label_minute">D</string>
+    <string name="time_picker_label_hour">" saat"</string>
+    <string name="time_picker_label_minute">" dakika"</string>
     <string name="tips_default">Veri yok</string>
     <string name="title_auto_run">Otomatik başlatma</string>
     <string name="title_click_record_menstruation">Bir adet dönemini kaydedin</string>

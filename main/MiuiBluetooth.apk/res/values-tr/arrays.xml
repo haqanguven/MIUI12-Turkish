@@ -16,6 +16,7 @@
         <item>En çok 2 işlem</item>
         <item>En çok 3 işlem</item>
         <item>En çok 4 işlem</item>
+    </string-array>
     <string-array name="ble_profile_mi_band">
         <item>Çaldığında titret</item>
         <item>Mesaj alırken titret</item>

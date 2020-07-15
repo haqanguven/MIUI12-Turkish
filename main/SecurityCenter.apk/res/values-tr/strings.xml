@@ -1323,7 +1323,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="function_gwsd_detail">"Bu özellik hakkında:
  1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir
  2. Bu özellik açıldığında arayan arama bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz gelen aramaya son verilir
- 3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser
+ 3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser"</string>
     <string name="function_gwsd_title">Gelen aramaları veri Sim bağlantısını kesmesine izin verme</string>
     <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
     <string name="function_shield_eye_shield">Okuma modunu kapat</string>

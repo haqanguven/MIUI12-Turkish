@@ -455,7 +455,7 @@
     <string name="installed">Yüklendi</string>
     <string name="installing">Yükleniyor</string>
     <string name="item_title_process_mode">Bir eylem seçin</string>
-    <string name="junk_syscache_alert_desc">"Bu önbelleği temizlemenizi önermiyoruz.<font color="#d64438">Temizlendikten sonra APP'nin normal çalışmasını etkileyecektir</font>"</string>
+    <string name="junk_syscache_alert_desc">Bu önbelleği temizlemenizi önermiyoruz. Temizlendikten sonra uygulamanın normal çalışmasını etkileyecektir</string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Yazılım sistemi kalıntısı (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">LG telefonu demo videosu</string>
     <string name="junk_tag_RF_DemoVideo_MIUI">Mi telefon markası görüntü videosu</string>
