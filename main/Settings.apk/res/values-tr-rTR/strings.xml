@@ -4739,7 +4739,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler"</string>
     <string name="screen_monochrome_mode_summary">Pil ömrünü uzatmak için tek tek moduna geçin</string>
     <string name="screen_monochrome_mode_title">Tek renk modu</string>
     <string name="screen_never_timeout_title">Hiçbir zaman</string>
-    <string name="screen_on_proximity_sensor_summary">Cihaz cebe koyulduğunda dokunma hareketlerini kitle</string>
+    <string name="screen_on_proximity_sensor_summary">Cihaz cebe koyulduğunda dokunma hareketlerini kilitler</string>
     <string name="screen_on_proximity_sensor_title">Cep modu</string>
     <string name="screen_optimize">Renkler</string>
     <string name="screen_optimize_disabled">Okuma modu açık olduğunda parlaklık ayarlanamıyor</string>
