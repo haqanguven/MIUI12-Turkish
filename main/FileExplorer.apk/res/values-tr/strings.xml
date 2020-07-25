@@ -148,7 +148,6 @@
     <string name="doc_wps">WPS</string>
     <string name="doc_xls">XLS</string>
     <string name="downloading">İndiriliyor</string>
-    <string name="enable_documentsui">Ayarlar > Yüklü uygulamalar menüsünde %s açın</string>
     <string name="enable_sd_card">SD kart bozuk veya bağlantısı kesildi</string>
     <string name="enable_usb">USB cihazı bozuk veya bağlantısı kesildi</string>
     <string name="encrypt_error">Dosyalar gizlenemedi. Tekrar deneyin</string>
@@ -291,7 +290,6 @@
     <string name="no_enough_storage_title">Yeterli depolama alanı yok</string>
     <string name="no_file">Boş</string>
     <string name="no_wifi">Wifi ağı bulunamadı</string>
-    <string name="not_installed_documentsui">Belgeler yüklü değil</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_documentui">Belge kullanıcı arayüzü bu cihazda desteklenmiyor</string>
     <string name="notif_server_starting">FTP sunucusu başlatılıyor</string>
@@ -392,7 +390,6 @@
     <string name="rlv_pull_to_refresh">Yenilemek için çekin</string>
     <string name="rlv_refreshing">Yenileniyor</string>
     <string name="rlv_release_to_refresh">Yenilemek için bırakın</string>
-    <string name="save">Kaydet</string>
     <string name="search_app">Uygulamalar &amp; klasörler</string>
     <string name="search_app_more">Daha fazla</string>
     <string name="search_description">Cihazdaki tüm dosyaları ara</string>
@@ -409,11 +406,6 @@
     <string name="search_menu_title">Ara</string>
     <string name="search_result">Sonuçlar</string>
     <string name="search_result_more">Daha fazla</string>
-    <string name="search_statistic_appname">source</string>
-    <string name="search_statistic_keyword">keyin</string>
-    <string name="search_statistic_match_invalid">0</string>
-    <string name="search_statistic_match_valid">1</string>
-    <string name="search_statistic_tag">tag</string>
     <string name="search_title">Arama</string>
     <string name="search_title_hint">Ara</string>
     <string name="select_dest_folder">Klasör seçin</string>
@@ -466,7 +458,6 @@
     <string name="text_select_nothing">Hiçbirini seçme</string>
     <string name="tip">Uyarı</string>
     <string name="title_app_tags">Uygulamalar</string>
-    <string name="title_enable_documentsui">Belgeleri aç</string>
     <string name="title_expire_video">Süresi dolmak üzere</string>
     <string name="title_recent">Son kullanılanlar</string>
     <string name="title_select_volume">Klasör seçin</string>
