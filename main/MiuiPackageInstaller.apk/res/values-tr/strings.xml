@@ -175,7 +175,7 @@ Alternatif olarak basit modu kapatabilir ve tekrar deneyebilirsiniz"</string>
     <string name="miui_clean">Temizle</string>
     <string name="miui_clear_apk_desc">Kurulum paketi ve artık veriler silindi (%s)</string>
     <string name="miui_clear_apks_summary">Toplam %s</string>
-    <string name="miui_clear_apks">Kurulum paketini ve kalan verileri sil (%s)</string>
+    <string name="miui_clear_apks_title">Kurulum paketini ve kalan verileri sil (%s)</string>
     <string name="miui_compatibility_desc">Bu uygulama cihazınız için optimize edilmemiştir. Uygulamayı yüklemeniz durumunda düzgün çalışmayabilir. Geliştiriciler mevcut uyumluluk sorunlarını çözene kadar bekleyin ve daha sonra uygulamanın yeni sürümünü yükleyin</string>
     <string name="miui_delete">Kaldır</string>
     <string name="miui_failed_already_exists">Uygulama zaten yüklenmiş durumda</string>
