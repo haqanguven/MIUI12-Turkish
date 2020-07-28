@@ -440,6 +440,7 @@
     <string name="storage_cloned_app">Çift uygulamalar için depolama</string>
     <string name="storage_info_detail">Kullanılabilir: %1$s Toplam: %2$s</string>
     <string name="storage_internal">Dahili depolama</string>
+    <string name="storage_maintenance_mode">Bakım modu için depolama alanı</string>
     <string name="storage_sd_card">SD kart</string>
     <string name="storage_usb">USB depolama</string>
     <string name="storage_warning">Harici depolama alanı kullanılamıyor</string>
