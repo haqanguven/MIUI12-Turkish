@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="a2dp_connect_success">Hoparlörde çalındı</string>
+    <string name="a2dp_not_pair">Cihaz bağlı değil</string>
+    <string name="a2dp_not_pair_desc">"Lütfen konuşmacıya "Little Ai" deyin: Bluetooth'u açın
+Hoparlör ürün yazılımının en son sürüme yükseltilmesi gerekiyor"</string>
+    <string name="a2dp_not_pair_desc_same_wifi">Lütfen telefonunuzu ve cihazınızı aynı wifi ağına bağlayın ve tekrar deneyin</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -127,9 +132,9 @@
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -139,7 +144,7 @@
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">dd MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -233,10 +238,13 @@
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
     <string name="morning">ÖÖ</string>
+    <string name="nfc_tip_ad2p_success">Müzik aktarıldı</string>
+    <string name="nfc_wifi_connect_title">Wifi otomatik bağlantı</string>
     <string name="night">ÖS</string>
     <string name="noon">ÖS</string>
     <string name="notification_name">Cihazları keşfedin</string>
     <string name="notification_scanning">Yakındaki cihazlar aranıyor</string>
+    <string name="ok">Tamam</string>
     <string name="pm">ÖS</string>
     <string name="rationale_ask">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir</string>
     <string name="rationale_ask_again">Bu uygulama istenen izinler olmadan düzgün çalışmayabilir. Uygulama izinlerini değiştirmek için uygulama ayarları ekranını açın</string>
@@ -256,7 +264,7 @@
     <string name="solar_term_heavy_snow">Yoğun kar</string>
     <string name="solar_term_hoar_frost_falls">Kırağı</string>
     <string name="solar_term_insects_awaken">Böcekler uyandı</string>
-    <string name="solar_term_light_snow">Hafif Kar</string>
+    <string name="solar_term_light_snow">Hafif kar</string>
     <string name="solar_term_slight_cold">Hafif soğuk</string>
     <string name="solar_term_slight_heat">Hafif sıcaklar</string>
     <string name="solar_term_spring_begins">Bahar başlıyor</string>
@@ -285,7 +293,7 @@
     <string name="the_easter_day">Paskalya</string>
     <string name="the_eve_of_the_spring_festival">Bahar festivali arifesi</string>
     <string name="the_fifth_day">Beşinci gün</string>
-    <string name="the_fools_day">Zafer Bayramı</string>
+    <string name="the_fools_day">Zafer bayramı</string>
     <string name="the_forth_day">Dördüncü gün</string>
     <string name="the_hksar_establishment_day">HKSAR kuruluş günü</string>
     <string name="the_international_womens_day">Kadınlar Günü</string>
@@ -327,5 +335,6 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
+    <string name="wifi_connected">Bağlandı</string>
     <string name="yesterday">Dün</string>
 </resources>
