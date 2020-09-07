@@ -63,6 +63,18 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
+    <string-array name="app_store_clip_data_array">
+        <item>Fried Chicken Stick için tüm yazılımları ve okumak istediğiniz herhangi bir romanı bulabilirsiniz</item>
+        <item>Uzun zamandır aradığım ücretsiz okuma yazılımı</item>
+        <item>Kütüphane tamamlandı. Tamamen ücretsizdir</item>
+        <item>Yeni nesil kitap peşinde koşan eser</item>
+        <item>Diğer uygulamaları kararlı bir şekilde bırakın ve bunu saklayın</item>
+        <item>Başkaları tarafından indirilmesi tavsiye edilen on binlerce kitap ömür boyu görüntülenebilir</item>
+        <item>Harika ücretsiz romanlar</item>
+        <item>Birçok genç bayan burada kitap okuyor</item>
+        <item>Görsel inceleme sıcak olacak</item>
+        <item>Süper özgür metin her şeye sahiptir 👍</item>
+    </string-array>
     <string-array name="baidu">
         <item>Baidu</item>
         <item>baidu.com</item>
@@ -163,6 +175,11 @@
         <item>http://i.ifeng.com/?ch=rj_mr</item>
         <item>3g</item>
         <item>http://3g.163.com/</item>
+    </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Kitaplık</item>
+        <item>Kitaplık</item>
+        <item>Kitaplık</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
@@ -1263,6 +1280,24 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
+    <string-array name="general__notification_toolbar_book_tips_array">
+        <item>{\"title\": \"Uzaylı Xiaoyao Tianzun\", \"summary\": \"Her şeyden önce göksel gizli kod!\", \"fiction_id\":\"25731\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
+        <item>{\"title\": \"Wu Ni Qiankun\", \"summary\": \"Eşsiz güç efsanesine israf\", \"fiction_id\":\"18838\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01NBCjISbV5/wEPQHF3Lij92EQ.jpg\"}</item>
+        <item>{\"title\": \"Antik Güçlendirme Tekniği\", \"summary\": Atık odun çocuk ama birdenbire bu dünya durumunu karıştırmak istiyor, \"fiction_id\":\"356681\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01pg098DZ6D/zDM8GUENKgDB1u.jpg\"}</item>
+        <item>{\"title\": \"Dao Kalp Tohumu Demon\", \"summary\": \"Yedi duygu, altı arzu ve on üç iblis başı ruhlarını geliştirir ve bedenlerini cennet ve yeryüzü ile savaşma sanatı ile şekillendirir\", \"fiction_id\":\"12446\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/s010/p01BXC9l3TXE/HVg5dOHIdti3HV.jpg\"}</item>
+        <item>{\"title\": \"Kılıç Ustası Tanrısı\", \"summary\": \"Dövüş sanatları yolunda bir kez gökyüzünün yarısı kanla kaplıydı\", \"fiction_id\":\"265311\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01SeZGWfKFk/ndQzJYLRkuzPJ1.jpg\"}</item>
+        <item>{\"title\": \"Eşsiz Cthulhu\", \"summary\": \"Gökyüzüne adım atın, gökyüzünü sallayın, dünya yukarı bakıyor\", \"fiction_id\":\"265387\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01kpIvnU9pz/KhPZFXcyuHAhhx.jpg\"}</item>
+        <item>{\"title\": \"Uzaylı Xiaoyao Tianzun\", \"summary\": \"Her şeyden önce göksel gizli kod!\", \"fiction_id\":\"25731\", \"cover\":\"http://cover.read.duokan.com/mfsv2/download/fdsc3/p01faREj2kgH/qdNQgCljVWMNpK.jpg\"}</item>
+    </string-array>
+    <string-array name="general__notification_toolbar_default_tips_array">
+        <item>Güzel romanlar sizin için yenileniyor</item>
+        <item>Ücretsiz roman koleksiyonu</item>
+        <item>Roman güncellendi. Görüntülemek için tıklayın</item>
+        <item>Usta kitabı okumayı unutma</item>
+        <item>Erkeklerin sadece %3 civarı bu romanları biliyor</item>
+        <item>Tarayıcı romanları. Hepsi orada</item>
+        <item>Büyük bir iyi kitap dalgası geliyor. Görüntülemek için tıklayın</item>
+    </string-array>
     <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
@@ -1505,6 +1540,13 @@
         <item>sogou</item>
         <item>sm</item>
         <item>google</item>
+    </string-array>
+    <string-array name="share_title_array">
+        <item>@string/share_name_sina</item>
+        <item>@string/share_name_qq</item>
+        <item>@string/share_name_weixin_friend</item>
+        <item>@string/share_name_weixin_friends</item>
+        <item>@string/share_to_other</item>
     </string-array>
     <string-array name="shipin">
         <item>Youku</item>
