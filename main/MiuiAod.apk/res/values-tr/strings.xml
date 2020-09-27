@@ -31,6 +31,7 @@
     <string name="accessibility_battery_level">Pil yüzdesi: %d</string>
     <string name="accessibility_battery_level_charging">Pil şarj oluyor. Yüzde %d</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="add_custom_image">Özel resim</string>
     <string name="add_from_album">Galeriden ekle</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="align_type">Hizalama</string>
@@ -423,6 +424,8 @@ EE"</string>
     <string name="search_menu_title">Ara</string>
     <string name="select_notification_animation_style">Özel efekt seç</string>
     <string name="select_notification_notify_style">Bildirim efekti seç</string>
+    <string name="share">Paylaş</string>
+    <string name="share_to_community">Mi toplulukta paylaş</string>
     <string name="show_battery">Pil durumunu göster</string>
     <string name="show_battery_status">Pil durumunu</string>
     <string name="show_lunar">Geleneksel çince takvimi göster</string>
@@ -463,6 +466,7 @@ olacağına inan"</string>
     <string name="step_component_info_active_tip">Adım sayar Xiaomi sağlık tarafından sağlanır. Devam etmek için Xiaomi sağlık koşullarını kabul edin</string>
     <string name="step_component_info_desc">Hedefe ulaşıldığında adım sayar bir kupaya dönüşecek</string>
     <string name="step_component_info_tip">Adım sayar Xiaomi sağlık tarafından sağlanır. Xiaomi sağlığı yükleyin veya güncelleyin. Devam etmek için koşullarını kabul edin</string>
+    <string name="step_to_image_community">Mi topluluğunda daha fazlasını bulun</string>
     <string name="summary">Güç tüketimini azaltmak için cihazınız uzun bir süre karanlıkta kaldığında öğeler görüntülenmeyecektir</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>

@@ -1038,6 +1038,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_dialog_title">Taşınıyor</string>
     <string name="login_failed_toast">Oturum açılamadı. Yenileyin ve ardından tekrar deneyin</string>
+    <string name="marketSdkVersion">3.2.5</string>
     <string name="maximum_input_alert">2048 karakterden fazlası girilemez</string>
     <string name="media_error_action_refresh">Yenile</string>
     <string name="media_error_failure">Video oynatılamıyor</string>
@@ -2414,8 +2415,8 @@ feedsContentId:
     <string name="vo_share_text">Paylaş</string>
     <string name="vo_small_video_load_more_text">Daha fazla slayt yükleniyor</string>
     <string name="vo_small_video_title">Harika küçük video</string>
-    <string name="vo_vote_left">%%d$ kare</string>
-    <string name="vo_vote_right">%%d$</string>
+    <string name="vo_vote_left" formatted="false">%d$% kare</string>
+    <string name="vo_vote_right" formatted="false">%d$% tekrar</string>
     <string name="vo_wei_bo_all_text">Tüm metin</string>
     <string name="vo_wei_bo_gif_image">Hareketli fotoğraf</string>
     <string name="vo_wei_bo_long_image">Uzun fotoğraf</string>
@@ -2464,6 +2465,9 @@ feedsContentId:
     <string name="xiaomi_game_reserve_count">"%s'den fazla kişi rezerve etti"</string>
     <string name="xiaomi_game_reserve_now">Hemen rezerve et</string>
     <string name="xiaomi_game_reserve_success">Başarılı oldu. Çevrimiçi olduktan hemen sonra yükleyin</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>
     <string name="xiaomi_open_game_now">Şimdi aç</string>
     <string name="xiaomi_recommend_games">Önerilen oyunlar</string>
     <string name="xiaomi_reserve_game">Rezervasyon</string>
