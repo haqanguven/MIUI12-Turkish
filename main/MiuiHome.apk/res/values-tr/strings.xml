@@ -330,7 +330,7 @@
     <string name="home_pull_down_action">Ana ekranda aşağı kaydırın</string>
     <string name="home_screen">Ana ekran</string>
     <string name="home_slide_up_action">Ana ekranda yukarı kaydırın</string>
-    <string name="home_switch_personal_assistant">-1 ekran</string>
+    <string name="home_switch_personal_assistant">Uygulama kasası</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
     <string name="icon_size">Simge boyutu</string>
     <string name="image_too_small_message">Orijinal resim yeterince büyük değil</string>
@@ -426,7 +426,7 @@
     <string name="navigation_guide_recent_title">Son kullanılanları aç</string>
     <string name="navigation_guide_settings">Hareket önizlemeleri</string>
     <string name="navigation_type_full_screen">Hareketler</string>
-    <string name="navigation_type_title">Sistem navigasyonu</string>
+    <string name="navigation_type_title">Sistemde gezinme</string>
     <string name="navigation_type_title_synonyms_1">Tam ekran</string>
     <string name="navigation_type_title_synonyms_2">Küçük beyaz çubuk</string>
     <string name="navigation_type_title_synonyms_3">Tam ekran hareketleri</string>

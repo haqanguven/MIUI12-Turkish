@@ -31,6 +31,7 @@
     <string name="accessibility_button_clear">Girişi temizle</string>
     <string name="account_prifix">Hesap:</string>
     <string name="action">Oturum aç</string>
+    <string name="action_diagnostics">Teşhis etme</string>
     <string name="action_imme_open">Hemen aç</string>
     <string name="action_menu_account_not_login">Oturum açılmadı</string>
     <string name="action_menu_bookshelf">Kitaplık</string>
@@ -115,9 +116,11 @@
     <string name="adblock_notification">%d reklam engellendi</string>
     <string name="adblock_rules_not_updated_toast">Güncellenemedi</string>
     <string name="adblock_rules_updated_toast">Başarıyla güncellendi</string>
+    <string name="add_book_mark_sucess">Başarıyla eklendi</string>
     <string name="add_bookmark_group">Grup ekle</string>
     <string name="add_favorites_to">Favorilere ekle</string>
     <string name="add_new_bookmark">Yer imi ekle</string>
+    <string name="add_new_collect">Toplama ekle</string>
     <string name="add_new_quicklink">Ana ekrana ekle</string>
     <string name="add_pwa_to_homescreen">Ana ekran kısayolu eklensin mi?</string>
     <string name="add_ql_bm_title">Kaydet</string>
@@ -159,6 +162,7 @@
     <string name="appdownloader_duration_hours">%1$d saat</string>
     <string name="appdownloader_duration_minutes">%1$d dakika</string>
     <string name="appdownloader_duration_seconds">%1$d saniye</string>
+    <string name="appdownloader_jump_unknown_source">Sorunsuz kurulum için lütfen uygulama kurulum iznini açın</string>
     <string name="appdownloader_label_cancel">İptal et</string>
     <string name="appdownloader_label_ok">Tamam</string>
     <string name="appdownloader_notification_download">İndir</string>
@@ -173,6 +177,8 @@
     <string name="appdownloader_notification_download_restart">Yeniden başlat</string>
     <string name="appdownloader_notification_download_resume">Devam et</string>
     <string name="appdownloader_notification_download_space_failed">Depolama dolu ve indirme başarısız oldu</string>
+    <string name="appdownloader_notification_download_waiting_net">Mobil veri bekliyor</string>
+    <string name="appdownloader_notification_download_waiting_wifi">Wifi bağlantısı bekliyor</string>
     <string name="appdownloader_notification_downloading">İndiriliyor</string>
     <string name="appdownloader_notification_need_wifi_for_size">Dosya çok büyük ve wifi aracılığıyla indirilmesi gerekiyor</string>
     <string name="appdownloader_notification_paused_in_background">Arka planda duraklatıldı</string>
@@ -252,7 +258,11 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="bookcity_store__shared__reverify_order_confirm">Tamam</string>
     <string name="bookmark">Yer imi</string>
     <string name="bookmark_cannot_save_url">Bu bağlantı adresi yer imlerine eklenemiyor</string>
+    <string name="bookmark_copylink">Bağlantıyı kopyala</string>
+    <string name="bookmark_delete_bookmark">Yer işaretini sil</string>
+    <string name="bookmark_delete_hint">Yer işareti listesindeki bu yer işaretini de silin</string>
     <string name="bookmark_deleted">Yer imini sil</string>
+    <string name="bookmark_edit_bookmark">Yer işaretini düzenle</string>
     <string name="bookmark_error_page_title">Bir hata oluştu</string>
     <string name="bookmark_folder_needs_title">Bir grup adı girin</string>
     <string name="bookmark_group_lable">Grup</string>
@@ -263,6 +273,8 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="bookmark_not_saved">Yer imi kaydedilemedi</string>
     <string name="bookmark_rename_group">Grubu yeniden adlandır</string>
     <string name="bookmark_saved">Yer imlerine kaydedildi</string>
+    <string name="bookmark_select_all">Tümünü seç</string>
+    <string name="bookmark_select_none">Hiçbirini seç</string>
     <string name="bookmark_url_already_exisit">Bu bağlantı adresini zaten yer imlerine eklediniz</string>
     <string name="bookmark_url_can_not_null">Bağlantı adresini girin</string>
     <string name="bookmark_url_not_exisit">Bu bağlantı adresini zaten sildiniz</string>
@@ -340,9 +352,7 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="chinese_digit_seven">Yedi</string>
     <string name="chinese_digit_six">Altı</string>
     <string name="chinese_digit_ten">On</string>
-    <string name="chinese_digit_thirty">Otuz</string>
     <string name="chinese_digit_three">Üç</string>
-    <string name="chinese_digit_twenty">Yirmi</string>
     <string name="chinese_digit_two">İki</string>
     <string name="chinese_digit_zero">Sıfır</string>
     <string name="chinese_leap">Takvime eklenen</string>
@@ -371,17 +381,20 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
+    <string name="choose">Seç</string>
     <string name="clear_clipboard">Boş</string>
     <string name="clear_clipboard_confirm">Panodaki tüm içeriği silmek istediğinizden emin misiniz?</string>
     <string name="clear_history">Geçmişi temizle</string>
     <string name="clear_input_history_confirm">Geçmişin tüm içeriğini silmek istediğinizden emin misiniz?</string>
     <string name="clear_input_history_confirm_bt_text">Tamam</string>
+    <string name="clear_snapshot">Anlık görüntüyü temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="clipboard">Pano</string>
     <string name="close_ads_choice_no">İzin ver</string>
     <string name="close_ads_choice_yes">Engelle</string>
     <string name="close_ads_message">Bu internet sitesindeki içerik engellensin mi? Engellediğiniz internet sitelerini Ayarlar > Gelişmiş > Engellenen siteler menüsünde görüntüleyebilirsiniz</string>
     <string name="close_ads_title">İçerik engellensin mi?</string>
+    <string name="close_air_mode">Uçak modunu kapat</string>
     <string name="close_all_tab_alert_message">Tarayıcıda açık tüm sekmeler kapatılsın mı?</string>
     <string name="close_all_tab_alert_title">Tüm sekmeleri kapat</string>
     <string name="close_cloud_tab_tip">%s üzerindeki bulut sekmeleri kapatılsın mı?</string>
@@ -432,11 +445,13 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+    <string name="common_use_phrase_bottom_bar_m_point_txt">m.</string>
     <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
     <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
     <string name="common_use_phrase_bottom_bar_point_txt">.</string>
     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+    <string name="context_menu_add_to_browser_home_id">Tarayıcı ana sayfasına ekle</string>
     <string name="context_menu_add_to_desk_id">Ana ekrana ekle</string>
     <string name="context_menu_orientation_portrait_swap_id">D/Y ekran</string>
     <string name="contextmenu_add_contact">Kişi ekle</string>
@@ -450,9 +465,11 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="contextmenu_map">Harita</string>
     <string name="contextmenu_openlink">Aç</string>
     <string name="contextmenu_openlink_in_browser">Tarayıcıda aç</string>
+    <string name="contextmenu_openlink_new_private_tab">Yeni özel sekmede aç</string>
+    <string name="contextmenu_openlink_new_tab">Yeni sekmede aç</string>
     <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
     <string name="contextmenu_openlink_newwindow_background">Arka plan sekmesinde aç</string>
-    <string name="contextmenu_orignal_webpage">Orijinal Web</string>
+    <string name="contextmenu_orignal_webpage">Orijinal internet</string>
     <string name="contextmenu_recognise_qr_code">QR kodunu tara</string>
     <string name="contextmenu_send_mail">E-posta gönder</string>
     <string name="contextmenu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
@@ -464,6 +481,8 @@ Kablosuz ağa tekrar bağlandığınızda bu içeriği indirmeye başlamak için
     <string name="contextmenu_webpage_translate">Web çevirisi</string>
     <string name="contextmenu_webpage_translation_tips">Araç Kutusunda yeni çeviri işlevi</string>
     <string name="copy">Kopyala</string>
+    <string name="current_network_state_air_mode">Uçak modunu açtınız</string>
+    <string name="current_network_state_not_need_diagnose">Yerel ağ bağlantısı normaldir</string>
     <string name="custom_head_card_text">Her zaman harika şeylerin olmak üzere olduğuna inanın</string>
     <string name="custom_head_weather">Hava durumu</string>
     <string name="dark_mode_setting_dark">Gece modu (Karanlık)</string>
@@ -604,6 +623,7 @@ Biz daha iyisini yapmak için bize bir övgü verin"</string>
     <string name="earthly_branches_zi">11</string>
     <string name="edit">Düzenle</string>
     <string name="edit_bookmark">Yer imini düzenle</string>
+    <string name="edit_history">Edit history</string>
     <string name="empty" />
     <string name="empty_app_name">Diğer uygulama</string>
     <string name="empty_bookmark">Boş</string>
@@ -686,7 +706,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="find_on_page_next">Sonraki</string>
     <string name="find_on_page_prev">Geri</string>
     <string name="finish_sync_cloud_tabs">Başarıyla senkronize edildi</string>
-    <string name="fmt_chinese_date">N-e</string>
+    <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -742,6 +762,9 @@ Mi hesabınızda oturum açın"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">Cuma</string>
+    <string name="gateway_diagnosis_title">Yönlendiriciyi kontrol edin</string>
+    <string name="gateway_exception_message">Şu anda bağlı olduğunuz ortak erişim noktası kullanılamıyor</string>
+    <string name="gateway_exception_message2">İnternet paylaşımı mevcut değil. Lütfen bilgisayar ağ bağlantısını kontrol edin</string>
     <string name="general__open_third_party_app_tip">Yüklü uygulama yok</string>
     <string name="general__shared__audio_chapter">Topla</string>
     <string name="general__shared__cash_unit">Kitap para birimi</string>
@@ -787,6 +810,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="guide_sports_text">Spor dalları</string>
     <string name="guide_start_experience">Başla</string>
     <string name="guide_tech_text">Teknoloji</string>
+    <string name="has_no_operator_info">Taşıyıcı bilgileri alınamadı. Lütfen telefon kartının doğru takılıp takılmadığını kontrol edin</string>
     <string name="have_sent_bookmark_to_home_screen">Ana ekrana yerleştirildi</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -800,6 +824,8 @@ Mi hesabınızda oturum açın"</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history">Geçmiş</string>
+    <string name="history_day">D</string>
+    <string name="history_month">M</string>
     <string name="home_description">Ana ekran</string>
     <string name="hot_word_item_mark_ads_text">Reklamlar</string>
     <string name="hot_word_item_mark_burst_text">Referanslar</string>
@@ -812,6 +838,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="incognito">Gizli tarama</string>
     <string name="info_flow_description">Bilgi kanalı</string>
     <string name="intrercept_dialog_hint">İnternet sitesinin kapatılıp kapatılmayacağına dair bir açılır pencere açacaktır</string>
+    <string name="ip_address_exception_summary">IP adresi edinimi başarısız oldu. Lütfen tekrar almak için wifi yeniden başlatmayı deneyin</string>
     <string name="isReplacePage">Dosya zaten mevcut. Değiştirilsin mi?</string>
     <string name="keep_intrercept">Benim için kapat</string>
     <string name="keep_queued_download">Sürdür</string>
@@ -1030,13 +1057,15 @@ Mi hesabınızda oturum açın"</string>
     <string name="leto_view_now">立即查看</string>
     <string name="load_error_tip">Yükleme hatası. Tekrar deneye tıklayın</string>
     <string name="load_more_footer_status_msg_error_load">Yükleme başarısız oldu. Tekrar denemek için tıklayın</string>
-    <string name="load_more_footer_status_msg_error_no_network">Ağ bağlantısı başarısız oldu!</string>
+    <string name="load_more_footer_status_msg_error_no_network">Ağ bağlantısı başarısız oldu</string>
     <string name="load_more_footer_status_msg_full">Başka veri yok</string>
     <string name="load_more_footer_status_msg_idle">Daha fazla yüklemek için tıklayın</string>
     <string name="load_more_footer_status_msg_loading">Yükleniyor</string>
     <string name="load_sever_data_error">Sunucu yanıtı alınamıyor. Llütfen daha sonra tekrar deneyin</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_dialog_title">Taşınıyor</string>
+    <string name="loading_text">Yükleniyor</string>
+    <string name="local_ip_exception_summary">Yerel IP testi başarısız oldu. Geliştiricinin sorunu çözebilmesi için 1 dakika içinde kullanıcı geri bildiriminin gönderilmesi önerilir</string>
     <string name="login_failed_toast">Oturum açılamadı. Yenileyin ve ardından tekrar deneyin</string>
     <string name="marketSdkVersion">3.2.5</string>
     <string name="maximum_input_alert">2048 karakterden fazlası girilemez</string>
@@ -1066,17 +1095,37 @@ Mi hesabınızda oturum açın"</string>
     <string name="miuishare_account_need_login">Weibo hesabının mevcut Mi hesabınız ile eşleştirilmiş olması gerekmektedir. Şimdi oturum açılsın mı?</string>
     <string name="miuishare_app_name">Miui paylaşım</string>
     <string name="miuishare_dialog_cancel">İptal et</string>
+    <string name="miuishare_moment_title">Moment</string>
     <string name="miuishare_no_network">Ağa bağlanılamadı</string>
     <string name="miuishare_publish">Gönder</string>
+    <string name="miuishare_qq_title">QQ</string>
     <string name="miuishare_share_done">Paylaşıldı</string>
     <string name="miuishare_share_editor_title">Paylaş</string>
     <string name="miuishare_title_more">Daha fazla</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuishare_wechat_timeline_title">WeChat anlar</string>
+    <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Bulut ile senkronizasyon kapalı</string>
-    <string name="miuix_appcompat_cloud_state_finished">Bulut ile senkronize edildi</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Bulut ile senkronize et</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
+    <string name="miuix_appcompat_confirm_description">Onayla</string>
+    <string name="miuix_appcompat_delete_description">Sil</string>
+    <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
+    <string name="miuix_appcompat_search_input_description">Ara</string>
+    <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için serbest bırak</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Veri yok</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
+    <string name="modify">Değiştir</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Bu konumu değiştirmek için SD kart gerekmektedir</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
@@ -1123,6 +1172,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="morning">Sabah</string>
     <string name="movie_player_3g_tip_retry">Devam et</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+    <string name="multiple_choice">Çoklu seçenek</string>
     <string name="mw_accessibility_date_picker_month">Ay</string>
     <string name="mw_accessibility_date_picker_week">Hafta</string>
     <string name="mw_accessibility_date_picker_year">Yıl</string>
@@ -1267,7 +1317,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="mw_older">Daha eski</string>
     <string name="mw_opening_file_error">Seçili dosya açılamadı</string>
     <string name="mw_permission_alert_window">Bu özelliği kullanmak için lütfen sistem seçeneği görüntüleme açılır penceresini açın</string>
-    <string name="mw_permission_unknown">Bilinmeyen Seçenek</string>
+    <string name="mw_permission_unknown">Bilinmeyen seçenek</string>
     <string name="mw_private_browsing_warning">Bu işlev Androidin bu sürümünde desteklenmiyor</string>
     <string name="mw_profiler_error_toast">Profiler başlatılamadı</string>
     <string name="mw_profiler_no_storage_toast">Harici depolama alanı hazır olmadığı için profiler başlatılamıyor</string>
@@ -1285,8 +1335,11 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Saati ayarla</string>
     <string name="mw_video_buffering_percent">Arabelleğe alınıyor</string>
+    <string name="mw_video_download_no_permission">İndirme izni yok</string>
+    <string name="mw_video_float_drag_scale_msg">Ölçeklemek için sürükleyin</string>
     <string name="mw_video_float_window">Açılır pencere</string>
     <string name="mw_video_float_window_playing">Video oynatılıyor</string>
+    <string name="mw_video_open_float_window_permission_prompt">Lütfen kayan pencere iznini açın</string>
     <string name="mw_video_play_error">Video oynatılamadı</string>
     <string name="mw_webview_find_on_page">Sayfada bulun</string>
     <string name="mw_webviewchromium_private_browsing_warning">Bu işlev Androidin bu sürümünde desteklenmiyor</string>
@@ -1296,11 +1349,15 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="nav_bottom_bar_close_description">Kapat</string>
     <string name="nav_bottom_bar_new_tab">Yeni sekme</string>
     <string name="nav_close_index_tab">%d öğeyi sil</string>
+    <string name="nav_hint_sub_title">İnternete göz atmak için lütfen yeni bir pencere ekleyin</string>
+    <string name="nav_hint_title">Açık pencere yok</string>
+    <string name="nav_incognito_hint_msg">Gizli mod göz atma geçmişinizi, internet sitesi verilerinizi ve formda doldurulan bilgileri kaydetmez</string>
+    <string name="nav_incognito_hint_sub_title">Gizli olarak göz atmak için lütfen yeni bir pencere ekleyin</string>
+    <string name="nav_incognito_hint_title">Gizli pencere yok</string>
     <string name="nav_launch_title">Tarayıcı aşağıdaki uygulamalarla açtığınız için sizi tanır</string>
     <string name="nav_lunch_duokan">Tarayıcı daha fazlasını görmeniz için açılıyor</string>
+    <string name="nav_recent_open_title">Yeni kapatılan</string>
     <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
-    <string name="nav_screen_incognito_message">Göz atma ve arama geçmişi gizli sekmede saklanmaz. İndirdiğiniz dosyaların ve eklediğiniz yer imlerinin yine de kaydedileceğini unutmayın</string>
-    <string name="nav_screen_incognito_title">Gizli sekme</string>
     <string name="navigate_feedback_dislike">İlgilenmiyorum</string>
     <string name="navigate_feedback_dislike_tips">Bu tür video önerilerini azaltacaktır</string>
     <string name="navigate_feedback_input_report_label">Diğer nedenler</string>
@@ -1315,10 +1372,40 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">İptal et</string>
     <string name="navigationbar_rightbutton_actiontext_go">Git</string>
     <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
+    <string name="network_blocked_connected_open_wifi">Açık ağa bağlanıldı</string>
+    <string name="network_connected_diagnosis_title">Ağ bağlantısı kontrolü</string>
+    <string name="network_diagnostics">Ağ tanılama</string>
     <string name="network_error_tips">Ağ hatası</string>
+    <string name="network_mobile_exception_detail">"Cihazınız internete bağlanamıyor:
+
+1. Mobil veri planınızın sınırını aşmadığınızdan emin olun
+
+2. Cihazınızın bakiyesini yeni tamamladıysanız cihazınızı yeniden başlatın ve tekrar deneyin
+
+3. Operatörünüzün ağ sinyali mevcut konumunuzda zayıf olabilir"</string>
     <string name="network_not_available_comment">İnternet bağlantısı yok</string>
+    <string name="network_not_connected">Ağ bağlı değil. Lütfen yerel ağ ayarlarını kontrol edin</string>
+    <string name="network_other_diagnosis_title">Diğer sorun tespiti</string>
+    <string name="network_route_exception_detail">"Bağlandığınız yönlendiricide bir sorun olabilir:
+
+"<b>1. Halka açık wifi ağı sorunları</b>"
+Herkese açık bir Wi-Fi ağına bağlıysanız o ağa bağlı kullanıcı sayısı onu yavaşlatıyor veya bağlantı sorunları yaratıyor olabilir. Başka bir ağa geçin ve tekrar deneyin
+
+"<b>2. İnternet servis sağlayıcı sorunları</b>"
+Hesabınızın İnternet servis sağlayıcınızda iyi durumda olduğundan emin olun
+
+"<b>3. Yönlendirici donanım sorunları</b>"
+Yönlendiricinizi yeniden başlatmayı veya yönlendiricinizin yönetici ayarlarını kontrol etmeyi deneyin
+
+"<b>4. Diğer yönlendirici sorunları</b>"
+Yönlendiricinizle birlikte gelen talimatları okuyun ve yönlendiricinizi fabrika ayarlarına geri yükleyin
+
+"<b>5. Yönlendiricinizin doğru şekilde bağlandığından emin olun</b>"
+Yönlendiricinizi bağlamak için başka bir Ethernet kablosu kullanmayı deneyin. Evinizdeki bağlantıyla ilgili bir sorun olduğundan şüpheleniyorsanız internet servis sağlayıcınıza başvurun"</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir wifi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Wifi ağı kullanılabilir</string>
+    <string name="networkchanged_diagnosis_title">Ağ değişikliği tespiti</string>
+    <string name="networkchanged_exception_message">Ağ bağlantısı değişti. Lütfen yeniden test edin</string>
     <string name="new_copy_address">Son kopyalanan bağlantı</string>
     <string name="new_copy_content">En son kopyalanan içerik</string>
     <string name="news_comment_error">Yükleme başarısız oldu</string>
@@ -1351,6 +1438,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="open_file_explorer_failed">Dosya gezgini açılamıyor</string>
     <string name="open_voice_permission">Mikrofonun internete bağlanmasına izin verin</string>
     <string name="open_xiangkan_view_all">Tam metni okumak için okumak istediğiniz uygulamayı açın</string>
+    <string name="other_exception_summary">Mevcut cep telefonunuz ağa bağlanamıyor. Çözümü kontrol etmeniz önerilir</string>
     <string name="page_hang_message">Geçerli sayfa takılmış ve tarayıcınızı yeniden başlatmanız gerekiyor</string>
     <string name="page_hang_title">Sayfa takılmış</string>
     <string name="page_info">Sayfa bilgileri</string>
@@ -1457,6 +1545,8 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_privacy_clear_passwords">Kayıtlı parolaları temizle</string>
     <string name="pref_privacy_clear_passwords_dlg">Tüm kayıtlı parolalar temizlensin mi?</string>
     <string name="pref_privacy_clear_passwords_summary">Kayıtlı parolaların tamamını temizle</string>
+    <string name="pref_privacy_clear_snapshot_dlg">Anlık görüntü temizlensin mi?</string>
+    <string name="pref_privacy_delete_history_dlg">Seçili geçmiş silinsin mi?</string>
     <string name="pref_privacy_enable_geolocation">Konum</string>
     <string name="pref_privacy_enable_geolocation_summary">Tarayıcının konumunuza erişimine izin verin</string>
     <string name="pref_privacy_policy">Gizlilik politikası</string>
@@ -1478,6 +1568,9 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_web_translation">Çeviri açılır penceresi</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor</string>
+    <string name="protocol_diagnosis_title">Ağ protokolü teşhisi</string>
+    <string name="protocol_loop_back_exception_summary">Yerel IP testi başarısız oldu. Geliştiricinin sorunu çözebilmesi için 1 dakika içinde kullanıcı geri bildiriminin gönderilmesi önerilir</string>
+    <string name="proxy_exception_summary">Bir proxy veya VPN kullandığınız tespit edildi. Lütfen kapatın ve tekrar deneyin</string>
     <string name="pull_refresh_begin">Yenilemek için aşağıya çekin</string>
     <string name="pull_refresh_end">Yenilemek için bırakın</string>
     <string name="pull_refresh_refreshing">Yenileniyor</string>
@@ -1511,13 +1604,17 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="remember_passwords_confirm_message">Bu özelliği kapatmak kullanılabilirliği etkileyebilir</string>
     <string name="remove_bookmark">Yer imini sil</string>
     <string name="remove_bookmark_group">Grubu sil</string>
+    <string name="remove_collect">Remove collect</string>
     <string name="remove_from_bookmarks">Yer imlerinden kaldırıldı</string>
     <string name="remove_history_item">Geçmişten kaldırıldı</string>
     <string name="remove_snapshot">Kayıtlı sayfayı sil</string>
     <string name="removed_from_bookmarks">Yer imlerinden kaldırıldı</string>
+    <string name="renew_ip">Tekrar IP alın</string>
     <string name="reopen">Aç</string>
+    <string name="repair">Onar</string>
     <string name="replace">Değiştir</string>
     <string name="reply_comment_title">Yanıt: %s</string>
+    <string name="request_receive_error">Sayfa hatası</string>
     <string name="retry_after_network_available">Ağa bağlanılamıyor</string>
     <string name="retry_download">Yeniden dene</string>
     <string name="return_to_homepage">Ana sayfaya geri dön</string>
@@ -1555,6 +1652,8 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Ara</string>
     <string name="search_history">Arama geçmişi</string>
+    <string name="search_home_page_book_mark_title">Yer işaretleri</string>
+    <string name="search_home_page_most_visit_title">Sık ziyaret edilenler</string>
     <string name="search_keyword_browser">Tarayıcı</string>
     <string name="search_label">Tarayıcı</string>
     <string name="search_menu_title">Ara</string>
@@ -1580,10 +1679,12 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="security_url_confirm_message">Bu özelliği kapatmak bazı güvenlik tehtidleri oluşturabilir</string>
     <string name="security_warning">Güvenlik uyarısı</string>
     <string name="security_warnings_confirm_message">Bu özelliği kapatmak bazı güvenlik tehtidleri oluşturabilir</string>
+    <string name="see_detail">Görünüm</string>
     <string name="select_dot">Metni seç</string>
     <string name="send_bookmark">Yer işareti</string>
     <string name="send_comment_button">Gönder</string>
     <string name="send_desktop">Ana ekran</string>
+    <string name="send_feedback">Geri bildirim</string>
     <string name="send_startpage">Başlangıç ​​sayfası</string>
     <string name="sequence_bookmark_description">Yer işaretlerini yeniden düzenlemek için basılı tutun</string>
     <string name="share_by_yidianzixun">[Bilgi]</string>
@@ -2167,6 +2268,13 @@ Hiçbir şey göstermiyor"</string>
     <string name="sync_cloud_tabs">Senkronizasyon</string>
     <string name="tabs_description">Sekmeler</string>
     <string name="tag_all_books">Tüm</string>
+    <string name="target_website_connect_success">Hedef sayfa normal bir şekilde bağlandı. Lütfen geri dönün ve sayfayı yenilemeyi deneyin</string>
+    <string name="target_website_diagnosis_title">Hedef sayfa kontrolü</string>
+    <string name="target_website_dns_error">Hedef internet sunucusuyla bağlantı kurulamıyor</string>
+    <string name="target_website_domain_input_error">Giriş alan adı çözülemiyor. Lütfen geri dönüp değiştirmeyi deneyin</string>
+    <string name="target_website_domain_parse_error">Giriş alan adı çözülemiyor. Lütfen geri dönüp değiştirmeyi deneyin</string>
+    <string name="target_website_not_found_error">Hedef sayfaya erişilemiyor. Hedef sayfa bağlantısının yanlış girilip girilmediğini kontrol etmek için geri dönün</string>
+    <string name="target_website_path_error">Hedef sayfa yolu yanlış. Lütfen geri dönün ve tekrar deneyin</string>
     <string name="temp_refuse">Hayır</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
@@ -2247,6 +2355,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="tt_label_ok">Tamam</string>
     <string name="tt_no_network">Ağ yok. Lütfen daha sonra tekrar deneyin</string>
     <string name="tt_permission_denied">Yetki yok. Lütfen yetkilendirin</string>
+    <string name="tt_playable_btn_play">Şimdi deneyimle</string>
     <string name="tt_request_permission_descript_external_storage">Depolama</string>
     <string name="tt_request_permission_descript_location">Konum</string>
     <string name="tt_request_permission_descript_read_phone_state">Bir arama yap</string>
@@ -2302,11 +2411,9 @@ Hiçbir şey göstermiyor"</string>
     <string name="video_download_empty">Video yok</string>
     <string name="video_download_error">Hata</string>
     <string name="video_download_error_http_gone">Dosya bulunamadı</string>
-    <string name="video_download_exists">Dosya zaten mevcut</string>
     <string name="video_download_failed">İndirilemedi</string>
     <string name="video_download_finding_address">İndirme adresi alınıyor</string>
     <string name="video_download_pause">Duraklatıldı</string>
-    <string name="video_download_start">İndiriliyor</string>
     <string name="video_download_unknown_name">Bilinmeyen isim</string>
     <string name="video_download_unknown_size">Boyut bilinmiyor</string>
     <string name="video_download_unsupport">Desteklenmiyor</string>
@@ -2451,11 +2558,46 @@ feedsContentId:
     <string name="web_translation_non_en_toast">Lütfen ingilizce sayfasında bu işlevi kullanın</string>
     <string name="web_translation_pop_text">İnternet sayfası çeviri araç kutusunda kullanılabilir</string>
     <string name="web_translation_tip">Çeviri açılır pencere gelişmiş ayarlardan kapatılabilir</string>
+    <string name="web_video_accelerate">Çift hız</string>
+    <string name="web_video_default_time">00:00</string>
+    <string name="web_video_download">İndir</string>
+    <string name="web_video_download_check">Görüntülemek için tıklayın</string>
+    <string name="web_video_download_complete">İndirme tamamlandı</string>
+    <string name="web_video_download_exist">Video indirildi</string>
+    <string name="web_video_download_no_access">İndirme izni yok</string>
+    <string name="web_video_download_start">Videoyu indirmeye başla</string>
+    <string name="web_video_milink_layout_change">Değiştir</string>
+    <string name="web_video_milink_layout_connected">Yayınla</string>
+    <string name="web_video_milink_layout_error">Bağlantı başarısız oldu</string>
+    <string name="web_video_milink_layout_error_retry">Yeniden dene</string>
+    <string name="web_video_milink_layout_exit">Ekran video kaydından çık</string>
+    <string name="web_video_milink_layout_loading">Bağlanıyor</string>
+    <string name="web_video_milink_wifi_no_device_title">Ekran video kaydı cihazı bulunamadı</string>
+    <string name="web_video_milink_wifi_no_wifi_content">Lütfen ekran özellikli cihaz ile cep telefonunun aynı wifi ağı altında bağlı olup olmadığını kontrol edin</string>
+    <string name="web_video_milink_wifi_no_wifi_name">未开启</string>
+    <string name="web_video_milink_wifi_no_wifi_setting">Wifi ağını kur</string>
+    <string name="web_video_milink_wifi_no_wifi_title">WIFI ağı açık değil</string>
+    <string name="web_video_milink_wifi_refresh">Ekran video kaydı cihazları aranıyor</string>
+    <string name="web_video_milink_wifi_title">Mevcut wifi:</string>
+    <string name="web_video_more_collect">Favoriler</string>
+    <string name="web_video_more_collect_over">Yer işaretlerine eklendi</string>
+    <string name="web_video_more_collected">Yer işareti zaten var</string>
+    <string name="web_video_more_copy_link">Bağlantıyı kopyala</string>
+    <string name="web_video_more_copy_link_over">Bağlantı kopyalandı</string>
+    <string name="web_video_more_feedback">Geri bildirim</string>
+    <string name="web_video_more_share">Paylaş</string>
+    <string name="web_video_more_share_moment">Arkadaş çevresi</string>
+    <string name="web_video_more_share_other">Daha fazla</string>
+    <string name="web_video_more_share_qq">QQ</string>
+    <string name="web_video_more_share_wechat">WeChat</string>
+    <string name="web_video_more_share_weibo">Weibo</string>
     <string name="webpage_title">Yer imleri &amp; geçmiş</string>
     <string name="wechat_not_installed">Wechat yüklü değil</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
+    <string name="wifi_diagnosis_title">Wifi bağlantısı algıla</string>
+    <string name="wifi_exception_message">Kullanılabilir wifi ağlarını test edin</string>
     <string name="xiaomi_download_game">Şimdi indir</string>
     <string name="xiaomi_download_game_now">Şimdi oyna</string>
     <string name="xiaomi_game_check_reserve">Görüntüle</string>
@@ -2464,6 +2606,7 @@ feedsContentId:
     <string name="xiaomi_game_publish">İnternet üzerinden</string>
     <string name="xiaomi_game_reserve_count">"%s'den fazla kişi rezerve etti"</string>
     <string name="xiaomi_game_reserve_now">Hemen rezerve et</string>
+    <string name="xiaomi_game_reserve_suc">Randevu başarılı oldu</string>
     <string name="xiaomi_game_reserve_success">Başarılı oldu. Çevrimiçi olduktan hemen sonra yükleyin</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
@@ -2472,5 +2615,4 @@ feedsContentId:
     <string name="xiaomi_recommend_games">Önerilen oyunlar</string>
     <string name="xiaomi_reserve_game">Rezervasyon</string>
     <string name="yesterday">Dün</string>
-    <string name="pref_content_javascript">"JavaScript'i etkinleştir"</string>
 </resources>
