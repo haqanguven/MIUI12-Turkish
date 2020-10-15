@@ -1084,6 +1084,8 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_show_reject_agenda">Reddedilen etkinlikleri göster</string>
     <string name="setting_sms_import">Mesaj etkinliklerini içe aktar</string>
     <string name="setting_title_about">Hakkında</string>
+    <string name="setting_title_ai_time_parser">Program zamanının akıllıca çıkarılması</string>
+    <string name="setting_title_ai_time_parser_summary">Oluşturma programının başlığındaki zamanı akıllıca çıkarın ve ayarlayın</string>
     <string name="setting_title_debug">Günlüğü dışa aktar</string>
     <string name="setting_title_holiday_display">Tatilleri göster</string>
     <string name="setting_title_import_todo">Görevleri içe aktar</string>
