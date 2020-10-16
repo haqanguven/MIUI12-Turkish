@@ -1,2 +1,2 @@
 # MIUITR Team
-# Beta Rom's
+# https://forum.miuitr.info/
