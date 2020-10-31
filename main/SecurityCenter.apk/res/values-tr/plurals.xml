@@ -81,8 +81,8 @@
         <item quantity="one">%d yıl önce kullanıldı</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">Uygulama kilidini %1$s uygulamalarıyla kullanabilirsiniz</item>
-        <item quantity="one">Uygulama kilidini %1$s uygulamalarıyla kullanabilirsiniz</item>
+        <item quantity="other">%1$s uygulamalarla uygulama kilidini kullanabilirsiniz</item>
+        <item quantity="one">%1$s uygulamalarla uygulama kilidini kullanabilirsiniz</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>

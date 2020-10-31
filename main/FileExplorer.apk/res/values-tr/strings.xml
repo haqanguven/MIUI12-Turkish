@@ -99,7 +99,7 @@
     <string name="copy">Kopyala</string>
     <string name="copy_failed">Kopyalanamadı</string>
     <string name="copy_to">Şuraya kopyala</string>
-    <string name="create_folder">Oluştur</string>
+    <string name="create_folder">Yeni klasör oluştur</string>
     <string name="create_shortcut_success">Kısayol başarıyla eklendi</string>
     <string name="data_consumption_cancel">Çıkış</string>
     <string name="data_consumption_checkbox_hint">Tekrar gösterme</string>
@@ -467,8 +467,8 @@
     <string name="tab_more">Daha fazla</string>
     <string name="tab_source">Uygulamalar</string>
     <string name="terabyteShort">TB</string>
-    <string name="text_select_all">Tümünü seç</string>
-    <string name="text_select_nothing">Hiçbirini seçme</string>
+    <string name="text_select_all">Tümü</string>
+    <string name="text_select_nothing">Hiçbiri</string>
     <string name="tip">Uyarı</string>
     <string name="title_app_tags">Uygulamalar</string>
     <string name="title_expire_video">Süresi dolmak üzere</string>
